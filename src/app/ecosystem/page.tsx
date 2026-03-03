@@ -81,6 +81,12 @@ export default function EcosystemPage() {
         <p className="text-sm text-muted-foreground">
           Compare Milady trust with Eliza lifetime signals and a composite Eliza Effect score.
         </p>
+        <Link
+          href="/ecosystem/graph"
+          className="inline-flex items-center gap-1.5 rounded-full border border-violet-300/40 bg-violet-500/10 px-3 py-1 text-xs text-violet-400 hover:bg-violet-500/20 transition-colors"
+        >
+          View as Ecosystem Graph →
+        </Link>
       </header>
 
       <section className="grid grid-cols-2 gap-3 sm:grid-cols-4">

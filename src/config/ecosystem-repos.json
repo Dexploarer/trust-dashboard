@@ -1,5 +1,5 @@
 {
-  "version": "1.0",
+  "version": "1.1",
   "trackedRepos": [
     {
       "owner": "milady-ai",
@@ -24,6 +24,54 @@
       "repo": "elizaos.github.io",
       "label": "Eliza Leaderboard Site",
       "includeInEcosystemFactor": true
+    },
+    {
+      "owner": "elizaOS",
+      "repo": "characterfile",
+      "label": "Character File Spec",
+      "includeInEcosystemFactor": true
+    },
+    {
+      "owner": "elizaOS",
+      "repo": "eliza-starter",
+      "label": "Eliza Starter",
+      "includeInEcosystemFactor": true
+    },
+    {
+      "owner": "elizaOS",
+      "repo": "knowledge",
+      "label": "Ecosystem Knowledge",
+      "includeInEcosystemFactor": true
+    },
+    {
+      "owner": "elizaOS",
+      "repo": "spartan",
+      "label": "Spartan Trading Agent",
+      "includeInEcosystemFactor": false
+    },
+    {
+      "owner": "elizaOS",
+      "repo": "the-org",
+      "label": "The Org",
+      "includeInEcosystemFactor": false
+    },
+    {
+      "owner": "elizaOS",
+      "repo": "agentbrowser",
+      "label": "Agent Browser",
+      "includeInEcosystemFactor": false
+    },
+    {
+      "owner": "elizaOS",
+      "repo": "mcp-gateway",
+      "label": "MCP Gateway",
+      "includeInEcosystemFactor": false
+    },
+    {
+      "owner": "elizaOS",
+      "repo": "discord-summarizer",
+      "label": "Discord Summarizer",
+      "includeInEcosystemFactor": false
     }
   ]
 }
