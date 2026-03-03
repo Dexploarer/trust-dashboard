@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-02-22T08:43:16.298Z",
+  "generatedAt": "2026-03-03T19:50:51.725Z",
   "source": "milady-ai/trust-dashboard",
   "username": "0xCardiE",
   "profile": {
@@ -11,7 +11,7 @@
     "eliza": {
       "lifetimeScore": 193.4929,
       "lifetimeRank": 88,
-      "lifetimePercentile": 0.940897,
+      "lifetimePercentile": 0.940977,
       "weeklyRank": null,
       "monthlyRank": null,
       "characterClass": "Builder",
@@ -60,18 +60,18 @@
         "wallets": {}
       }
     },
-    "ecosystemFactor": 0.79509,
+    "ecosystemFactor": 0.730846,
     "elizaEffect": {
       "miladyNorm": 0,
-      "elizaLifetimePercentile": 0.940897,
-      "ecosystemNorm": 0.79509,
+      "elizaLifetimePercentile": 0.940977,
+      "ecosystemNorm": 0.730846,
       "weights": {
         "milady": 0.45,
         "eliza": 0.35,
         "ecosystem": 0.2
       },
-      "effectNorm": 0.488332,
-      "effectScore": 48.8332
+      "effectNorm": 0.475511,
+      "effectScore": 47.5511
     }
   }
 }

@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-02-22T08:43:16.298Z",
+  "generatedAt": "2026-03-03T19:50:51.725Z",
   "source": "milady-ai/trust-dashboard",
   "username": "YuriNachos",
   "profile": {
@@ -11,7 +11,7 @@
     "eliza": {
       "lifetimeScore": 249.1844,
       "lifetimeRank": 64,
-      "lifetimePercentile": 0.957201,
+      "lifetimePercentile": 0.957259,
       "weeklyRank": null,
       "monthlyRank": null,
       "characterClass": "Builder",
@@ -53,18 +53,18 @@
         "wallets": {}
       }
     },
-    "ecosystemFactor": 0.807616,
+    "ecosystemFactor": 0.743361,
     "elizaEffect": {
       "miladyNorm": 0,
-      "elizaLifetimePercentile": 0.957201,
-      "ecosystemNorm": 0.807616,
+      "elizaLifetimePercentile": 0.957259,
+      "ecosystemNorm": 0.743361,
       "weights": {
         "milady": 0.45,
         "eliza": 0.35,
         "ecosystem": 0.2
       },
-      "effectNorm": 0.496544,
-      "effectScore": 49.6544
+      "effectNorm": 0.483713,
+      "effectScore": 48.3713
     }
   }
 }

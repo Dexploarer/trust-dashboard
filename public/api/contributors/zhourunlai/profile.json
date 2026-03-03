@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-02-22T08:43:16.298Z",
+  "generatedAt": "2026-03-03T19:50:51.725Z",
   "source": "milady-ai/trust-dashboard",
   "username": "zhourunlai",
   "profile": {
@@ -11,7 +11,7 @@
     "eliza": {
       "lifetimeScore": 264.215,
       "lifetimeRank": 62,
-      "lifetimePercentile": 0.95856,
+      "lifetimePercentile": 0.958616,
       "weeklyRank": null,
       "monthlyRank": null,
       "characterClass": "Builder",
@@ -60,18 +60,18 @@
         "wallets": {}
       }
     },
-    "ecosystemFactor": 0.807944,
+    "ecosystemFactor": 0.743687,
     "elizaEffect": {
       "miladyNorm": 0,
-      "elizaLifetimePercentile": 0.95856,
-      "ecosystemNorm": 0.807944,
+      "elizaLifetimePercentile": 0.958616,
+      "ecosystemNorm": 0.743687,
       "weights": {
         "milady": 0.45,
         "eliza": 0.35,
         "ecosystem": 0.2
       },
-      "effectNorm": 0.497085,
-      "effectScore": 49.7085
+      "effectNorm": 0.484253,
+      "effectScore": 48.4253
     }
   }
 }

@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-02-22T08:43:16.298Z",
+  "generatedAt": "2026-03-03T19:50:51.725Z",
   "source": "milady-ai/trust-dashboard",
   "username": "cygaar",
   "profile": {
@@ -11,7 +11,7 @@
     "eliza": {
       "lifetimeScore": 1226.6489,
       "lifetimeRank": 16,
-      "lifetimePercentile": 0.98981,
+      "lifetimePercentile": 0.989824,
       "weeklyRank": null,
       "monthlyRank": null,
       "characterClass": "Builder",
@@ -65,18 +65,18 @@
         "wallets": {}
       }
     },
-    "ecosystemFactor": 0.819373,
+    "ecosystemFactor": 0.755094,
     "elizaEffect": {
       "miladyNorm": 0,
-      "elizaLifetimePercentile": 0.98981,
-      "ecosystemNorm": 0.819373,
+      "elizaLifetimePercentile": 0.989824,
+      "ecosystemNorm": 0.755094,
       "weights": {
         "milady": 0.45,
         "eliza": 0.35,
         "ecosystem": 0.2
       },
-      "effectNorm": 0.510308,
-      "effectScore": 51.0308
+      "effectNorm": 0.497457,
+      "effectScore": 49.7457
     }
   }
 }

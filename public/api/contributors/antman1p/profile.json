@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-02-22T08:43:16.298Z",
+  "generatedAt": "2026-03-03T19:50:51.725Z",
   "source": "milady-ai/trust-dashboard",
   "username": "antman1p",
   "profile": {
@@ -11,7 +11,7 @@
     "eliza": {
       "lifetimeScore": 230.9787,
       "lifetimeRank": 70,
-      "lifetimePercentile": 0.953125,
+      "lifetimePercentile": 0.953189,
       "weeklyRank": null,
       "monthlyRank": null,
       "characterClass": "Builder",
@@ -60,18 +60,18 @@
         "wallets": {}
       }
     },
-    "ecosystemFactor": 0.791039,
+    "ecosystemFactor": 0.726787,
     "elizaEffect": {
       "miladyNorm": 0,
-      "elizaLifetimePercentile": 0.953125,
-      "ecosystemNorm": 0.791039,
+      "elizaLifetimePercentile": 0.953189,
+      "ecosystemNorm": 0.726787,
       "weights": {
         "milady": 0.45,
         "eliza": 0.35,
         "ecosystem": 0.2
       },
-      "effectNorm": 0.491802,
-      "effectScore": 49.1802
+      "effectNorm": 0.478973,
+      "effectScore": 47.8973
     }
   }
 }

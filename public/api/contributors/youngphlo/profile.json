@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-02-22T08:43:16.298Z",
+  "generatedAt": "2026-03-03T19:50:51.725Z",
   "source": "milady-ai/trust-dashboard",
   "username": "YoungPhlo",
   "profile": {
@@ -11,7 +11,7 @@
     "eliza": {
       "lifetimeScore": 652.8739,
       "lifetimeRank": 27,
-      "lifetimePercentile": 0.982337,
+      "lifetimePercentile": 0.982361,
       "weeklyRank": null,
       "monthlyRank": null,
       "characterClass": "Scribe",
@@ -33,14 +33,14 @@
             "score": 111,
             "percentage": 78.05907172995781,
             "rank": 31,
-            "totalInArea": 580
+            "totalInArea": 581
           },
           {
             "tag": "docs-writer",
             "score": 19.199999999999996,
             "percentage": 13.502109704641349,
             "rank": 1,
-            "totalInArea": 115
+            "totalInArea": 116
           },
           {
             "tag": "typescript",
@@ -60,18 +60,18 @@
         "wallets": {}
       }
     },
-    "ecosystemFactor": 0.817458,
+    "ecosystemFactor": 0.753185,
     "elizaEffect": {
       "miladyNorm": 0,
-      "elizaLifetimePercentile": 0.982337,
-      "ecosystemNorm": 0.817458,
+      "elizaLifetimePercentile": 0.982361,
+      "ecosystemNorm": 0.753185,
       "weights": {
         "milady": 0.45,
         "eliza": 0.35,
         "ecosystem": 0.2
       },
-      "effectNorm": 0.507309,
-      "effectScore": 50.7309
+      "effectNorm": 0.494463,
+      "effectScore": 49.4463
     }
   }
 }

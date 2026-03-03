@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-02-22T08:43:16.298Z",
+  "generatedAt": "2026-03-03T19:50:51.725Z",
   "source": "milady-ai/trust-dashboard",
   "username": "samarth30",
   "profile": {
@@ -11,9 +11,9 @@
     "eliza": {
       "lifetimeScore": 782.9958,
       "lifetimeRank": 22,
-      "lifetimePercentile": 0.985734,
-      "weeklyRank": 11,
-      "monthlyRank": 27,
+      "lifetimePercentile": 0.985753,
+      "weeklyRank": null,
+      "monthlyRank": 29,
       "characterClass": "Builder",
       "tier": "veteran",
       "entry": {
@@ -70,18 +70,18 @@
         "wallets": {}
       }
     },
-    "ecosystemFactor": 0.808629,
+    "ecosystemFactor": 0.744354,
     "elizaEffect": {
       "miladyNorm": 0,
-      "elizaLifetimePercentile": 0.985734,
-      "ecosystemNorm": 0.808629,
+      "elizaLifetimePercentile": 0.985753,
+      "ecosystemNorm": 0.744354,
       "weights": {
         "milady": 0.45,
         "eliza": 0.35,
         "ecosystem": 0.2
       },
-      "effectNorm": 0.506733,
-      "effectScore": 50.6733
+      "effectNorm": 0.493884,
+      "effectScore": 49.3884
     }
   }
 }

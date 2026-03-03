@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-02-22T08:43:16.298Z",
+  "generatedAt": "2026-03-03T19:50:51.725Z",
   "source": "milady-ai/trust-dashboard",
   "username": "shakkernerd",
   "profile": {
@@ -11,7 +11,7 @@
     "eliza": {
       "lifetimeScore": 3817.4773,
       "lifetimeRank": 10,
-      "lifetimePercentile": 0.993886,
+      "lifetimePercentile": 0.993894,
       "weeklyRank": null,
       "monthlyRank": null,
       "characterClass": "Maintainer",
@@ -78,18 +78,18 @@
         }
       }
     },
-    "ecosystemFactor": 0.800176,
+    "ecosystemFactor": 0.735895,
     "elizaEffect": {
       "miladyNorm": 0,
-      "elizaLifetimePercentile": 0.993886,
-      "ecosystemNorm": 0.800176,
+      "elizaLifetimePercentile": 0.993894,
+      "ecosystemNorm": 0.735895,
       "weights": {
         "milady": 0.45,
         "eliza": 0.35,
         "ecosystem": 0.2
       },
-      "effectNorm": 0.507895,
-      "effectScore": 50.7895
+      "effectNorm": 0.495042,
+      "effectScore": 49.5042
     }
   }
 }

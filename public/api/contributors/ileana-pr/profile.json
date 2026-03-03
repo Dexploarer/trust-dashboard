@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-02-22T08:43:16.298Z",
+  "generatedAt": "2026-03-03T19:50:51.725Z",
   "source": "milady-ai/trust-dashboard",
   "username": "ileana-pr",
   "profile": {
@@ -11,7 +11,7 @@
     "eliza": {
       "lifetimeScore": 320.4681,
       "lifetimeRank": 51,
-      "lifetimePercentile": 0.966033,
+      "lifetimePercentile": 0.966079,
       "weeklyRank": null,
       "monthlyRank": null,
       "characterClass": "Scribe",
@@ -33,7 +33,7 @@
             "score": 139.5,
             "percentage": 79.44191343963554,
             "rank": 24,
-            "totalInArea": 580
+            "totalInArea": 581
           },
           {
             "tag": "typescript",
@@ -47,7 +47,7 @@
             "score": 6,
             "percentage": 3.416856492027335,
             "rank": 4,
-            "totalInArea": 115
+            "totalInArea": 116
           }
         ],
         "achievements": [
@@ -60,18 +60,18 @@
         "wallets": {}
       }
     },
-    "ecosystemFactor": 0.805221,
+    "ecosystemFactor": 0.740959,
     "elizaEffect": {
       "miladyNorm": 0,
-      "elizaLifetimePercentile": 0.966033,
-      "ecosystemNorm": 0.805221,
+      "elizaLifetimePercentile": 0.966079,
+      "ecosystemNorm": 0.740959,
       "weights": {
         "milady": 0.45,
         "eliza": 0.35,
         "ecosystem": 0.2
       },
-      "effectNorm": 0.499156,
-      "effectScore": 49.9156
+      "effectNorm": 0.486319,
+      "effectScore": 48.6319
     }
   }
 }

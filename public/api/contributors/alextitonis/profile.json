@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-02-22T08:43:16.298Z",
+  "generatedAt": "2026-03-03T19:50:51.725Z",
   "source": "milady-ai/trust-dashboard",
   "username": "alextitonis",
   "profile": {
@@ -11,7 +11,7 @@
     "eliza": {
       "lifetimeScore": 222.6555,
       "lifetimeRank": 74,
-      "lifetimePercentile": 0.950408,
+      "lifetimePercentile": 0.950475,
       "weeklyRank": null,
       "monthlyRank": null,
       "characterClass": "Builder",
@@ -56,18 +56,18 @@
         }
       }
     },
-    "ecosystemFactor": 0.80335,
+    "ecosystemFactor": 0.739099,
     "elizaEffect": {
       "miladyNorm": 0,
-      "elizaLifetimePercentile": 0.950408,
-      "ecosystemNorm": 0.80335,
+      "elizaLifetimePercentile": 0.950475,
+      "ecosystemNorm": 0.739099,
       "weights": {
         "milady": 0.45,
         "eliza": 0.35,
         "ecosystem": 0.2
       },
-      "effectNorm": 0.493313,
-      "effectScore": 49.3313
+      "effectNorm": 0.480486,
+      "effectScore": 48.0486
     }
   }
 }

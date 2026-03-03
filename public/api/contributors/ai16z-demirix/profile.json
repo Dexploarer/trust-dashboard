@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-02-22T08:43:16.298Z",
+  "generatedAt": "2026-03-03T19:50:51.725Z",
   "source": "milady-ai/trust-dashboard",
   "username": "ai16z-demirix",
   "profile": {
@@ -11,7 +11,7 @@
     "eliza": {
       "lifetimeScore": 3177.3724,
       "lifetimeRank": 12,
-      "lifetimePercentile": 0.992527,
+      "lifetimePercentile": 0.992537,
       "weeklyRank": null,
       "monthlyRank": null,
       "characterClass": "Builder",
@@ -80,18 +80,18 @@
         "wallets": {}
       }
     },
-    "ecosystemFactor": 0.817756,
+    "ecosystemFactor": 0.753475,
     "elizaEffect": {
       "miladyNorm": 0,
-      "elizaLifetimePercentile": 0.992527,
-      "ecosystemNorm": 0.817756,
+      "elizaLifetimePercentile": 0.992537,
+      "ecosystemNorm": 0.753475,
       "weights": {
         "milady": 0.45,
         "eliza": 0.35,
         "ecosystem": 0.2
       },
-      "effectNorm": 0.510936,
-      "effectScore": 51.0936
+      "effectNorm": 0.498083,
+      "effectScore": 49.8083
     }
   }
 }

@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-02-22T08:43:16.298Z",
+  "generatedAt": "2026-03-03T19:50:51.725Z",
   "source": "milady-ai/trust-dashboard",
   "username": "hellopleasures",
   "profile": {
@@ -8,14 +8,14 @@
     "canonicalUsername": "hellopleasures",
     "avatarUrl": "https://avatars.githubusercontent.com/u/99759672?v=4",
     "milady": {
-      "trustScore": 56.38,
-      "rank": 4,
-      "tier": "contributing"
+      "trustScore": 0,
+      "rank": 39,
+      "tier": "restricted"
     },
     "eliza": {
       "lifetimeScore": 193.9551,
       "lifetimeRank": 87,
-      "lifetimePercentile": 0.941576,
+      "lifetimePercentile": 0.941655,
       "weeklyRank": null,
       "monthlyRank": null,
       "characterClass": "Builder",
@@ -57,18 +57,18 @@
         "wallets": {}
       }
     },
-    "ecosystemFactor": 0.794721,
+    "ecosystemFactor": 0.730477,
     "elizaEffect": {
-      "miladyNorm": 0.5638,
-      "elizaLifetimePercentile": 0.941576,
-      "ecosystemNorm": 0.794721,
+      "miladyNorm": 0,
+      "elizaLifetimePercentile": 0.941655,
+      "ecosystemNorm": 0.730477,
       "weights": {
         "milady": 0.45,
         "eliza": 0.35,
         "ecosystem": 0.2
       },
-      "effectNorm": 0.742206,
-      "effectScore": 74.2206
+      "effectNorm": 0.475675,
+      "effectScore": 47.5675
     }
   }
 }

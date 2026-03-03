@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-02-22T08:43:16.298Z",
+  "generatedAt": "2026-03-03T19:50:51.725Z",
   "source": "milady-ai/trust-dashboard",
   "username": "K1mc4n",
   "profile": {
@@ -11,7 +11,7 @@
     "eliza": {
       "lifetimeScore": 307.5679,
       "lifetimeRank": 54,
-      "lifetimePercentile": 0.963995,
+      "lifetimePercentile": 0.964043,
       "weeklyRank": null,
       "monthlyRank": null,
       "characterClass": "Scribe",
@@ -33,7 +33,7 @@
             "score": 208.5,
             "percentage": 65.56603773584906,
             "rank": 12,
-            "totalInArea": 580
+            "totalInArea": 581
           },
           {
             "tag": "api",
@@ -53,18 +53,18 @@
         "wallets": {}
       }
     },
-    "ecosystemFactor": 0.807272,
+    "ecosystemFactor": 0.743011,
     "elizaEffect": {
       "miladyNorm": 0,
-      "elizaLifetimePercentile": 0.963995,
-      "ecosystemNorm": 0.807272,
+      "elizaLifetimePercentile": 0.964043,
+      "ecosystemNorm": 0.743011,
       "weights": {
         "milady": 0.45,
         "eliza": 0.35,
         "ecosystem": 0.2
       },
-      "effectNorm": 0.498852,
-      "effectScore": 49.8852
+      "effectNorm": 0.486017,
+      "effectScore": 48.6017
     }
   }
 }

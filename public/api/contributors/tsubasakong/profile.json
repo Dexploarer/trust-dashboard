@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-02-22T08:43:16.298Z",
+  "generatedAt": "2026-03-03T19:50:51.725Z",
   "source": "milady-ai/trust-dashboard",
   "username": "tsubasakong",
   "profile": {
@@ -11,7 +11,7 @@
     "eliza": {
       "lifetimeScore": 278.3327,
       "lifetimeRank": 59,
-      "lifetimePercentile": 0.960598,
+      "lifetimePercentile": 0.960651,
       "weeklyRank": null,
       "monthlyRank": null,
       "characterClass": "Builder",
@@ -60,18 +60,18 @@
         "wallets": {}
       }
     },
-    "ecosystemFactor": 0.798819,
+    "ecosystemFactor": 0.734561,
     "elizaEffect": {
       "miladyNorm": 0,
-      "elizaLifetimePercentile": 0.960598,
-      "ecosystemNorm": 0.798819,
+      "elizaLifetimePercentile": 0.960651,
+      "ecosystemNorm": 0.734561,
       "weights": {
         "milady": 0.45,
         "eliza": 0.35,
         "ecosystem": 0.2
       },
-      "effectNorm": 0.495973,
-      "effectScore": 49.5973
+      "effectNorm": 0.48314,
+      "effectScore": 48.314
     }
   }
 }

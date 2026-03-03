@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-02-22T08:43:16.298Z",
+  "generatedAt": "2026-03-03T19:50:51.725Z",
   "source": "milady-ai/trust-dashboard",
   "username": "IkigaiLabsETH",
   "profile": {
@@ -11,7 +11,7 @@
     "eliza": {
       "lifetimeScore": 167.5811,
       "lifetimeRank": 100,
-      "lifetimePercentile": 0.932745,
+      "lifetimePercentile": 0.932836,
       "weeklyRank": null,
       "monthlyRank": null,
       "characterClass": "Builder",
@@ -33,7 +33,7 @@
             "score": 156,
             "percentage": 34.5821325648415,
             "rank": 19,
-            "totalInArea": 580
+            "totalInArea": 581
           },
           {
             "tag": "typescript",
@@ -53,18 +53,18 @@
         "wallets": {}
       }
     },
-    "ecosystemFactor": 0.795027,
+    "ecosystemFactor": 0.730789,
     "elizaEffect": {
       "miladyNorm": 0,
-      "elizaLifetimePercentile": 0.932745,
-      "ecosystemNorm": 0.795027,
+      "elizaLifetimePercentile": 0.932836,
+      "ecosystemNorm": 0.730789,
       "weights": {
         "milady": 0.45,
         "eliza": 0.35,
         "ecosystem": 0.2
       },
-      "effectNorm": 0.485466,
-      "effectScore": 48.5466
+      "effectNorm": 0.47265,
+      "effectScore": 47.265
     }
   }
 }

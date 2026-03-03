@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-02-22T08:43:16.298Z",
+  "generatedAt": "2026-03-03T19:50:51.725Z",
   "source": "milady-ai/trust-dashboard",
   "username": "eternal-ai-org",
   "profile": {
@@ -11,7 +11,7 @@
     "eliza": {
       "lifetimeScore": 218.7339,
       "lifetimeRank": 77,
-      "lifetimePercentile": 0.94837,
+      "lifetimePercentile": 0.94844,
       "weeklyRank": null,
       "monthlyRank": null,
       "characterClass": "Builder",
@@ -60,18 +60,18 @@
         "wallets": {}
       }
     },
-    "ecosystemFactor": 0.80136,
+    "ecosystemFactor": 0.737111,
     "elizaEffect": {
       "miladyNorm": 0,
-      "elizaLifetimePercentile": 0.94837,
-      "ecosystemNorm": 0.80136,
+      "elizaLifetimePercentile": 0.94844,
+      "ecosystemNorm": 0.737111,
       "weights": {
         "milady": 0.45,
         "eliza": 0.35,
         "ecosystem": 0.2
       },
-      "effectNorm": 0.492201,
-      "effectScore": 49.2201
+      "effectNorm": 0.479376,
+      "effectScore": 47.9376
     }
   }
 }

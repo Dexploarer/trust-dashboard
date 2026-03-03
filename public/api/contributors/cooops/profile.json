@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-02-22T08:43:16.298Z",
+  "generatedAt": "2026-03-03T19:50:51.725Z",
   "source": "milady-ai/trust-dashboard",
   "username": "Cooops",
   "profile": {
@@ -11,7 +11,7 @@
     "eliza": {
       "lifetimeScore": 206.9679,
       "lifetimeRank": 80,
-      "lifetimePercentile": 0.946332,
+      "lifetimePercentile": 0.946404,
       "weeklyRank": null,
       "monthlyRank": null,
       "characterClass": "Builder",
@@ -53,18 +53,18 @@
         "wallets": {}
       }
     },
-    "ecosystemFactor": 0.801567,
+    "ecosystemFactor": 0.737319,
     "elizaEffect": {
       "miladyNorm": 0,
-      "elizaLifetimePercentile": 0.946332,
-      "ecosystemNorm": 0.801567,
+      "elizaLifetimePercentile": 0.946404,
+      "ecosystemNorm": 0.737319,
       "weights": {
         "milady": 0.45,
         "eliza": 0.35,
         "ecosystem": 0.2
       },
-      "effectNorm": 0.491529,
-      "effectScore": 49.1529
+      "effectNorm": 0.478705,
+      "effectScore": 47.8705
     }
   }
 }

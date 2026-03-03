@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-02-22T08:43:16.298Z",
+  "generatedAt": "2026-03-03T19:50:51.725Z",
   "source": "milady-ai/trust-dashboard",
   "username": "oxSaturn",
   "profile": {
@@ -11,7 +11,7 @@
     "eliza": {
       "lifetimeScore": 576.9695,
       "lifetimeRank": 32,
-      "lifetimePercentile": 0.97894,
+      "lifetimePercentile": 0.978969,
       "weeklyRank": null,
       "monthlyRank": null,
       "characterClass": "Builder",
@@ -70,18 +70,18 @@
         "wallets": {}
       }
     },
-    "ecosystemFactor": 0.810641,
+    "ecosystemFactor": 0.746371,
     "elizaEffect": {
       "miladyNorm": 0,
-      "elizaLifetimePercentile": 0.97894,
-      "ecosystemNorm": 0.810641,
+      "elizaLifetimePercentile": 0.978969,
+      "ecosystemNorm": 0.746371,
       "weights": {
         "milady": 0.45,
         "eliza": 0.35,
         "ecosystem": 0.2
       },
-      "effectNorm": 0.504757,
-      "effectScore": 50.4757
+      "effectNorm": 0.491913,
+      "effectScore": 49.1913
     }
   }
 }

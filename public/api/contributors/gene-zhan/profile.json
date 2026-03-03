@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-02-22T08:43:16.298Z",
+  "generatedAt": "2026-03-03T19:50:51.725Z",
   "source": "milady-ai/trust-dashboard",
   "username": "gene-zhan",
   "profile": {
@@ -11,7 +11,7 @@
     "eliza": {
       "lifetimeScore": 235.5293,
       "lifetimeRank": 66,
-      "lifetimePercentile": 0.955842,
+      "lifetimePercentile": 0.955902,
       "weeklyRank": null,
       "monthlyRank": null,
       "characterClass": "Builder",
@@ -47,24 +47,24 @@
             "score": 24,
             "percentage": 13.325930038867295,
             "rank": 79,
-            "totalInArea": 580
+            "totalInArea": 581
           }
         ],
         "wallets": {}
       }
     },
-    "ecosystemFactor": 0.804845,
+    "ecosystemFactor": 0.740591,
     "elizaEffect": {
       "miladyNorm": 0,
-      "elizaLifetimePercentile": 0.955842,
-      "ecosystemNorm": 0.804845,
+      "elizaLifetimePercentile": 0.955902,
+      "ecosystemNorm": 0.740591,
       "weights": {
         "milady": 0.45,
         "eliza": 0.35,
         "ecosystem": 0.2
       },
-      "effectNorm": 0.495514,
-      "effectScore": 49.5514
+      "effectNorm": 0.482684,
+      "effectScore": 48.2684
     }
   }
 }

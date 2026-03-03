@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-02-22T08:43:16.298Z",
+  "generatedAt": "2026-03-03T19:50:51.725Z",
   "source": "milady-ai/trust-dashboard",
   "username": "HashWarlock",
   "profile": {
@@ -11,7 +11,7 @@
     "eliza": {
       "lifetimeScore": 2052.725,
       "lifetimeRank": 14,
-      "lifetimePercentile": 0.991168,
+      "lifetimePercentile": 0.99118,
       "weeklyRank": null,
       "monthlyRank": null,
       "characterClass": "Builder",
@@ -40,7 +40,7 @@
             "score": 121.5,
             "percentage": 13.876199177706717,
             "rank": 30,
-            "totalInArea": 580
+            "totalInArea": 581
           },
           {
             "tag": "infra",
@@ -78,18 +78,18 @@
         }
       }
     },
-    "ecosystemFactor": 0.814433,
+    "ecosystemFactor": 0.750154,
     "elizaEffect": {
       "miladyNorm": 0,
-      "elizaLifetimePercentile": 0.991168,
-      "ecosystemNorm": 0.814433,
+      "elizaLifetimePercentile": 0.99118,
+      "ecosystemNorm": 0.750154,
       "weights": {
         "milady": 0.45,
         "eliza": 0.35,
         "ecosystem": 0.2
       },
-      "effectNorm": 0.509796,
-      "effectScore": 50.9796
+      "effectNorm": 0.496944,
+      "effectScore": 49.6944
     }
   }
 }

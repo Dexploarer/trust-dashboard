@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-02-22T08:43:16.298Z",
+  "generatedAt": "2026-03-03T19:50:51.725Z",
   "source": "milady-ai/trust-dashboard",
   "username": "jmikedupont2",
   "profile": {
@@ -11,7 +11,7 @@
     "eliza": {
       "lifetimeScore": 713.7648,
       "lifetimeRank": 23,
-      "lifetimePercentile": 0.985054,
+      "lifetimePercentile": 0.985075,
       "weeklyRank": null,
       "monthlyRank": null,
       "characterClass": "Builder",
@@ -40,7 +40,7 @@
             "score": 216,
             "percentage": 22.140221402213996,
             "rank": 11,
-            "totalInArea": 580
+            "totalInArea": 581
           },
           {
             "tag": "typescript",
@@ -65,18 +65,18 @@
         "wallets": {}
       }
     },
-    "ecosystemFactor": 0.80639,
+    "ecosystemFactor": 0.742115,
     "elizaEffect": {
       "miladyNorm": 0,
-      "elizaLifetimePercentile": 0.985054,
-      "ecosystemNorm": 0.80639,
+      "elizaLifetimePercentile": 0.985075,
+      "ecosystemNorm": 0.742115,
       "weights": {
         "milady": 0.45,
         "eliza": 0.35,
         "ecosystem": 0.2
       },
-      "effectNorm": 0.506047,
-      "effectScore": 50.6047
+      "effectNorm": 0.493199,
+      "effectScore": 49.3199
     }
   }
 }

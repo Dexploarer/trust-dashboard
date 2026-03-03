@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-02-22T08:43:16.298Z",
+  "generatedAt": "2026-03-03T19:50:51.725Z",
   "source": "milady-ai/trust-dashboard",
   "username": "mikirov",
   "profile": {
@@ -11,7 +11,7 @@
     "eliza": {
       "lifetimeScore": 275.5971,
       "lifetimeRank": 60,
-      "lifetimePercentile": 0.959918,
+      "lifetimePercentile": 0.959973,
       "weeklyRank": null,
       "monthlyRank": null,
       "characterClass": "Builder",
@@ -53,18 +53,18 @@
         "wallets": {}
       }
     },
-    "ecosystemFactor": 0.804495,
+    "ecosystemFactor": 0.740238,
     "elizaEffect": {
       "miladyNorm": 0,
-      "elizaLifetimePercentile": 0.959918,
-      "ecosystemNorm": 0.804495,
+      "elizaLifetimePercentile": 0.959973,
+      "ecosystemNorm": 0.740238,
       "weights": {
         "milady": 0.45,
         "eliza": 0.35,
         "ecosystem": 0.2
       },
-      "effectNorm": 0.49687,
-      "effectScore": 49.687
+      "effectNorm": 0.484038,
+      "effectScore": 48.4038
     }
   }
 }

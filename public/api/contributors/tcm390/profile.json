@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-02-22T08:43:16.298Z",
+  "generatedAt": "2026-03-03T19:50:51.725Z",
   "source": "milady-ai/trust-dashboard",
   "username": "tcm390",
   "profile": {
@@ -11,7 +11,7 @@
     "eliza": {
       "lifetimeScore": 10577.2045,
       "lifetimeRank": 2,
-      "lifetimePercentile": 0.999321,
+      "lifetimePercentile": 0.999322,
       "weeklyRank": null,
       "monthlyRank": null,
       "characterClass": "Builder",
@@ -83,18 +83,18 @@
         }
       }
     },
-    "ecosystemFactor": 0.822045,
+    "ecosystemFactor": 0.75776,
     "elizaEffect": {
       "miladyNorm": 0,
-      "elizaLifetimePercentile": 0.999321,
-      "ecosystemNorm": 0.822045,
+      "elizaLifetimePercentile": 0.999322,
+      "ecosystemNorm": 0.75776,
       "weights": {
         "milady": 0.45,
         "eliza": 0.35,
         "ecosystem": 0.2
       },
-      "effectNorm": 0.514171,
-      "effectScore": 51.4171
+      "effectNorm": 0.501314,
+      "effectScore": 50.1314
     }
   }
 }

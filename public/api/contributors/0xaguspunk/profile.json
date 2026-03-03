@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-02-22T08:43:16.298Z",
+  "generatedAt": "2026-03-03T19:50:51.725Z",
   "source": "milady-ai/trust-dashboard",
   "username": "0xaguspunk",
   "profile": {
@@ -11,7 +11,7 @@
     "eliza": {
       "lifetimeScore": 218.7713,
       "lifetimeRank": 76,
-      "lifetimePercentile": 0.949049,
+      "lifetimePercentile": 0.949118,
       "weeklyRank": null,
       "monthlyRank": null,
       "characterClass": "Builder",
@@ -40,7 +40,7 @@
             "score": 15,
             "percentage": 25.210084033613445,
             "rank": 104,
-            "totalInArea": 580
+            "totalInArea": 581
           },
           {
             "tag": "core",
@@ -53,18 +53,18 @@
         "wallets": {}
       }
     },
-    "ecosystemFactor": 0.78543,
+    "ecosystemFactor": 0.72118,
     "elizaEffect": {
       "miladyNorm": 0,
-      "elizaLifetimePercentile": 0.949049,
-      "ecosystemNorm": 0.78543,
+      "elizaLifetimePercentile": 0.949118,
+      "ecosystemNorm": 0.72118,
       "weights": {
         "milady": 0.45,
         "eliza": 0.35,
         "ecosystem": 0.2
       },
-      "effectNorm": 0.489253,
-      "effectScore": 48.9253
+      "effectNorm": 0.476427,
+      "effectScore": 47.6427
     }
   }
 }

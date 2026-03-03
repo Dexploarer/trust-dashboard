@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-02-22T08:43:16.298Z",
+  "generatedAt": "2026-03-03T19:50:51.725Z",
   "source": "milady-ai/trust-dashboard",
   "username": "harperaa",
   "profile": {
@@ -11,7 +11,7 @@
     "eliza": {
       "lifetimeScore": 211.7977,
       "lifetimeRank": 79,
-      "lifetimePercentile": 0.947011,
+      "lifetimePercentile": 0.947083,
       "weeklyRank": null,
       "monthlyRank": null,
       "characterClass": "Builder",
@@ -47,7 +47,7 @@
             "score": 9,
             "percentage": 9.911894273127754,
             "rank": 170,
-            "totalInArea": 580
+            "totalInArea": 581
           }
         ],
         "achievements": [
@@ -60,18 +60,18 @@
         "wallets": {}
       }
     },
-    "ecosystemFactor": 0.782563,
+    "ecosystemFactor": 0.718315,
     "elizaEffect": {
       "miladyNorm": 0,
-      "elizaLifetimePercentile": 0.947011,
-      "ecosystemNorm": 0.782563,
+      "elizaLifetimePercentile": 0.947083,
+      "ecosystemNorm": 0.718315,
       "weights": {
         "milady": 0.45,
         "eliza": 0.35,
         "ecosystem": 0.2
       },
-      "effectNorm": 0.487966,
-      "effectScore": 48.7966
+      "effectNorm": 0.475142,
+      "effectScore": 47.5142
     }
   }
 }

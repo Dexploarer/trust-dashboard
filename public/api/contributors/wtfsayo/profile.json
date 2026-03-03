@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-02-22T08:43:16.298Z",
+  "generatedAt": "2026-03-03T19:50:51.725Z",
   "source": "milady-ai/trust-dashboard",
   "username": "wtfsayo",
   "profile": {
@@ -83,18 +83,18 @@
         }
       }
     },
-    "ecosystemFactor": 0.822484,
+    "ecosystemFactor": 0.758198,
     "elizaEffect": {
       "miladyNorm": 0,
       "elizaLifetimePercentile": 1,
-      "ecosystemNorm": 0.822484,
+      "ecosystemNorm": 0.758198,
       "weights": {
         "milady": 0.45,
         "eliza": 0.35,
         "ecosystem": 0.2
       },
-      "effectNorm": 0.514497,
-      "effectScore": 51.4497
+      "effectNorm": 0.50164,
+      "effectScore": 50.164
     }
   }
 }

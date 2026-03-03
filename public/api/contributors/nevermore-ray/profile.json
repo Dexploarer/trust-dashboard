@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-02-22T08:43:16.298Z",
+  "generatedAt": "2026-03-03T19:50:51.725Z",
   "source": "milady-ai/trust-dashboard",
   "username": "Nevermore-Ray",
   "profile": {
@@ -11,7 +11,7 @@
     "eliza": {
       "lifetimeScore": 181.6578,
       "lifetimeRank": 95,
-      "lifetimePercentile": 0.936141,
+      "lifetimePercentile": 0.936228,
       "weeklyRank": null,
       "monthlyRank": null,
       "characterClass": "Builder",
@@ -40,7 +40,7 @@
             "score": 12,
             "percentage": 34.48275862068966,
             "rank": 125,
-            "totalInArea": 580
+            "totalInArea": 581
           },
           {
             "tag": "infra",
@@ -53,18 +53,18 @@
         "wallets": {}
       }
     },
-    "ecosystemFactor": 0.793508,
+    "ecosystemFactor": 0.729268,
     "elizaEffect": {
       "miladyNorm": 0,
-      "elizaLifetimePercentile": 0.936141,
-      "ecosystemNorm": 0.793508,
+      "elizaLifetimePercentile": 0.936228,
+      "ecosystemNorm": 0.729268,
       "weights": {
         "milady": 0.45,
         "eliza": 0.35,
         "ecosystem": 0.2
       },
-      "effectNorm": 0.486351,
-      "effectScore": 48.6351
+      "effectNorm": 0.473533,
+      "effectScore": 47.3533
     }
   }
 }

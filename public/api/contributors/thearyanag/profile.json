@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-02-22T08:43:16.298Z",
+  "generatedAt": "2026-03-03T19:50:51.725Z",
   "source": "milady-ai/trust-dashboard",
   "username": "thearyanag",
   "profile": {
@@ -11,7 +11,7 @@
     "eliza": {
       "lifetimeScore": 190.8448,
       "lifetimeRank": 90,
-      "lifetimePercentile": 0.939538,
+      "lifetimePercentile": 0.93962,
       "weeklyRank": null,
       "monthlyRank": null,
       "characterClass": "Builder",
@@ -40,7 +40,7 @@
             "score": 18,
             "percentage": 15.463917525773196,
             "rank": 97,
-            "totalInArea": 580
+            "totalInArea": 581
           },
           {
             "tag": "architect",
@@ -53,18 +53,18 @@
         "wallets": {}
       }
     },
-    "ecosystemFactor": 0.795139,
+    "ecosystemFactor": 0.730896,
     "elizaEffect": {
       "miladyNorm": 0,
-      "elizaLifetimePercentile": 0.939538,
-      "ecosystemNorm": 0.795139,
+      "elizaLifetimePercentile": 0.93962,
+      "ecosystemNorm": 0.730896,
       "weights": {
         "milady": 0.45,
         "eliza": 0.35,
         "ecosystem": 0.2
       },
-      "effectNorm": 0.487866,
-      "effectScore": 48.7866
+      "effectNorm": 0.475046,
+      "effectScore": 47.5046
     }
   }
 }

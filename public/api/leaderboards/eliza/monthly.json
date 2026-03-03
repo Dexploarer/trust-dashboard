@@ -2,8 +2,8 @@
   "version": "1.0",
   "source": "elizaos.github.io",
   "period": "monthly",
-  "generatedAt": "2026-02-21T23:19:18.345Z",
-  "totalUsers": 37,
+  "generatedAt": "2026-02-22T23:22:46.765Z",
+  "totalUsers": 39,
   "leaderboard": [
     {
       "rank": 1,
@@ -19,22 +19,22 @@
       "focusAreas": [
         {
           "tag": "typescript",
-          "score": 2361,
-          "percentage": 38.91223733003709,
+          "score": 2385,
+          "percentage": 38.86643634704387,
           "rank": 3,
           "totalInArea": 689
         },
         {
           "tag": "core",
           "score": 920,
-          "percentage": 15.16275236918006,
+          "percentage": 14.99250374812594,
           "rank": 6,
           "totalInArea": 308
         },
         {
           "tag": "tests",
-          "score": 800,
-          "percentage": 13.185002060156572,
+          "score": 816,
+          "percentage": 13.29769897659866,
           "rank": 2,
           "totalInArea": 181
         }
@@ -95,7 +95,7 @@
           "score": 1240.5,
           "percentage": 19.481437276210812,
           "rank": 4,
-          "totalInArea": 580
+          "totalInArea": 581
         },
         {
           "tag": "core",
@@ -163,7 +163,7 @@
           "score": 2181,
           "percentage": 17.64905806952807,
           "rank": 2,
-          "totalInArea": 580
+          "totalInArea": 581
         }
       ],
       "achievements": [
@@ -204,10 +204,10 @@
       "avatarUrl": "https://avatars.githubusercontent.com/in/867647?v=4",
       "characterClass": "Contributor",
       "tier": "active",
-      "score": 222.84,
+      "score": 231.84,
       "prScore": 0,
       "issueScore": 0,
-      "reviewScore": 220.5,
+      "reviewScore": 229.5,
       "commentScore": 2.34,
       "achievements": [
         {
@@ -314,7 +314,7 @@
           "score": 9,
           "percentage": 8.226691042047532,
           "rank": 182,
-          "totalInArea": 580
+          "totalInArea": 581
         }
       ],
       "wallets": {}
@@ -379,7 +379,7 @@
           "score": 12,
           "percentage": 8.875739644970421,
           "rank": 141,
-          "totalInArea": 580
+          "totalInArea": 581
         },
         {
           "tag": "architect",
@@ -471,7 +471,7 @@
           "score": 3,
           "percentage": 3,
           "rank": 554,
-          "totalInArea": 580
+          "totalInArea": 581
         }
       ],
       "wallets": {}
@@ -500,7 +500,7 @@
           "score": 10.5,
           "percentage": 8.750000000000007,
           "rank": 152,
-          "totalInArea": 580
+          "totalInArea": 581
         },
         {
           "tag": "typescript",
@@ -536,7 +536,7 @@
           "score": 6,
           "percentage": 27.397260273972606,
           "rank": 192,
-          "totalInArea": 580
+          "totalInArea": 581
         },
         {
           "tag": "bug-fixer",
@@ -565,7 +565,7 @@
           "score": 24,
           "percentage": 46.87500000000001,
           "rank": 81,
-          "totalInArea": 580
+          "totalInArea": 581
         },
         {
           "tag": "tests",
@@ -608,7 +608,7 @@
           "score": 12,
           "percentage": 9.1813312930375,
           "rank": 142,
-          "totalInArea": 580
+          "totalInArea": 581
         },
         {
           "tag": "database",
@@ -678,8 +678,8 @@
           "tag": "docs",
           "score": 1.5,
           "percentage": 100,
-          "rank": 580,
-          "totalInArea": 580
+          "rank": 581,
+          "totalInArea": 581
         }
       ],
       "wallets": {}
@@ -779,6 +779,19 @@
     },
     {
       "rank": 23,
+      "username": "dontonon",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/22495678?v=4",
+      "characterClass": "Builder",
+      "tier": "beginner",
+      "score": 13.234147180559946,
+      "prScore": 13.234147180559946,
+      "issueScore": 0,
+      "reviewScore": 0,
+      "commentScore": 0,
+      "wallets": {}
+    },
+    {
+      "rank": 24,
       "username": "10inchdev",
       "avatarUrl": "https://avatars.githubusercontent.com/u/226776904?u=f8556423cfa0bd4464d64395c6c0d526050ba553&v=4",
       "characterClass": "Builder",
@@ -791,7 +804,7 @@
       "wallets": {}
     },
     {
-      "rank": 24,
+      "rank": 25,
       "username": "a692570",
       "avatarUrl": "https://avatars.githubusercontent.com/u/182830946?u=fbc711137880cd843fea4b3b9f00013d07d40fd6&v=4",
       "characterClass": "Scribe",
@@ -807,20 +820,20 @@
           "score": 3,
           "percentage": 71.42857142857143,
           "rank": 553,
-          "totalInArea": 580
+          "totalInArea": 581
         },
         {
           "tag": "docs-writer",
           "score": 1.2,
           "percentage": 28.57142857142857,
           "rank": 115,
-          "totalInArea": 115
+          "totalInArea": 116
         }
       ],
       "wallets": {}
     },
     {
-      "rank": 25,
+      "rank": 26,
       "username": "lawyered0",
       "avatarUrl": "https://avatars.githubusercontent.com/u/4802498?u=f45773fb7440d77e5c12ea1560122dd6d26632eb&v=4",
       "characterClass": "Builder",
@@ -856,7 +869,7 @@
       "wallets": {}
     },
     {
-      "rank": 26,
+      "rank": 27,
       "username": "puncar-dev",
       "avatarUrl": "https://avatars.githubusercontent.com/u/72890404?v=4",
       "characterClass": "Hunter",
@@ -869,7 +882,36 @@
       "wallets": {}
     },
     {
-      "rank": 27,
+      "rank": 28,
+      "username": "jasonxkensei",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/260305565?u=b17387a9077530191e297ff256d49d9a14c47194&v=4",
+      "characterClass": "Builder",
+      "tier": "beginner",
+      "score": 6.557573590279973,
+      "prScore": 6.557573590279973,
+      "issueScore": 0,
+      "reviewScore": 0,
+      "commentScore": 0,
+      "focusAreas": [
+        {
+          "tag": "architect",
+          "score": 2.5,
+          "percentage": 55.55555555555556,
+          "rank": 353,
+          "totalInArea": 353
+        },
+        {
+          "tag": "feature-dev",
+          "score": 2,
+          "percentage": 44.44444444444444,
+          "rank": 349,
+          "totalInArea": 349
+        }
+      ],
+      "wallets": {}
+    },
+    {
+      "rank": 29,
       "username": "samarth30",
       "avatarUrl": "https://avatars.githubusercontent.com/u/48334430?u=1fc119a6c2deb8cf60448b4c8961cb21dc69baeb&v=4",
       "characterClass": "Hunter",
@@ -922,7 +964,7 @@
       "wallets": {}
     },
     {
-      "rank": 28,
+      "rank": 30,
       "username": "aite550659-max",
       "avatarUrl": "https://avatars.githubusercontent.com/u/258900948?v=4",
       "characterClass": "Hunter",
@@ -935,7 +977,7 @@
       "wallets": {}
     },
     {
-      "rank": 29,
+      "rank": 31,
       "username": "thewoweffect",
       "avatarUrl": "https://avatars.githubusercontent.com/u/113222443?u=cb21d15b0ce815d0f68167f2eca236aad6c64598&v=4",
       "characterClass": "Hunter",
@@ -948,7 +990,7 @@
       "wallets": {}
     },
     {
-      "rank": 30,
+      "rank": 32,
       "username": "saoirse102345-blip",
       "avatarUrl": "https://avatars.githubusercontent.com/u/258542122?v=4",
       "characterClass": "Hunter",
@@ -961,7 +1003,7 @@
       "wallets": {}
     },
     {
-      "rank": 31,
+      "rank": 33,
       "username": "rookdaemon",
       "avatarUrl": "https://avatars.githubusercontent.com/u/258400181?u=f806b5798e056f9384e53da900fdcd3d7bc24c14&v=4",
       "characterClass": "Hunter",
@@ -974,7 +1016,7 @@
       "wallets": {}
     },
     {
-      "rank": 32,
+      "rank": 34,
       "username": "mbatini",
       "avatarUrl": "https://avatars.githubusercontent.com/u/34915878?v=4",
       "characterClass": "Hunter",
@@ -987,7 +1029,7 @@
       "wallets": {}
     },
     {
-      "rank": 33,
+      "rank": 35,
       "username": "fiv3fingers",
       "avatarUrl": "https://avatars.githubusercontent.com/u/59544796?u=58c2849a3bd9087a4d2e0a5d31ba3cba75babfd6&v=4",
       "characterClass": "Hunter",
@@ -1000,7 +1042,7 @@
       "wallets": {}
     },
     {
-      "rank": 34,
+      "rank": 36,
       "username": "coolRoger",
       "avatarUrl": "https://avatars.githubusercontent.com/u/33861624?u=ae40d02de875befc512751127f1082a22b464264&v=4",
       "characterClass": "Hunter",
@@ -1013,7 +1055,7 @@
       "wallets": {}
     },
     {
-      "rank": 35,
+      "rank": 37,
       "username": "basedmereum",
       "avatarUrl": "https://avatars.githubusercontent.com/u/223933470?v=4",
       "characterClass": "Hunter",
@@ -1026,7 +1068,7 @@
       "wallets": {}
     },
     {
-      "rank": 36,
+      "rank": 38,
       "username": "JKHeadley",
       "avatarUrl": "https://avatars.githubusercontent.com/u/12631935?u=e1a3e2005973fbf5526f5dccd04b6310e2476946&v=4",
       "characterClass": "Hunter",
@@ -1039,7 +1081,7 @@
       "wallets": {}
     },
     {
-      "rank": 37,
+      "rank": 39,
       "username": "tdnupe3",
       "avatarUrl": "https://avatars.githubusercontent.com/u/25161668?u=94680b6bcbcfce954c7a9dd09d667a3919953041&v=4",
       "characterClass": "Contributor",

@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-02-22T08:43:16.298Z",
+  "generatedAt": "2026-03-03T19:50:51.725Z",
   "source": "milady-ai/trust-dashboard",
   "username": "jkbrooks",
   "profile": {
@@ -11,7 +11,7 @@
     "eliza": {
       "lifetimeScore": 223.5566,
       "lifetimeRank": 72,
-      "lifetimePercentile": 0.951766,
+      "lifetimePercentile": 0.951832,
       "weeklyRank": null,
       "monthlyRank": null,
       "characterClass": "Contributor",
@@ -40,7 +40,7 @@
             "score": 12,
             "percentage": 9.991673605328902,
             "rank": 139,
-            "totalInArea": 580
+            "totalInArea": 581
           },
           {
             "tag": "maintainer",
@@ -65,18 +65,18 @@
         "wallets": {}
       }
     },
-    "ecosystemFactor": 0.739508,
+    "ecosystemFactor": 0.675257,
     "elizaEffect": {
       "miladyNorm": 0,
-      "elizaLifetimePercentile": 0.951766,
-      "ecosystemNorm": 0.739508,
+      "elizaLifetimePercentile": 0.951832,
+      "ecosystemNorm": 0.675257,
       "weights": {
         "milady": 0.45,
         "eliza": 0.35,
         "ecosystem": 0.2
       },
-      "effectNorm": 0.48102,
-      "effectScore": 48.102
+      "effectNorm": 0.468192,
+      "effectScore": 46.8192
     }
   }
 }

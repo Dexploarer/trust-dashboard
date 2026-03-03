@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-02-22T08:43:16.298Z",
+  "generatedAt": "2026-03-03T19:50:51.725Z",
   "source": "milady-ai/trust-dashboard",
   "username": "lincheoll",
   "profile": {
@@ -11,7 +11,7 @@
     "eliza": {
       "lifetimeScore": 189.0066,
       "lifetimeRank": 91,
-      "lifetimePercentile": 0.938859,
+      "lifetimePercentile": 0.938942,
       "weeklyRank": null,
       "monthlyRank": null,
       "characterClass": "Builder",
@@ -65,18 +65,18 @@
         "wallets": {}
       }
     },
-    "ecosystemFactor": 0.775022,
+    "ecosystemFactor": 0.710779,
     "elizaEffect": {
       "miladyNorm": 0,
-      "elizaLifetimePercentile": 0.938859,
-      "ecosystemNorm": 0.775022,
+      "elizaLifetimePercentile": 0.938942,
+      "ecosystemNorm": 0.710779,
       "weights": {
         "milady": 0.45,
         "eliza": 0.35,
         "ecosystem": 0.2
       },
-      "effectNorm": 0.483605,
-      "effectScore": 48.3605
+      "effectNorm": 0.470785,
+      "effectScore": 47.0785
     }
   }
 }

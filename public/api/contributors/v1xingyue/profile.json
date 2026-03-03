@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-02-22T08:43:16.298Z",
+  "generatedAt": "2026-03-03T19:50:51.725Z",
   "source": "milady-ai/trust-dashboard",
   "username": "v1xingyue",
   "profile": {
@@ -11,7 +11,7 @@
     "eliza": {
       "lifetimeScore": 545.9275,
       "lifetimeRank": 33,
-      "lifetimePercentile": 0.978261,
+      "lifetimePercentile": 0.97829,
       "weeklyRank": null,
       "monthlyRank": null,
       "characterClass": "Builder",
@@ -63,18 +63,18 @@
         }
       }
     },
-    "ecosystemFactor": 0.815042,
+    "ecosystemFactor": 0.750772,
     "elizaEffect": {
       "miladyNorm": 0,
-      "elizaLifetimePercentile": 0.978261,
-      "ecosystemNorm": 0.815042,
+      "elizaLifetimePercentile": 0.97829,
+      "ecosystemNorm": 0.750772,
       "weights": {
         "milady": 0.45,
         "eliza": 0.35,
         "ecosystem": 0.2
       },
-      "effectNorm": 0.5054,
-      "effectScore": 50.54
+      "effectNorm": 0.492556,
+      "effectScore": 49.2556
     }
   }
 }

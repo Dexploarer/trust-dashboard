@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-02-22T08:43:16.298Z",
+  "generatedAt": "2026-03-03T19:50:51.725Z",
   "source": "milady-ai/trust-dashboard",
   "username": "imholders",
   "profile": {
@@ -11,7 +11,7 @@
     "eliza": {
       "lifetimeScore": 313.6281,
       "lifetimeRank": 52,
-      "lifetimePercentile": 0.965353,
+      "lifetimePercentile": 0.9654,
       "weeklyRank": null,
       "monthlyRank": null,
       "characterClass": "Scribe",
@@ -33,7 +33,7 @@
             "score": 37.5,
             "percentage": 100,
             "rank": 69,
-            "totalInArea": 580
+            "totalInArea": 581
           }
         ],
         "achievements": [
@@ -46,18 +46,18 @@
         "wallets": {}
       }
     },
-    "ecosystemFactor": 0.811984,
+    "ecosystemFactor": 0.747722,
     "elizaEffect": {
       "miladyNorm": 0,
-      "elizaLifetimePercentile": 0.965353,
-      "ecosystemNorm": 0.811984,
+      "elizaLifetimePercentile": 0.9654,
+      "ecosystemNorm": 0.747722,
       "weights": {
         "milady": 0.45,
         "eliza": 0.35,
         "ecosystem": 0.2
       },
-      "effectNorm": 0.50027,
-      "effectScore": 50.027
+      "effectNorm": 0.487435,
+      "effectScore": 48.7435
     }
   }
 }

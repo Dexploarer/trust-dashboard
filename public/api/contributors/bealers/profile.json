@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-02-22T08:43:16.298Z",
+  "generatedAt": "2026-03-03T19:50:51.725Z",
   "source": "milady-ai/trust-dashboard",
   "username": "bealers",
   "profile": {
@@ -11,7 +11,7 @@
     "eliza": {
       "lifetimeScore": 234.6787,
       "lifetimeRank": 68,
-      "lifetimePercentile": 0.954484,
+      "lifetimePercentile": 0.954545,
       "weeklyRank": null,
       "monthlyRank": null,
       "characterClass": "Builder",
@@ -63,18 +63,18 @@
         }
       }
     },
-    "ecosystemFactor": 0.803382,
+    "ecosystemFactor": 0.739129,
     "elizaEffect": {
       "miladyNorm": 0,
-      "elizaLifetimePercentile": 0.954484,
-      "ecosystemNorm": 0.803382,
+      "elizaLifetimePercentile": 0.954545,
+      "ecosystemNorm": 0.739129,
       "weights": {
         "milady": 0.45,
         "eliza": 0.35,
         "ecosystem": 0.2
       },
-      "effectNorm": 0.494746,
-      "effectScore": 49.4746
+      "effectNorm": 0.481917,
+      "effectScore": 48.1917
     }
   }
 }

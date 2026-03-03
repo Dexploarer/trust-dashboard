@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-02-22T08:43:16.298Z",
+  "generatedAt": "2026-03-03T19:50:51.725Z",
   "source": "milady-ai/trust-dashboard",
   "username": "swizzmagik",
   "profile": {
@@ -11,7 +11,7 @@
     "eliza": {
       "lifetimeScore": 201.7779,
       "lifetimeRank": 82,
-      "lifetimePercentile": 0.944973,
+      "lifetimePercentile": 0.945047,
       "weeklyRank": null,
       "monthlyRank": null,
       "characterClass": "Builder",
@@ -60,18 +60,18 @@
         "wallets": {}
       }
     },
-    "ecosystemFactor": 0.790974,
+    "ecosystemFactor": 0.726728,
     "elizaEffect": {
       "miladyNorm": 0,
-      "elizaLifetimePercentile": 0.944973,
-      "ecosystemNorm": 0.790974,
+      "elizaLifetimePercentile": 0.945047,
+      "ecosystemNorm": 0.726728,
       "weights": {
         "milady": 0.45,
         "eliza": 0.35,
         "ecosystem": 0.2
       },
-      "effectNorm": 0.488935,
-      "effectScore": 48.8935
+      "effectNorm": 0.476112,
+      "effectScore": 47.6112
     }
   }
 }

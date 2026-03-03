@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-02-22T08:43:16.298Z",
+  "generatedAt": "2026-03-03T19:50:51.725Z",
   "source": "milady-ai/trust-dashboard",
   "username": "jonathangus",
   "profile": {
@@ -11,7 +11,7 @@
     "eliza": {
       "lifetimeScore": 237.4014,
       "lifetimeRank": 65,
-      "lifetimePercentile": 0.956522,
+      "lifetimePercentile": 0.956581,
       "weeklyRank": null,
       "monthlyRank": null,
       "characterClass": "Builder",
@@ -53,18 +53,18 @@
         "wallets": {}
       }
     },
-    "ecosystemFactor": 0.805201,
+    "ecosystemFactor": 0.740946,
     "elizaEffect": {
       "miladyNorm": 0,
-      "elizaLifetimePercentile": 0.956522,
-      "ecosystemNorm": 0.805201,
+      "elizaLifetimePercentile": 0.956581,
+      "ecosystemNorm": 0.740946,
       "weights": {
         "milady": 0.45,
         "eliza": 0.35,
         "ecosystem": 0.2
       },
-      "effectNorm": 0.495823,
-      "effectScore": 49.5823
+      "effectNorm": 0.482992,
+      "effectScore": 48.2992
     }
   }
 }

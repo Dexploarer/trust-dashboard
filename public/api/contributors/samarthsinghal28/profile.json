@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-02-22T08:43:16.298Z",
+  "generatedAt": "2026-03-03T19:50:51.725Z",
   "source": "milady-ai/trust-dashboard",
   "username": "Samarthsinghal28",
   "profile": {
@@ -11,7 +11,7 @@
     "eliza": {
       "lifetimeScore": 831.5453,
       "lifetimeRank": 21,
-      "lifetimePercentile": 0.986413,
+      "lifetimePercentile": 0.986431,
       "weeklyRank": null,
       "monthlyRank": null,
       "characterClass": "Builder",
@@ -65,18 +65,18 @@
         "wallets": {}
       }
     },
-    "ecosystemFactor": 0.819904,
+    "ecosystemFactor": 0.755628,
     "elizaEffect": {
       "miladyNorm": 0,
-      "elizaLifetimePercentile": 0.986413,
-      "ecosystemNorm": 0.819904,
+      "elizaLifetimePercentile": 0.986431,
+      "ecosystemNorm": 0.755628,
       "weights": {
         "milady": 0.45,
         "eliza": 0.35,
         "ecosystem": 0.2
       },
-      "effectNorm": 0.509225,
-      "effectScore": 50.9225
+      "effectNorm": 0.496377,
+      "effectScore": 49.6377
     }
   }
 }

@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-02-22T08:43:16.298Z",
+  "generatedAt": "2026-03-03T19:50:51.725Z",
   "source": "milady-ai/trust-dashboard",
   "username": "JoeyKhd",
   "profile": {
@@ -11,7 +11,7 @@
     "eliza": {
       "lifetimeScore": 355.2493,
       "lifetimeRank": 47,
-      "lifetimePercentile": 0.96875,
+      "lifetimePercentile": 0.968792,
       "weeklyRank": null,
       "monthlyRank": null,
       "characterClass": "Builder",
@@ -60,18 +60,18 @@
         "wallets": {}
       }
     },
-    "ecosystemFactor": 0.809206,
+    "ecosystemFactor": 0.744942,
     "elizaEffect": {
       "miladyNorm": 0,
-      "elizaLifetimePercentile": 0.96875,
-      "ecosystemNorm": 0.809206,
+      "elizaLifetimePercentile": 0.968792,
+      "ecosystemNorm": 0.744942,
       "weights": {
         "milady": 0.45,
         "eliza": 0.35,
         "ecosystem": 0.2
       },
-      "effectNorm": 0.500904,
-      "effectScore": 50.0904
+      "effectNorm": 0.488066,
+      "effectScore": 48.8066
     }
   }
 }

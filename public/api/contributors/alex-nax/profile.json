@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-02-22T08:43:16.298Z",
+  "generatedAt": "2026-03-03T19:50:51.725Z",
   "source": "milady-ai/trust-dashboard",
   "username": "alex-nax",
   "profile": {
@@ -11,7 +11,7 @@
     "eliza": {
       "lifetimeScore": 222.0637,
       "lifetimeRank": 75,
-      "lifetimePercentile": 0.949728,
+      "lifetimePercentile": 0.949796,
       "weeklyRank": null,
       "monthlyRank": null,
       "characterClass": "Builder",
@@ -40,7 +40,7 @@
             "score": 60,
             "percentage": 10.565240359218144,
             "rank": 54,
-            "totalInArea": 580
+            "totalInArea": 581
           },
           {
             "tag": "core",
@@ -60,18 +60,18 @@
         "wallets": {}
       }
     },
-    "ecosystemFactor": 0.803426,
+    "ecosystemFactor": 0.739176,
     "elizaEffect": {
       "miladyNorm": 0,
-      "elizaLifetimePercentile": 0.949728,
-      "ecosystemNorm": 0.803426,
+      "elizaLifetimePercentile": 0.949796,
+      "ecosystemNorm": 0.739176,
       "weights": {
         "milady": 0.45,
         "eliza": 0.35,
         "ecosystem": 0.2
       },
-      "effectNorm": 0.49309,
-      "effectScore": 49.309
+      "effectNorm": 0.480264,
+      "effectScore": 48.0264
     }
   }
 }

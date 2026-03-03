@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-02-22T08:43:16.298Z",
+  "generatedAt": "2026-03-03T19:50:51.725Z",
   "source": "milady-ai/trust-dashboard",
   "username": "yungalgo",
   "profile": {
@@ -11,7 +11,7 @@
     "eliza": {
       "lifetimeScore": 4371.4293,
       "lifetimeRank": 8,
-      "lifetimePercentile": 0.995245,
+      "lifetimePercentile": 0.995251,
       "weeklyRank": null,
       "monthlyRank": null,
       "characterClass": "Builder",
@@ -40,7 +40,7 @@
             "score": 369,
             "percentage": 16.7574931880109,
             "rank": 7,
-            "totalInArea": 580
+            "totalInArea": 581
           },
           {
             "tag": "tests",
@@ -78,18 +78,18 @@
         }
       }
     },
-    "ecosystemFactor": 0.825253,
+    "ecosystemFactor": 0.760971,
     "elizaEffect": {
       "miladyNorm": 0,
-      "elizaLifetimePercentile": 0.995245,
-      "ecosystemNorm": 0.825253,
+      "elizaLifetimePercentile": 0.995251,
+      "ecosystemNorm": 0.760971,
       "weights": {
         "milady": 0.45,
         "eliza": 0.35,
         "ecosystem": 0.2
       },
-      "effectNorm": 0.513386,
-      "effectScore": 51.3386
+      "effectNorm": 0.500532,
+      "effectScore": 50.0532
     }
   }
 }

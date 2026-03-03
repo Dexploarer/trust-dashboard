@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-02-22T08:43:16.298Z",
+  "generatedAt": "2026-03-03T19:50:51.725Z",
   "source": "milady-ai/trust-dashboard",
   "username": "snobbee",
   "profile": {
@@ -11,7 +11,7 @@
     "eliza": {
       "lifetimeScore": 597.2112,
       "lifetimeRank": 29,
-      "lifetimePercentile": 0.980978,
+      "lifetimePercentile": 0.981004,
       "weeklyRank": null,
       "monthlyRank": null,
       "characterClass": "Builder",
@@ -33,7 +33,7 @@
             "score": 174,
             "percentage": 35.61195251739665,
             "rank": 15,
-            "totalInArea": 580
+            "totalInArea": 581
           },
           {
             "tag": "typescript",
@@ -70,18 +70,18 @@
         "wallets": {}
       }
     },
-    "ecosystemFactor": 0.799261,
+    "ecosystemFactor": 0.734989,
     "elizaEffect": {
       "miladyNorm": 0,
-      "elizaLifetimePercentile": 0.980978,
-      "ecosystemNorm": 0.799261,
+      "elizaLifetimePercentile": 0.981004,
+      "ecosystemNorm": 0.734989,
       "weights": {
         "milady": 0.45,
         "eliza": 0.35,
         "ecosystem": 0.2
       },
-      "effectNorm": 0.503195,
-      "effectScore": 50.3195
+      "effectNorm": 0.490349,
+      "effectScore": 49.0349
     }
   }
 }

@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-02-22T08:43:16.298Z",
+  "generatedAt": "2026-03-03T19:50:51.725Z",
   "source": "milady-ai/trust-dashboard",
   "username": "Freytes",
   "profile": {
@@ -11,7 +11,7 @@
     "eliza": {
       "lifetimeScore": 999.8669,
       "lifetimeRank": 17,
-      "lifetimePercentile": 0.98913,
+      "lifetimePercentile": 0.989145,
       "weeklyRank": null,
       "monthlyRank": null,
       "characterClass": "Builder",
@@ -40,7 +40,7 @@
             "score": 84,
             "percentage": 9.384426321081445,
             "rank": 40,
-            "totalInArea": 580
+            "totalInArea": 581
           },
           {
             "tag": "nextjs",
@@ -65,18 +65,18 @@
         "wallets": {}
       }
     },
-    "ecosystemFactor": 0.822009,
+    "ecosystemFactor": 0.757731,
     "elizaEffect": {
       "miladyNorm": 0,
-      "elizaLifetimePercentile": 0.98913,
-      "ecosystemNorm": 0.822009,
+      "elizaLifetimePercentile": 0.989145,
+      "ecosystemNorm": 0.757731,
       "weights": {
         "milady": 0.45,
         "eliza": 0.35,
         "ecosystem": 0.2
       },
-      "effectNorm": 0.510597,
-      "effectScore": 51.0597
+      "effectNorm": 0.497747,
+      "effectScore": 49.7747
     }
   }
 }

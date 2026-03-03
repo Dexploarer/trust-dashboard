@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-02-22T08:43:16.298Z",
+  "generatedAt": "2026-03-03T19:50:51.725Z",
   "source": "milady-ai/trust-dashboard",
   "username": "tercel",
   "profile": {
@@ -11,7 +11,7 @@
     "eliza": {
       "lifetimeScore": 361.4656,
       "lifetimeRank": 42,
-      "lifetimePercentile": 0.972147,
+      "lifetimePercentile": 0.972185,
       "weeklyRank": null,
       "monthlyRank": null,
       "characterClass": "Builder",
@@ -40,7 +40,7 @@
             "score": 96,
             "percentage": 28.614008941877795,
             "rank": 36,
-            "totalInArea": 580
+            "totalInArea": 581
           },
           {
             "tag": "core",
@@ -65,18 +65,18 @@
         "wallets": {}
       }
     },
-    "ecosystemFactor": 0.807629,
+    "ecosystemFactor": 0.743363,
     "elizaEffect": {
       "miladyNorm": 0,
-      "elizaLifetimePercentile": 0.972147,
-      "ecosystemNorm": 0.807629,
+      "elizaLifetimePercentile": 0.972185,
+      "ecosystemNorm": 0.743363,
       "weights": {
         "milady": 0.45,
         "eliza": 0.35,
         "ecosystem": 0.2
       },
-      "effectNorm": 0.501777,
-      "effectScore": 50.1777
+      "effectNorm": 0.488937,
+      "effectScore": 48.8937
     }
   }
 }

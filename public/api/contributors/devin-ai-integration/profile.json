@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-02-22T08:43:16.298Z",
+  "generatedAt": "2026-03-03T19:50:51.725Z",
   "source": "milady-ai/trust-dashboard",
   "username": "devin-ai-integration",
   "profile": {
@@ -11,7 +11,7 @@
     "eliza": {
       "lifetimeScore": 356.4325,
       "lifetimeRank": 46,
-      "lifetimePercentile": 0.969429,
+      "lifetimePercentile": 0.969471,
       "weeklyRank": null,
       "monthlyRank": null,
       "characterClass": "Builder",
@@ -60,18 +60,18 @@
         "wallets": {}
       }
     },
-    "ecosystemFactor": 0.81362,
+    "ecosystemFactor": 0.749356,
     "elizaEffect": {
       "miladyNorm": 0,
-      "elizaLifetimePercentile": 0.969429,
-      "ecosystemNorm": 0.81362,
+      "elizaLifetimePercentile": 0.969471,
+      "ecosystemNorm": 0.749356,
       "weights": {
         "milady": 0.45,
         "eliza": 0.35,
         "ecosystem": 0.2
       },
-      "effectNorm": 0.502024,
-      "effectScore": 50.2024
+      "effectNorm": 0.489186,
+      "effectScore": 48.9186
     }
   }
 }

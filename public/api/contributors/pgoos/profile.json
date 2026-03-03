@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-02-22T08:43:16.298Z",
+  "generatedAt": "2026-03-03T19:50:51.725Z",
   "source": "milady-ai/trust-dashboard",
   "username": "pgoos",
   "profile": {
@@ -11,7 +11,7 @@
     "eliza": {
       "lifetimeScore": 282.7699,
       "lifetimeRank": 57,
-      "lifetimePercentile": 0.961957,
+      "lifetimePercentile": 0.962008,
       "weeklyRank": null,
       "monthlyRank": null,
       "characterClass": "Scribe",
@@ -33,7 +33,7 @@
             "score": 84,
             "percentage": 48.19277108433735,
             "rank": 41,
-            "totalInArea": 580
+            "totalInArea": 581
           },
           {
             "tag": "infra",
@@ -60,18 +60,18 @@
         "wallets": {}
       }
     },
-    "ecosystemFactor": 0.783086,
+    "ecosystemFactor": 0.718827,
     "elizaEffect": {
       "miladyNorm": 0,
-      "elizaLifetimePercentile": 0.961957,
-      "ecosystemNorm": 0.783086,
+      "elizaLifetimePercentile": 0.962008,
+      "ecosystemNorm": 0.718827,
       "weights": {
         "milady": 0.45,
         "eliza": 0.35,
         "ecosystem": 0.2
       },
-      "effectNorm": 0.493302,
-      "effectScore": 49.3302
+      "effectNorm": 0.480468,
+      "effectScore": 48.0468
     }
   }
 }

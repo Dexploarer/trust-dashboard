@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-02-22T08:43:16.298Z",
+  "generatedAt": "2026-03-03T19:50:51.725Z",
   "source": "milady-ai/trust-dashboard",
   "username": "wookosh",
   "profile": {
@@ -11,7 +11,7 @@
     "eliza": {
       "lifetimeScore": 199.3579,
       "lifetimeRank": 85,
-      "lifetimePercentile": 0.942935,
+      "lifetimePercentile": 0.943012,
       "weeklyRank": null,
       "monthlyRank": null,
       "characterClass": "Builder",
@@ -60,18 +60,18 @@
         "wallets": {}
       }
     },
-    "ecosystemFactor": 0.79283,
+    "ecosystemFactor": 0.728585,
     "elizaEffect": {
       "miladyNorm": 0,
-      "elizaLifetimePercentile": 0.942935,
-      "ecosystemNorm": 0.79283,
+      "elizaLifetimePercentile": 0.943012,
+      "ecosystemNorm": 0.728585,
       "weights": {
         "milady": 0.45,
         "eliza": 0.35,
         "ecosystem": 0.2
       },
-      "effectNorm": 0.488593,
-      "effectScore": 48.8593
+      "effectNorm": 0.475771,
+      "effectScore": 47.5771
     }
   }
 }

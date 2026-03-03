@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-02-22T08:43:16.298Z",
+  "generatedAt": "2026-03-03T19:50:51.725Z",
   "source": "milady-ai/trust-dashboard",
   "username": "darwintree",
   "profile": {
@@ -11,7 +11,7 @@
     "eliza": {
       "lifetimeScore": 178.4468,
       "lifetimeRank": 97,
-      "lifetimePercentile": 0.934783,
+      "lifetimePercentile": 0.934871,
       "weeklyRank": null,
       "monthlyRank": null,
       "characterClass": "Builder",
@@ -53,18 +53,18 @@
         "wallets": {}
       }
     },
-    "ecosystemFactor": 0.787925,
+    "ecosystemFactor": 0.723685,
     "elizaEffect": {
       "miladyNorm": 0,
-      "elizaLifetimePercentile": 0.934783,
-      "ecosystemNorm": 0.787925,
+      "elizaLifetimePercentile": 0.934871,
+      "ecosystemNorm": 0.723685,
       "weights": {
         "milady": 0.45,
         "eliza": 0.35,
         "ecosystem": 0.2
       },
-      "effectNorm": 0.484759,
-      "effectScore": 48.4759
+      "effectNorm": 0.471942,
+      "effectScore": 47.1942
     }
   }
 }

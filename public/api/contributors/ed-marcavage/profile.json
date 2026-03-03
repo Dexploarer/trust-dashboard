@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-02-22T08:43:16.298Z",
+  "generatedAt": "2026-03-03T19:50:51.725Z",
   "source": "milady-ai/trust-dashboard",
   "username": "Ed-Marcavage",
   "profile": {
@@ -11,7 +11,7 @@
     "eliza": {
       "lifetimeScore": 223.3783,
       "lifetimeRank": 73,
-      "lifetimePercentile": 0.951087,
+      "lifetimePercentile": 0.951153,
       "weeklyRank": null,
       "monthlyRank": null,
       "characterClass": "Builder",
@@ -40,7 +40,7 @@
             "score": 42,
             "percentage": 30.973451327433633,
             "rank": 64,
-            "totalInArea": 580
+            "totalInArea": 581
           },
           {
             "tag": "infra",
@@ -53,18 +53,18 @@
         "wallets": {}
       }
     },
-    "ecosystemFactor": 0.804565,
+    "ecosystemFactor": 0.740314,
     "elizaEffect": {
       "miladyNorm": 0,
-      "elizaLifetimePercentile": 0.951087,
-      "ecosystemNorm": 0.804565,
+      "elizaLifetimePercentile": 0.951153,
+      "ecosystemNorm": 0.740314,
       "weights": {
         "milady": 0.45,
         "eliza": 0.35,
         "ecosystem": 0.2
       },
-      "effectNorm": 0.493793,
-      "effectScore": 49.3793
+      "effectNorm": 0.480966,
+      "effectScore": 48.0966
     }
   }
 }

@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-02-22T08:43:16.298Z",
+  "generatedAt": "2026-03-03T19:50:51.725Z",
   "source": "milady-ai/trust-dashboard",
   "username": "odilitime",
   "profile": {
@@ -8,15 +8,15 @@
     "canonicalUsername": "odilitime",
     "avatarUrl": "https://avatars.githubusercontent.com/u/16395496?v=4",
     "milady": {
-      "trustScore": 46.69,
-      "rank": 8,
-      "tier": "contributing"
+      "trustScore": 80.19,
+      "rank": 3,
+      "tier": "trusted"
     },
     "eliza": {
       "lifetimeScore": 9383.029,
       "lifetimeRank": 4,
-      "lifetimePercentile": 0.997962,
-      "weeklyRank": 1,
+      "lifetimePercentile": 0.997965,
+      "weeklyRank": null,
       "monthlyRank": 2,
       "characterClass": "Maintainer",
       "tier": "legend",
@@ -44,7 +44,7 @@
             "score": 1240.5,
             "percentage": 19.481437276210812,
             "rank": 4,
-            "totalInArea": 580
+            "totalInArea": 581
           },
           {
             "tag": "core",
@@ -82,18 +82,18 @@
         }
       }
     },
-    "ecosystemFactor": 0.806316,
+    "ecosystemFactor": 0.742032,
     "elizaEffect": {
-      "miladyNorm": 0.4669,
-      "elizaLifetimePercentile": 0.997962,
-      "ecosystemNorm": 0.806316,
+      "miladyNorm": 0.8019,
+      "elizaLifetimePercentile": 0.997965,
+      "ecosystemNorm": 0.742032,
       "weights": {
         "milady": 0.45,
         "eliza": 0.35,
         "ecosystem": 0.2
       },
-      "effectNorm": 0.720655,
-      "effectScore": 72.0655
+      "effectNorm": 0.858549,
+      "effectScore": 85.8549
     }
   }
 }

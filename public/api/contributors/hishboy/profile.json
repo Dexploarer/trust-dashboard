@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-02-22T08:43:16.298Z",
+  "generatedAt": "2026-03-03T19:50:51.725Z",
   "source": "milady-ai/trust-dashboard",
   "username": "hishboy",
   "profile": {
@@ -11,7 +11,7 @@
     "eliza": {
       "lifetimeScore": 199.7534,
       "lifetimeRank": 84,
-      "lifetimePercentile": 0.943614,
+      "lifetimePercentile": 0.943691,
       "weeklyRank": null,
       "monthlyRank": null,
       "characterClass": "Builder",
@@ -60,18 +60,18 @@
         "wallets": {}
       }
     },
-    "ecosystemFactor": 0.798366,
+    "ecosystemFactor": 0.73412,
     "elizaEffect": {
       "miladyNorm": 0,
-      "elizaLifetimePercentile": 0.943614,
-      "ecosystemNorm": 0.798366,
+      "elizaLifetimePercentile": 0.943691,
+      "ecosystemNorm": 0.73412,
       "weights": {
         "milady": 0.45,
         "eliza": 0.35,
         "ecosystem": 0.2
       },
-      "effectNorm": 0.489938,
-      "effectScore": 48.9938
+      "effectNorm": 0.477116,
+      "effectScore": 47.7116
     }
   }
 }

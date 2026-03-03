@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-02-22T08:43:16.298Z",
+  "generatedAt": "2026-03-03T19:50:51.725Z",
   "source": "milady-ai/trust-dashboard",
   "username": "augchan42",
   "profile": {
@@ -11,7 +11,7 @@
     "eliza": {
       "lifetimeScore": 671.9441,
       "lifetimeRank": 26,
-      "lifetimePercentile": 0.983016,
+      "lifetimePercentile": 0.983039,
       "weeklyRank": null,
       "monthlyRank": null,
       "characterClass": "Builder",
@@ -65,18 +65,18 @@
         "wallets": {}
       }
     },
-    "ecosystemFactor": 0.810991,
+    "ecosystemFactor": 0.746717,
     "elizaEffect": {
       "miladyNorm": 0,
-      "elizaLifetimePercentile": 0.983016,
-      "ecosystemNorm": 0.810991,
+      "elizaLifetimePercentile": 0.983039,
+      "ecosystemNorm": 0.746717,
       "weights": {
         "milady": 0.45,
         "eliza": 0.35,
         "ecosystem": 0.2
       },
-      "effectNorm": 0.506254,
-      "effectScore": 50.6254
+      "effectNorm": 0.493407,
+      "effectScore": 49.3407
     }
   }
 }

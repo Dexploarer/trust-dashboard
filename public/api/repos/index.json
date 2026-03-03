@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-02-22T08:43:16.298Z",
+  "generatedAt": "2026-03-03T19:50:51.725Z",
   "source": "milady-ai/trust-dashboard",
   "repos": [
     {
@@ -21,7 +21,7 @@
       "label": "Eliza Core",
       "includeInEcosystemFactor": true,
       "summaryStatus": "ok",
-      "summaryGeneratedAt": "2026-02-21T23:17:33.902Z",
+      "summaryGeneratedAt": "2026-02-22T23:21:00.963Z",
       "summaryUrl": "https://elizaos.github.io/api/summaries/repos/elizaos_eliza/week/latest.json"
     },
     {
@@ -31,7 +31,7 @@
       "label": "Eliza Plugin Registry",
       "includeInEcosystemFactor": true,
       "summaryStatus": "ok",
-      "summaryGeneratedAt": "2026-02-21T23:17:33.901Z",
+      "summaryGeneratedAt": "2026-02-22T23:21:00.962Z",
       "summaryUrl": "https://elizaos.github.io/api/summaries/repos/elizaos-plugins_registry/week/latest.json"
     },
     {
@@ -41,8 +41,95 @@
       "label": "Eliza Leaderboard Site",
       "includeInEcosystemFactor": true,
       "summaryStatus": "ok",
-      "summaryGeneratedAt": "2026-02-21T23:17:33.901Z",
+      "summaryGeneratedAt": "2026-02-22T23:21:00.961Z",
       "summaryUrl": "https://elizaos.github.io/api/summaries/repos/elizaos_elizaos.github.io/week/latest.json"
+    },
+    {
+      "owner": "elizaOS",
+      "repo": "characterfile",
+      "repoId": "elizaos_characterfile",
+      "label": "Character File Spec",
+      "includeInEcosystemFactor": true,
+      "summaryStatus": "missing",
+      "summaryGeneratedAt": null,
+      "summaryUrl": "https://elizaos.github.io/api/summaries/repos/elizaos_characterfile/week/latest.json",
+      "summaryError": "Summary not published for elizaOS/characterfile"
+    },
+    {
+      "owner": "elizaOS",
+      "repo": "eliza-starter",
+      "repoId": "elizaos_eliza-starter",
+      "label": "Eliza Starter",
+      "includeInEcosystemFactor": true,
+      "summaryStatus": "missing",
+      "summaryGeneratedAt": null,
+      "summaryUrl": "https://elizaos.github.io/api/summaries/repos/elizaos_eliza-starter/week/latest.json",
+      "summaryError": "Summary not published for elizaOS/eliza-starter"
+    },
+    {
+      "owner": "elizaOS",
+      "repo": "knowledge",
+      "repoId": "elizaos_knowledge",
+      "label": "Ecosystem Knowledge",
+      "includeInEcosystemFactor": true,
+      "summaryStatus": "missing",
+      "summaryGeneratedAt": null,
+      "summaryUrl": "https://elizaos.github.io/api/summaries/repos/elizaos_knowledge/week/latest.json",
+      "summaryError": "Summary not published for elizaOS/knowledge"
+    },
+    {
+      "owner": "elizaOS",
+      "repo": "spartan",
+      "repoId": "elizaos_spartan",
+      "label": "Spartan Trading Agent",
+      "includeInEcosystemFactor": false,
+      "summaryStatus": "ok",
+      "summaryGeneratedAt": "2026-02-22T23:21:00.963Z",
+      "summaryUrl": "https://elizaos.github.io/api/summaries/repos/elizaos_spartan/week/latest.json"
+    },
+    {
+      "owner": "elizaOS",
+      "repo": "the-org",
+      "repoId": "elizaos_the-org",
+      "label": "The Org",
+      "includeInEcosystemFactor": false,
+      "summaryStatus": "missing",
+      "summaryGeneratedAt": null,
+      "summaryUrl": "https://elizaos.github.io/api/summaries/repos/elizaos_the-org/week/latest.json",
+      "summaryError": "Summary not published for elizaOS/the-org"
+    },
+    {
+      "owner": "elizaOS",
+      "repo": "agentbrowser",
+      "repoId": "elizaos_agentbrowser",
+      "label": "Agent Browser",
+      "includeInEcosystemFactor": false,
+      "summaryStatus": "missing",
+      "summaryGeneratedAt": null,
+      "summaryUrl": "https://elizaos.github.io/api/summaries/repos/elizaos_agentbrowser/week/latest.json",
+      "summaryError": "Summary not published for elizaOS/agentbrowser"
+    },
+    {
+      "owner": "elizaOS",
+      "repo": "mcp-gateway",
+      "repoId": "elizaos_mcp-gateway",
+      "label": "MCP Gateway",
+      "includeInEcosystemFactor": false,
+      "summaryStatus": "missing",
+      "summaryGeneratedAt": null,
+      "summaryUrl": "https://elizaos.github.io/api/summaries/repos/elizaos_mcp-gateway/week/latest.json",
+      "summaryError": "Summary not published for elizaOS/mcp-gateway"
+    },
+    {
+      "owner": "elizaOS",
+      "repo": "discord-summarizer",
+      "repoId": "elizaos_discord-summarizer",
+      "label": "Discord Summarizer",
+      "includeInEcosystemFactor": false,
+      "summaryStatus": "missing",
+      "summaryGeneratedAt": null,
+      "summaryUrl": "https://elizaos.github.io/api/summaries/repos/elizaos_discord-summarizer/week/latest.json",
+      "summaryError": "Summary not published for elizaOS/discord-summarizer"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-02-22T08:43:16.298Z",
+  "generatedAt": "2026-03-03T19:50:51.725Z",
   "source": "milady-ai/trust-dashboard",
   "username": "ChristopherTrimboli",
   "profile": {
@@ -11,7 +11,7 @@
     "eliza": {
       "lifetimeScore": 7801.8526,
       "lifetimeRank": 5,
-      "lifetimePercentile": 0.997283,
+      "lifetimePercentile": 0.997286,
       "weeklyRank": null,
       "monthlyRank": null,
       "characterClass": "Builder",
@@ -78,18 +78,18 @@
         }
       }
     },
-    "ecosystemFactor": 0.816484,
+    "ecosystemFactor": 0.7522,
     "elizaEffect": {
       "miladyNorm": 0,
-      "elizaLifetimePercentile": 0.997283,
-      "ecosystemNorm": 0.816484,
+      "elizaLifetimePercentile": 0.997286,
+      "ecosystemNorm": 0.7522,
       "weights": {
         "milady": 0.45,
         "eliza": 0.35,
         "ecosystem": 0.2
       },
-      "effectNorm": 0.512346,
-      "effectScore": 51.2346
+      "effectNorm": 0.49949,
+      "effectScore": 49.949
     }
   }
 }

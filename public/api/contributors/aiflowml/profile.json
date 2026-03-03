@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-02-22T08:43:16.298Z",
+  "generatedAt": "2026-03-03T19:50:51.725Z",
   "source": "milady-ai/trust-dashboard",
   "username": "AIFlowML",
   "profile": {
@@ -11,7 +11,7 @@
     "eliza": {
       "lifetimeScore": 3033.4156,
       "lifetimeRank": 13,
-      "lifetimePercentile": 0.991848,
+      "lifetimePercentile": 0.991859,
       "weeklyRank": null,
       "monthlyRank": null,
       "characterClass": "Builder",
@@ -73,18 +73,18 @@
         }
       }
     },
-    "ecosystemFactor": 0.823948,
+    "ecosystemFactor": 0.759668,
     "elizaEffect": {
       "miladyNorm": 0,
-      "elizaLifetimePercentile": 0.991848,
-      "ecosystemNorm": 0.823948,
+      "elizaLifetimePercentile": 0.991859,
+      "ecosystemNorm": 0.759668,
       "weights": {
         "milady": 0.45,
         "eliza": 0.35,
         "ecosystem": 0.2
       },
-      "effectNorm": 0.511936,
-      "effectScore": 51.1936
+      "effectNorm": 0.499084,
+      "effectScore": 49.9084
     }
   }
 }

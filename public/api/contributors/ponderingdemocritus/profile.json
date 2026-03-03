@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-02-22T08:43:16.298Z",
+  "generatedAt": "2026-03-03T19:50:51.725Z",
   "source": "milady-ai/trust-dashboard",
   "username": "ponderingdemocritus",
   "profile": {
@@ -11,7 +11,7 @@
     "eliza": {
       "lifetimeScore": 2012.3112,
       "lifetimeRank": 15,
-      "lifetimePercentile": 0.990489,
+      "lifetimePercentile": 0.990502,
       "weeklyRank": null,
       "monthlyRank": null,
       "characterClass": "Builder",
@@ -47,7 +47,7 @@
             "score": 201,
             "percentage": 8.767338393090814,
             "rank": 14,
-            "totalInArea": 580
+            "totalInArea": 581
           }
         ],
         "achievements": [
@@ -75,18 +75,18 @@
         "wallets": {}
       }
     },
-    "ecosystemFactor": 0.818806,
+    "ecosystemFactor": 0.754527,
     "elizaEffect": {
       "miladyNorm": 0,
-      "elizaLifetimePercentile": 0.990489,
-      "ecosystemNorm": 0.818806,
+      "elizaLifetimePercentile": 0.990502,
+      "ecosystemNorm": 0.754527,
       "weights": {
         "milady": 0.45,
         "eliza": 0.35,
         "ecosystem": 0.2
       },
-      "effectNorm": 0.510432,
-      "effectScore": 51.0432
+      "effectNorm": 0.497581,
+      "effectScore": 49.7581
     }
   }
 }

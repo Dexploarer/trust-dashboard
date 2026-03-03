@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-02-22T08:43:16.298Z",
+  "generatedAt": "2026-03-03T19:50:51.725Z",
   "source": "milady-ai/trust-dashboard",
   "username": "MarcoMandar",
   "profile": {
@@ -11,7 +11,7 @@
     "eliza": {
       "lifetimeScore": 705.589,
       "lifetimeRank": 24,
-      "lifetimePercentile": 0.984375,
+      "lifetimePercentile": 0.984396,
       "weeklyRank": null,
       "monthlyRank": null,
       "characterClass": "Builder",
@@ -60,18 +60,18 @@
         "wallets": {}
       }
     },
-    "ecosystemFactor": 0.820809,
+    "ecosystemFactor": 0.756535,
     "elizaEffect": {
       "miladyNorm": 0,
-      "elizaLifetimePercentile": 0.984375,
-      "ecosystemNorm": 0.820809,
+      "elizaLifetimePercentile": 0.984396,
+      "ecosystemNorm": 0.756535,
       "weights": {
         "milady": 0.45,
         "eliza": 0.35,
         "ecosystem": 0.2
       },
-      "effectNorm": 0.508693,
-      "effectScore": 50.8693
+      "effectNorm": 0.495846,
+      "effectScore": 49.5846
     }
   }
 }

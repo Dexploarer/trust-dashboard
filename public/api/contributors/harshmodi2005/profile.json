@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-02-22T08:43:16.298Z",
+  "generatedAt": "2026-03-03T19:50:51.725Z",
   "source": "milady-ai/trust-dashboard",
   "username": "HarshModi2005",
   "profile": {
@@ -11,7 +11,7 @@
     "eliza": {
       "lifetimeScore": 940.3904,
       "lifetimeRank": 20,
-      "lifetimePercentile": 0.987092,
+      "lifetimePercentile": 0.98711,
       "weeklyRank": null,
       "monthlyRank": null,
       "characterClass": "Builder",
@@ -70,18 +70,18 @@
         "wallets": {}
       }
     },
-    "ecosystemFactor": 0.816261,
+    "ecosystemFactor": 0.751985,
     "elizaEffect": {
       "miladyNorm": 0,
-      "elizaLifetimePercentile": 0.987092,
-      "ecosystemNorm": 0.816261,
+      "elizaLifetimePercentile": 0.98711,
+      "ecosystemNorm": 0.751985,
       "weights": {
         "milady": 0.45,
         "eliza": 0.35,
         "ecosystem": 0.2
       },
-      "effectNorm": 0.508735,
-      "effectScore": 50.8735
+      "effectNorm": 0.495885,
+      "effectScore": 49.5885
     }
   }
 }

@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-02-22T08:43:16.298Z",
+  "generatedAt": "2026-03-03T19:50:51.725Z",
   "source": "milady-ai/trust-dashboard",
   "username": "sweetmantech",
   "profile": {
@@ -11,7 +11,7 @@
     "eliza": {
       "lifetimeScore": 184.619,
       "lifetimeRank": 92,
-      "lifetimePercentile": 0.938179,
+      "lifetimePercentile": 0.938263,
       "weeklyRank": null,
       "monthlyRank": null,
       "characterClass": "Builder",
@@ -40,7 +40,7 @@
             "score": 9,
             "percentage": 21.634615384615383,
             "rank": 178,
-            "totalInArea": 580
+            "totalInArea": 581
           },
           {
             "tag": "infra",
@@ -53,18 +53,18 @@
         "wallets": {}
       }
     },
-    "ecosystemFactor": 0.785394,
+    "ecosystemFactor": 0.721152,
     "elizaEffect": {
       "miladyNorm": 0,
-      "elizaLifetimePercentile": 0.938179,
-      "ecosystemNorm": 0.785394,
+      "elizaLifetimePercentile": 0.938263,
+      "ecosystemNorm": 0.721152,
       "weights": {
         "milady": 0.45,
         "eliza": 0.35,
         "ecosystem": 0.2
       },
-      "effectNorm": 0.485442,
-      "effectScore": 48.5442
+      "effectNorm": 0.472623,
+      "effectScore": 47.2623
     }
   }
 }

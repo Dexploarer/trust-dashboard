@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-02-22T08:43:16.298Z",
+  "generatedAt": "2026-03-03T19:50:51.725Z",
   "source": "milady-ai/trust-dashboard",
   "username": "Olexandr88",
   "profile": {
@@ -11,7 +11,7 @@
     "eliza": {
       "lifetimeScore": 184.4441,
       "lifetimeRank": 93,
-      "lifetimePercentile": 0.9375,
+      "lifetimePercentile": 0.937585,
       "weeklyRank": null,
       "monthlyRank": null,
       "characterClass": "Scribe",
@@ -33,7 +33,7 @@
             "score": 30,
             "percentage": 60,
             "rank": 75,
-            "totalInArea": 580
+            "totalInArea": 581
           },
           {
             "tag": "maintainer",
@@ -46,18 +46,18 @@
         "wallets": {}
       }
     },
-    "ecosystemFactor": 0.797327,
+    "ecosystemFactor": 0.733085,
     "elizaEffect": {
       "miladyNorm": 0,
-      "elizaLifetimePercentile": 0.9375,
-      "ecosystemNorm": 0.797327,
+      "elizaLifetimePercentile": 0.937585,
+      "ecosystemNorm": 0.733085,
       "weights": {
         "milady": 0.45,
         "eliza": 0.35,
         "ecosystem": 0.2
       },
-      "effectNorm": 0.48759,
-      "effectScore": 48.759
+      "effectNorm": 0.474772,
+      "effectScore": 47.4772
     }
   }
 }

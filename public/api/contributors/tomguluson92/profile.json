@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-02-22T08:43:16.298Z",
+  "generatedAt": "2026-03-03T19:50:51.725Z",
   "source": "milady-ai/trust-dashboard",
   "username": "tomguluson92",
   "profile": {
@@ -11,7 +11,7 @@
     "eliza": {
       "lifetimeScore": 592.4801,
       "lifetimeRank": 31,
-      "lifetimePercentile": 0.97962,
+      "lifetimePercentile": 0.979647,
       "weeklyRank": null,
       "monthlyRank": null,
       "characterClass": "Builder",
@@ -33,7 +33,7 @@
             "score": 103.5,
             "percentage": 30.166132322937923,
             "rank": 33,
-            "totalInArea": 580
+            "totalInArea": 581
           },
           {
             "tag": "typescript",
@@ -63,18 +63,18 @@
         }
       }
     },
-    "ecosystemFactor": 0.819294,
+    "ecosystemFactor": 0.755023,
     "elizaEffect": {
       "miladyNorm": 0,
-      "elizaLifetimePercentile": 0.97962,
-      "ecosystemNorm": 0.819294,
+      "elizaLifetimePercentile": 0.979647,
+      "ecosystemNorm": 0.755023,
       "weights": {
         "milady": 0.45,
         "eliza": 0.35,
         "ecosystem": 0.2
       },
-      "effectNorm": 0.506726,
-      "effectScore": 50.6726
+      "effectNorm": 0.493881,
+      "effectScore": 49.3881
     }
   }
 }

@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-02-22T08:43:16.298Z",
+  "generatedAt": "2026-03-03T19:50:51.725Z",
   "source": "milady-ai/trust-dashboard",
   "username": "BlockEater96",
   "profile": {
@@ -11,7 +11,7 @@
     "eliza": {
       "lifetimeScore": 233.2379,
       "lifetimeRank": 69,
-      "lifetimePercentile": 0.953804,
+      "lifetimePercentile": 0.953867,
       "weeklyRank": null,
       "monthlyRank": null,
       "characterClass": "Builder",
@@ -47,24 +47,24 @@
             "score": 13.5,
             "percentage": 5.014858841010401,
             "rank": 114,
-            "totalInArea": 580
+            "totalInArea": 581
           }
         ],
         "wallets": {}
       }
     },
-    "ecosystemFactor": 0.805678,
+    "ecosystemFactor": 0.741425,
     "elizaEffect": {
       "miladyNorm": 0,
-      "elizaLifetimePercentile": 0.953804,
-      "ecosystemNorm": 0.805678,
+      "elizaLifetimePercentile": 0.953867,
+      "ecosystemNorm": 0.741425,
       "weights": {
         "milady": 0.45,
         "eliza": 0.35,
         "ecosystem": 0.2
       },
-      "effectNorm": 0.494967,
-      "effectScore": 49.4967
+      "effectNorm": 0.482138,
+      "effectScore": 48.2138
     }
   }
 }

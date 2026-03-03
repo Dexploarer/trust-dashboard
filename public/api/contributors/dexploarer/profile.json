@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-02-22T08:43:16.298Z",
+  "generatedAt": "2026-03-03T19:50:51.725Z",
   "source": "milady-ai/trust-dashboard",
   "username": "Dexploarer",
   "profile": {
@@ -8,14 +8,14 @@
     "canonicalUsername": "dexploarer",
     "avatarUrl": "https://avatars.githubusercontent.com/u/211557447?v=4",
     "milady": {
-      "trustScore": 35,
-      "rank": 18,
-      "tier": "probationary"
+      "trustScore": 48.22,
+      "rank": 7,
+      "tier": "contributing"
     },
     "eliza": {
       "lifetimeScore": 359.7644,
       "lifetimeRank": 44,
-      "lifetimePercentile": 0.970788,
+      "lifetimePercentile": 0.970828,
       "weeklyRank": null,
       "monthlyRank": null,
       "characterClass": "Builder",
@@ -51,7 +51,7 @@
             "score": 76.5,
             "percentage": 14.109184802655845,
             "rank": 45,
-            "totalInArea": 580
+            "totalInArea": 581
           }
         ],
         "achievements": [
@@ -67,18 +67,18 @@
         }
       }
     },
-    "ecosystemFactor": 0.81272,
+    "ecosystemFactor": 0.748454,
     "elizaEffect": {
-      "miladyNorm": 0.35,
-      "elizaLifetimePercentile": 0.970788,
-      "ecosystemNorm": 0.81272,
+      "miladyNorm": 0.4822,
+      "elizaLifetimePercentile": 0.970828,
+      "ecosystemNorm": 0.748454,
       "weights": {
         "milady": 0.45,
         "eliza": 0.35,
         "ecosystem": 0.2
       },
-      "effectNorm": 0.65982,
-      "effectScore": 65.982
+      "effectNorm": 0.706471,
+      "effectScore": 70.6471
     }
   }
 }

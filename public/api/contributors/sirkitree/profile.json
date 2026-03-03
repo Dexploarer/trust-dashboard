@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-02-22T08:43:16.298Z",
+  "generatedAt": "2026-03-03T19:50:51.725Z",
   "source": "milady-ai/trust-dashboard",
   "username": "sirkitree",
   "profile": {
@@ -11,7 +11,7 @@
     "eliza": {
       "lifetimeScore": 515.1406,
       "lifetimeRank": 35,
-      "lifetimePercentile": 0.976902,
+      "lifetimePercentile": 0.976934,
       "weeklyRank": null,
       "monthlyRank": null,
       "characterClass": "Pathfinder",
@@ -70,18 +70,18 @@
         "wallets": {}
       }
     },
-    "ecosystemFactor": 0.78242,
+    "ecosystemFactor": 0.718151,
     "elizaEffect": {
       "miladyNorm": 0,
-      "elizaLifetimePercentile": 0.976902,
-      "ecosystemNorm": 0.78242,
+      "elizaLifetimePercentile": 0.976934,
+      "ecosystemNorm": 0.718151,
       "weights": {
         "milady": 0.45,
         "eliza": 0.35,
         "ecosystem": 0.2
       },
-      "effectNorm": 0.4984,
-      "effectScore": 49.84
+      "effectNorm": 0.485557,
+      "effectScore": 48.5557
     }
   }
 }

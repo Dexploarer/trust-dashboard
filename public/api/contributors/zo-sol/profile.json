@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-02-22T08:43:16.298Z",
+  "generatedAt": "2026-03-03T19:50:51.725Z",
   "source": "milady-ai/trust-dashboard",
   "username": "zo-sol",
   "profile": {
@@ -11,7 +11,7 @@
     "eliza": {
       "lifetimeScore": 204.9727,
       "lifetimeRank": 81,
-      "lifetimePercentile": 0.945652,
+      "lifetimePercentile": 0.945726,
       "weeklyRank": null,
       "monthlyRank": null,
       "characterClass": "Builder",
@@ -40,7 +40,7 @@
             "score": 15,
             "percentage": 20.408163265306122,
             "rank": 111,
-            "totalInArea": 580
+            "totalInArea": 581
           },
           {
             "tag": "infra",
@@ -53,18 +53,18 @@
         "wallets": {}
       }
     },
-    "ecosystemFactor": 0.798226,
+    "ecosystemFactor": 0.733979,
     "elizaEffect": {
       "miladyNorm": 0,
-      "elizaLifetimePercentile": 0.945652,
-      "ecosystemNorm": 0.798226,
+      "elizaLifetimePercentile": 0.945726,
+      "ecosystemNorm": 0.733979,
       "weights": {
         "milady": 0.45,
         "eliza": 0.35,
         "ecosystem": 0.2
       },
-      "effectNorm": 0.490624,
-      "effectScore": 49.0624
+      "effectNorm": 0.4778,
+      "effectScore": 47.78
     }
   }
 }

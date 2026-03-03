@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-02-22T08:43:16.298Z",
+  "generatedAt": "2026-03-03T19:50:51.725Z",
   "source": "milady-ai/trust-dashboard",
   "username": "btspoony",
   "profile": {
@@ -11,7 +11,7 @@
     "eliza": {
       "lifetimeScore": 370.007,
       "lifetimeRank": 41,
-      "lifetimePercentile": 0.972826,
+      "lifetimePercentile": 0.972863,
       "weeklyRank": null,
       "monthlyRank": null,
       "characterClass": "Builder",
@@ -63,18 +63,18 @@
         }
       }
     },
-    "ecosystemFactor": 0.810085,
+    "ecosystemFactor": 0.745818,
     "elizaEffect": {
       "miladyNorm": 0,
-      "elizaLifetimePercentile": 0.972826,
-      "ecosystemNorm": 0.810085,
+      "elizaLifetimePercentile": 0.972863,
+      "ecosystemNorm": 0.745818,
       "weights": {
         "milady": 0.45,
         "eliza": 0.35,
         "ecosystem": 0.2
       },
-      "effectNorm": 0.502506,
-      "effectScore": 50.2506
+      "effectNorm": 0.489666,
+      "effectScore": 48.9666
     }
   }
 }

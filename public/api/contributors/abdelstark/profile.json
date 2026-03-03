@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-02-22T08:43:16.298Z",
+  "generatedAt": "2026-03-03T19:50:51.725Z",
   "source": "milady-ai/trust-dashboard",
   "username": "AbdelStark",
   "profile": {
@@ -11,7 +11,7 @@
     "eliza": {
       "lifetimeScore": 182.9917,
       "lifetimeRank": 94,
-      "lifetimePercentile": 0.936821,
+      "lifetimePercentile": 0.936906,
       "weeklyRank": null,
       "monthlyRank": null,
       "characterClass": "Builder",
@@ -47,24 +47,24 @@
             "score": 18,
             "percentage": 11.80327868852459,
             "rank": 91,
-            "totalInArea": 580
+            "totalInArea": 581
           }
         ],
         "wallets": {}
       }
     },
-    "ecosystemFactor": 0.794324,
+    "ecosystemFactor": 0.730083,
     "elizaEffect": {
       "miladyNorm": 0,
-      "elizaLifetimePercentile": 0.936821,
-      "ecosystemNorm": 0.794324,
+      "elizaLifetimePercentile": 0.936906,
+      "ecosystemNorm": 0.730083,
       "weights": {
         "milady": 0.45,
         "eliza": 0.35,
         "ecosystem": 0.2
       },
-      "effectNorm": 0.486752,
-      "effectScore": 48.6752
+      "effectNorm": 0.473934,
+      "effectScore": 47.3934
     }
   }
 }

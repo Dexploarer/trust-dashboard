@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-02-22T08:43:16.298Z",
+  "generatedAt": "2026-03-03T19:50:51.725Z",
   "source": "milady-ai/trust-dashboard",
   "username": "twilwa",
   "profile": {
@@ -11,7 +11,7 @@
     "eliza": {
       "lifetimeScore": 457.8825,
       "lifetimeRank": 36,
-      "lifetimePercentile": 0.976223,
+      "lifetimePercentile": 0.976255,
       "weeklyRank": null,
       "monthlyRank": null,
       "characterClass": "Scribe",
@@ -33,7 +33,7 @@
             "score": 123,
             "percentage": 44.93971501644135,
             "rank": 29,
-            "totalInArea": 580
+            "totalInArea": 581
           },
           {
             "tag": "api",
@@ -73,18 +73,18 @@
         }
       }
     },
-    "ecosystemFactor": 0.798551,
+    "ecosystemFactor": 0.734282,
     "elizaEffect": {
       "miladyNorm": 0,
-      "elizaLifetimePercentile": 0.976223,
-      "ecosystemNorm": 0.798551,
+      "elizaLifetimePercentile": 0.976255,
+      "ecosystemNorm": 0.734282,
       "weights": {
         "milady": 0.45,
         "eliza": 0.35,
         "ecosystem": 0.2
       },
-      "effectNorm": 0.501388,
-      "effectScore": 50.1388
+      "effectNorm": 0.488546,
+      "effectScore": 48.8546
     }
   }
 }

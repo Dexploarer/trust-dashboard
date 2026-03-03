@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-02-22T08:43:16.298Z",
+  "generatedAt": "2026-03-03T19:50:51.725Z",
   "source": "milady-ai/trust-dashboard",
   "username": "monilpat",
   "profile": {
@@ -11,7 +11,7 @@
     "eliza": {
       "lifetimeScore": 4261.6045,
       "lifetimeRank": 9,
-      "lifetimePercentile": 0.994565,
+      "lifetimePercentile": 0.994573,
       "weeklyRank": null,
       "monthlyRank": null,
       "characterClass": "Scribe",
@@ -33,7 +33,7 @@
             "score": 1234.5,
             "percentage": 45.27616812146995,
             "rank": 5,
-            "totalInArea": 580
+            "totalInArea": 581
           },
           {
             "tag": "typescript",
@@ -80,18 +80,18 @@
         "wallets": {}
       }
     },
-    "ecosystemFactor": 0.777144,
+    "ecosystemFactor": 0.712862,
     "elizaEffect": {
       "miladyNorm": 0,
-      "elizaLifetimePercentile": 0.994565,
-      "ecosystemNorm": 0.777144,
+      "elizaLifetimePercentile": 0.994573,
+      "ecosystemNorm": 0.712862,
       "weights": {
         "milady": 0.45,
         "eliza": 0.35,
         "ecosystem": 0.2
       },
-      "effectNorm": 0.503527,
-      "effectScore": 50.3527
+      "effectNorm": 0.490673,
+      "effectScore": 49.0673
     }
   }
 }

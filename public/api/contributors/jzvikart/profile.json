@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-02-22T08:43:16.298Z",
+  "generatedAt": "2026-03-03T19:50:51.725Z",
   "source": "milady-ai/trust-dashboard",
   "username": "jzvikart",
   "profile": {
@@ -11,7 +11,7 @@
     "eliza": {
       "lifetimeScore": 191.4194,
       "lifetimeRank": 89,
-      "lifetimePercentile": 0.940217,
+      "lifetimePercentile": 0.940299,
       "weeklyRank": null,
       "monthlyRank": null,
       "characterClass": "Scribe",
@@ -33,7 +33,7 @@
             "score": 124.5,
             "percentage": 52.82138311412812,
             "rank": 28,
-            "totalInArea": 580
+            "totalInArea": 581
           },
           {
             "tag": "api",
@@ -53,18 +53,18 @@
         "wallets": {}
       }
     },
-    "ecosystemFactor": 0.78816,
+    "ecosystemFactor": 0.723916,
     "elizaEffect": {
       "miladyNorm": 0,
-      "elizaLifetimePercentile": 0.940217,
-      "ecosystemNorm": 0.78816,
+      "elizaLifetimePercentile": 0.940299,
+      "ecosystemNorm": 0.723916,
       "weights": {
         "milady": 0.45,
         "eliza": 0.35,
         "ecosystem": 0.2
       },
-      "effectNorm": 0.486708,
-      "effectScore": 48.6708
+      "effectNorm": 0.473888,
+      "effectScore": 47.3888
     }
   }
 }

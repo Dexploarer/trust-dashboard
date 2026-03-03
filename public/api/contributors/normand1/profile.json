@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-02-22T08:43:16.298Z",
+  "generatedAt": "2026-03-03T19:50:51.725Z",
   "source": "milady-ai/trust-dashboard",
   "username": "normand1",
   "profile": {
@@ -11,7 +11,7 @@
     "eliza": {
       "lifetimeScore": 273.8485,
       "lifetimeRank": 61,
-      "lifetimePercentile": 0.959239,
+      "lifetimePercentile": 0.959294,
       "weeklyRank": null,
       "monthlyRank": null,
       "characterClass": "Builder",
@@ -60,18 +60,18 @@
         "wallets": {}
       }
     },
-    "ecosystemFactor": 0.791725,
+    "ecosystemFactor": 0.727468,
     "elizaEffect": {
       "miladyNorm": 0,
-      "elizaLifetimePercentile": 0.959239,
-      "ecosystemNorm": 0.791725,
+      "elizaLifetimePercentile": 0.959294,
+      "ecosystemNorm": 0.727468,
       "weights": {
         "milady": 0.45,
         "eliza": 0.35,
         "ecosystem": 0.2
       },
-      "effectNorm": 0.494079,
-      "effectScore": 49.4079
+      "effectNorm": 0.481247,
+      "effectScore": 48.1247
     }
   }
 }
