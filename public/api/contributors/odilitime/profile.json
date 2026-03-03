@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-03-03T19:50:51.725Z",
+  "generatedAt": "2026-03-03T21:35:41.770Z",
   "source": "milady-ai/trust-dashboard",
   "username": "odilitime",
   "profile": {
@@ -8,7 +8,7 @@
     "canonicalUsername": "odilitime",
     "avatarUrl": "https://avatars.githubusercontent.com/u/16395496?v=4",
     "milady": {
-      "trustScore": 80.19,
+      "trustScore": 80.18,
       "rank": 3,
       "tier": "trusted"
     },
@@ -84,7 +84,7 @@
     },
     "ecosystemFactor": 0.742032,
     "elizaEffect": {
-      "miladyNorm": 0.8019,
+      "miladyNorm": 0.8018,
       "elizaLifetimePercentile": 0.997965,
       "ecosystemNorm": 0.742032,
       "weights": {
@@ -92,8 +92,8 @@
         "eliza": 0.35,
         "ecosystem": 0.2
       },
-      "effectNorm": 0.858549,
-      "effectScore": 85.8549
+      "effectNorm": 0.858504,
+      "effectScore": 85.8504
     }
   }
 }
