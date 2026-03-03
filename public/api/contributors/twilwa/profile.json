@@ -1,0 +1,90 @@
+{
+  "version": "1.0",
+  "generatedAt": "2026-02-22T08:43:16.298Z",
+  "source": "milady-ai/trust-dashboard",
+  "username": "twilwa",
+  "profile": {
+    "username": "twilwa",
+    "canonicalUsername": "twilwa",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/111034762?u=0d3eed7c5f6e6fd4ddee24801aae9f88b0330380&v=4",
+    "milady": null,
+    "eliza": {
+      "lifetimeScore": 457.8825,
+      "lifetimeRank": 36,
+      "lifetimePercentile": 0.976223,
+      "weeklyRank": null,
+      "monthlyRank": null,
+      "characterClass": "Scribe",
+      "tier": "active",
+      "entry": {
+        "rank": 36,
+        "username": "twilwa",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/111034762?u=0d3eed7c5f6e6fd4ddee24801aae9f88b0330380&v=4",
+        "characterClass": "Scribe",
+        "tier": "active",
+        "score": 457.88245199010606,
+        "prScore": 360.96645199010607,
+        "issueScore": 20.2,
+        "reviewScore": 74.5,
+        "commentScore": 2.2159999999999997,
+        "focusAreas": [
+          {
+            "tag": "docs",
+            "score": 123,
+            "percentage": 44.93971501644135,
+            "rank": 29,
+            "totalInArea": 580
+          },
+          {
+            "tag": "api",
+            "score": 59.20000000000003,
+            "percentage": 21.629521373766906,
+            "rank": 23,
+            "totalInArea": 194
+          },
+          {
+            "tag": "infra",
+            "score": 27.000000000000007,
+            "percentage": 9.864815491413959,
+            "rank": 46,
+            "totalInArea": 375
+          }
+        ],
+        "achievements": [
+          {
+            "type": "pr_master",
+            "tier": "beginner",
+            "earnedAt": "2025-10-27T23:09:13.467Z"
+          },
+          {
+            "type": "bug_hunter",
+            "tier": "beginner",
+            "earnedAt": "2025-10-27T23:09:13.485Z"
+          },
+          {
+            "type": "review_champion",
+            "tier": "beginner",
+            "earnedAt": "2025-10-27T23:09:13.500Z"
+          }
+        ],
+        "wallets": {
+          "ethereum": "0xef97B1AC874B91E59cDaC83a48d0A87edF8788cD",
+          "solana": "DKM8aSR2t8or7UzA6kaCwYD2wPrUcPoDVvtqEdZ2aeMH"
+        }
+      }
+    },
+    "ecosystemFactor": 0.798551,
+    "elizaEffect": {
+      "miladyNorm": 0,
+      "elizaLifetimePercentile": 0.976223,
+      "ecosystemNorm": 0.798551,
+      "weights": {
+        "milady": 0.45,
+        "eliza": 0.35,
+        "ecosystem": 0.2
+      },
+      "effectNorm": 0.501388,
+      "effectScore": 50.1388
+    }
+  }
+}

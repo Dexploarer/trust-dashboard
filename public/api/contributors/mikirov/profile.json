@@ -1,0 +1,70 @@
+{
+  "version": "1.0",
+  "generatedAt": "2026-02-22T08:43:16.298Z",
+  "source": "milady-ai/trust-dashboard",
+  "username": "mikirov",
+  "profile": {
+    "username": "mikirov",
+    "canonicalUsername": "mikirov",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/29272392?u=a4773a399c1cbcd34cdca9a7877cd61824c5bf09&v=4",
+    "milady": null,
+    "eliza": {
+      "lifetimeScore": 275.5971,
+      "lifetimeRank": 60,
+      "lifetimePercentile": 0.959918,
+      "weeklyRank": null,
+      "monthlyRank": null,
+      "characterClass": "Builder",
+      "tier": "active",
+      "entry": {
+        "rank": 60,
+        "username": "mikirov",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/29272392?u=a4773a399c1cbcd34cdca9a7877cd61824c5bf09&v=4",
+        "characterClass": "Builder",
+        "tier": "active",
+        "score": 275.59707814492305,
+        "prScore": 265.541078144923,
+        "issueScore": 8.1,
+        "reviewScore": 0,
+        "commentScore": 1.956,
+        "focusAreas": [
+          {
+            "tag": "typescript",
+            "score": 75,
+            "percentage": 59.47660586835845,
+            "rank": 58,
+            "totalInArea": 689
+          },
+          {
+            "tag": "tests",
+            "score": 40,
+            "percentage": 31.72085646312451,
+            "rank": 27,
+            "totalInArea": 181
+          },
+          {
+            "tag": "infra",
+            "score": 3.6,
+            "percentage": 2.8548770816812055,
+            "rank": 164,
+            "totalInArea": 375
+          }
+        ],
+        "wallets": {}
+      }
+    },
+    "ecosystemFactor": 0.804495,
+    "elizaEffect": {
+      "miladyNorm": 0,
+      "elizaLifetimePercentile": 0.959918,
+      "ecosystemNorm": 0.804495,
+      "weights": {
+        "milady": 0.45,
+        "eliza": 0.35,
+        "ecosystem": 0.2
+      },
+      "effectNorm": 0.49687,
+      "effectScore": 49.687
+    }
+  }
+}

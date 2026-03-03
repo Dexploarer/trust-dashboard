@@ -1,0 +1,20 @@
+{
+  "version": "1.0",
+  "generatedAt": "2026-02-22T08:43:16.298Z",
+  "source": "milady-ai/trust-dashboard",
+  "endpoints": {
+    "miladyLifetime": "./leaderboards/milady/lifetime.json",
+    "elizaLifetime": "./leaderboards/eliza/lifetime.json",
+    "elizaWeekly": "./leaderboards/eliza/weekly.json",
+    "elizaMonthly": "./leaderboards/eliza/monthly.json",
+    "elizaEffectLifetime": "./leaderboards/eliza-effect/lifetime.json",
+    "repos": "./repos/index.json",
+    "contributorProfilePattern": "./contributors/{username}/profile.json"
+  },
+  "aliases": {
+    "defaultBoard": "./leaderboards/eliza-effect/lifetime.json",
+    "milady": "./leaderboards/milady/lifetime.json",
+    "eliza": "./leaderboards/eliza/lifetime.json",
+    "elizaEffect": "./leaderboards/eliza-effect/lifetime.json"
+  }
+}

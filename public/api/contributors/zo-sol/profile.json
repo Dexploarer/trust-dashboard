@@ -1,0 +1,70 @@
+{
+  "version": "1.0",
+  "generatedAt": "2026-02-22T08:43:16.298Z",
+  "source": "milady-ai/trust-dashboard",
+  "username": "zo-sol",
+  "profile": {
+    "username": "zo-sol",
+    "canonicalUsername": "zo-sol",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/76999066?u=8b7c4672e4735f0f1fa39ae17ce477e1b95d4e29&v=4",
+    "milady": null,
+    "eliza": {
+      "lifetimeScore": 204.9727,
+      "lifetimeRank": 81,
+      "lifetimePercentile": 0.945652,
+      "weeklyRank": null,
+      "monthlyRank": null,
+      "characterClass": "Builder",
+      "tier": "active",
+      "entry": {
+        "rank": 81,
+        "username": "zo-sol",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/76999066?u=8b7c4672e4735f0f1fa39ae17ce477e1b95d4e29&v=4",
+        "characterClass": "Builder",
+        "tier": "active",
+        "score": 204.9726705789273,
+        "prScore": 195.9726705789273,
+        "issueScore": 0,
+        "reviewScore": 9,
+        "commentScore": 0,
+        "focusAreas": [
+          {
+            "tag": "typescript",
+            "score": 36,
+            "percentage": 48.97959183673469,
+            "rank": 129,
+            "totalInArea": 689
+          },
+          {
+            "tag": "docs",
+            "score": 15,
+            "percentage": 20.408163265306122,
+            "rank": 111,
+            "totalInArea": 580
+          },
+          {
+            "tag": "infra",
+            "score": 9,
+            "percentage": 12.244897959183673,
+            "rank": 81,
+            "totalInArea": 375
+          }
+        ],
+        "wallets": {}
+      }
+    },
+    "ecosystemFactor": 0.798226,
+    "elizaEffect": {
+      "miladyNorm": 0,
+      "elizaLifetimePercentile": 0.945652,
+      "ecosystemNorm": 0.798226,
+      "weights": {
+        "milady": 0.45,
+        "eliza": 0.35,
+        "ecosystem": 0.2
+      },
+      "effectNorm": 0.490624,
+      "effectScore": 49.0624
+    }
+  }
+}

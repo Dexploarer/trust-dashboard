@@ -39,11 +39,11 @@ export function ActivityFeed({ contributors }: ActivityFeedProps) {
   }, [contributors]);
 
   return (
-    <section className="rounded-lg border border-border bg-card overflow-hidden">
+    <section className="rounded-2xl border border-border bg-card overflow-hidden">
       <button
         type="button"
         onClick={() => setOpen((v) => !v)}
-        className="w-full flex items-center justify-between px-4 py-3 text-left hover:bg-muted/30 transition-colors"
+        className="w-full flex items-center justify-between px-4 py-3 text-left hover:bg-muted/60 transition-colors"
       >
         <span className="font-semibold text-sm">Recent Activity ({events.length})</span>
         <span className="text-xs text-muted-foreground">{open ? "Hide" : "Show"}</span>

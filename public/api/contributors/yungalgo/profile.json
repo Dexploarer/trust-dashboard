@@ -1,0 +1,95 @@
+{
+  "version": "1.0",
+  "generatedAt": "2026-02-22T08:43:16.298Z",
+  "source": "milady-ai/trust-dashboard",
+  "username": "yungalgo",
+  "profile": {
+    "username": "yungalgo",
+    "canonicalUsername": "yungalgo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/113615973?u=92e0f29f7e2fbb8ce46ed13c51f692ca803de02d&v=4",
+    "milady": null,
+    "eliza": {
+      "lifetimeScore": 4371.4293,
+      "lifetimeRank": 8,
+      "lifetimePercentile": 0.995245,
+      "weeklyRank": null,
+      "monthlyRank": null,
+      "characterClass": "Builder",
+      "tier": "elite",
+      "entry": {
+        "rank": 8,
+        "username": "yungalgo",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/113615973?u=92e0f29f7e2fbb8ce46ed13c51f692ca803de02d&v=4",
+        "characterClass": "Builder",
+        "tier": "elite",
+        "score": 4371.429327431001,
+        "prScore": 4259.555327431001,
+        "issueScore": 0,
+        "reviewScore": 99.5,
+        "commentScore": 12.373999999999999,
+        "focusAreas": [
+          {
+            "tag": "typescript",
+            "score": 807,
+            "percentage": 36.64850136239782,
+            "rank": 9,
+            "totalInArea": 689
+          },
+          {
+            "tag": "docs",
+            "score": 369,
+            "percentage": 16.7574931880109,
+            "rank": 7,
+            "totalInArea": 580
+          },
+          {
+            "tag": "tests",
+            "score": 328,
+            "percentage": 14.895549500454134,
+            "rank": 8,
+            "totalInArea": 181
+          }
+        ],
+        "achievements": [
+          {
+            "type": "level",
+            "tier": "beginner",
+            "earnedAt": "2025-10-27T23:09:12.984Z"
+          },
+          {
+            "type": "streak",
+            "tier": "beginner",
+            "earnedAt": "2025-10-27T23:09:13.000Z"
+          },
+          {
+            "type": "pr_master",
+            "tier": "elite",
+            "earnedAt": "2025-10-27T23:09:13.001Z"
+          },
+          {
+            "type": "review_champion",
+            "tier": "beginner",
+            "earnedAt": "2025-10-27T23:09:13.037Z"
+          }
+        ],
+        "wallets": {
+          "ethereum": "0xF72e075E2AdD0f59dc0691515F36aFf1C86B259C",
+          "solana": "73cY9tYnc3qPRvsLpuiE7WHQztRRr5pLg6oGAnvSzjCT"
+        }
+      }
+    },
+    "ecosystemFactor": 0.825253,
+    "elizaEffect": {
+      "miladyNorm": 0,
+      "elizaLifetimePercentile": 0.995245,
+      "ecosystemNorm": 0.825253,
+      "weights": {
+        "milady": 0.45,
+        "eliza": 0.35,
+        "ecosystem": 0.2
+      },
+      "effectNorm": 0.513386,
+      "effectScore": 51.3386
+    }
+  }
+}

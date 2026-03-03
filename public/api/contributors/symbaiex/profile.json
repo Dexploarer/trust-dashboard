@@ -1,0 +1,89 @@
+{
+  "version": "1.0",
+  "generatedAt": "2026-02-22T08:43:16.298Z",
+  "source": "milady-ai/trust-dashboard",
+  "username": "SYMBaiEX",
+  "profile": {
+    "username": "SYMBaiEX",
+    "canonicalUsername": "symbaiex",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/192078165?v=4",
+    "milady": {
+      "trustScore": 44.56,
+      "rank": 9,
+      "tier": "probationary"
+    },
+    "eliza": {
+      "lifetimeScore": 347.1546,
+      "lifetimeRank": 49,
+      "lifetimePercentile": 0.967391,
+      "weeklyRank": null,
+      "monthlyRank": null,
+      "characterClass": "Scribe",
+      "tier": "active",
+      "entry": {
+        "rank": 49,
+        "username": "SYMBaiEX",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/192078165?u=d1b3acec81367b9ae298ece7ab1c4bd8ff6975bf&v=4",
+        "characterClass": "Scribe",
+        "tier": "active",
+        "score": 347.15458640950743,
+        "prScore": 320.41658640950743,
+        "issueScore": 12,
+        "reviewScore": 13.5,
+        "commentScore": 1.238,
+        "focusAreas": [
+          {
+            "tag": "docs",
+            "score": 295.5,
+            "percentage": 54.52029520295204,
+            "rank": 8,
+            "totalInArea": 580
+          },
+          {
+            "tag": "typescript",
+            "score": 75,
+            "percentage": 13.837638376383769,
+            "rank": 56,
+            "totalInArea": 689
+          },
+          {
+            "tag": "tests",
+            "score": 48,
+            "percentage": 8.856088560885611,
+            "rank": 23,
+            "totalInArea": 181
+          }
+        ],
+        "achievements": [
+          {
+            "type": "level",
+            "tier": "beginner",
+            "earnedAt": "2025-10-27T23:09:21.807Z"
+          },
+          {
+            "type": "streak",
+            "tier": "beginner",
+            "earnedAt": "2025-10-27T23:09:21.829Z"
+          }
+        ],
+        "wallets": {
+          "ethereum": "0x79e661175b85952058117c45f2dCA0f76f9052B3",
+          "solana": "8jN1XtgiuWeyNjzysYVqGZ1mPAG37sjmuCTnENz66wrs"
+        }
+      }
+    },
+    "ecosystemFactor": 0.805214,
+    "elizaEffect": {
+      "miladyNorm": 0.4456,
+      "elizaLifetimePercentile": 0.967391,
+      "ecosystemNorm": 0.805214,
+      "weights": {
+        "milady": 0.45,
+        "eliza": 0.35,
+        "ecosystem": 0.2
+      },
+      "effectNorm": 0.70015,
+      "effectScore": 70.015
+    }
+  }
+}

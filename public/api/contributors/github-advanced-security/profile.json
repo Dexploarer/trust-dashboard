@@ -1,0 +1,54 @@
+{
+  "version": "1.0",
+  "generatedAt": "2026-02-22T08:43:16.298Z",
+  "source": "milady-ai/trust-dashboard",
+  "username": "github-advanced-security",
+  "profile": {
+    "username": "github-advanced-security",
+    "canonicalUsername": "github-advanced-security",
+    "avatarUrl": "https://avatars.githubusercontent.com/in/57789?v=4",
+    "milady": null,
+    "eliza": {
+      "lifetimeScore": 360,
+      "lifetimeRank": 43,
+      "lifetimePercentile": 0.971467,
+      "weeklyRank": null,
+      "monthlyRank": null,
+      "characterClass": "Contributor",
+      "tier": "active",
+      "entry": {
+        "rank": 43,
+        "username": "github-advanced-security",
+        "avatarUrl": "https://avatars.githubusercontent.com/in/57789?v=4",
+        "characterClass": "Contributor",
+        "tier": "active",
+        "score": 360,
+        "prScore": 0,
+        "issueScore": 0,
+        "reviewScore": 360,
+        "commentScore": 0,
+        "achievements": [
+          {
+            "type": "review_champion",
+            "tier": "elite",
+            "earnedAt": "2025-10-27T23:09:27.426Z"
+          }
+        ],
+        "wallets": {}
+      }
+    },
+    "ecosystemFactor": 0.735163,
+    "elizaEffect": {
+      "miladyNorm": 0,
+      "elizaLifetimePercentile": 0.971467,
+      "ecosystemNorm": 0.735163,
+      "weights": {
+        "milady": 0.45,
+        "eliza": 0.35,
+        "ecosystem": 0.2
+      },
+      "effectNorm": 0.487046,
+      "effectScore": 48.7046
+    }
+  }
+}

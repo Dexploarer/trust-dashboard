@@ -36,9 +36,13 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add src/data/trust-scores.json
+          git add src/data/eliza-snapshot.json
+          git add src/data/combined-leaderboard.json
+          git add public/api
+          git add public/openapi.json
           if git diff --cached --quiet; then
             echo "No changes"
             exit 0
           fi
-          git commit -m "chore(data): update trust scores"
+          git commit -m "chore(data): update trust + ecosystem artifacts"
           git push

@@ -1,0 +1,70 @@
+{
+  "version": "1.0",
+  "generatedAt": "2026-02-22T08:43:16.298Z",
+  "source": "milady-ai/trust-dashboard",
+  "username": "harshal247",
+  "profile": {
+    "username": "harshal247",
+    "canonicalUsername": "harshal247",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/42385720?u=2c9b491fde1fd6a11ac093d620ebedae1495541f&v=4",
+    "milady": null,
+    "eliza": {
+      "lifetimeScore": 179.5699,
+      "lifetimeRank": 96,
+      "lifetimePercentile": 0.935462,
+      "weeklyRank": null,
+      "monthlyRank": null,
+      "characterClass": "Builder",
+      "tier": "regular",
+      "entry": {
+        "rank": 96,
+        "username": "harshal247",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/42385720?u=2c9b491fde1fd6a11ac093d620ebedae1495541f&v=4",
+        "characterClass": "Builder",
+        "tier": "regular",
+        "score": 179.56993038743474,
+        "prScore": 179.36993038743475,
+        "issueScore": 0,
+        "reviewScore": 0,
+        "commentScore": 0.2,
+        "focusAreas": [
+          {
+            "tag": "tests",
+            "score": 50,
+            "percentage": 56.05381165919282,
+            "rank": 21,
+            "totalInArea": 181
+          },
+          {
+            "tag": "typescript",
+            "score": 21,
+            "percentage": 23.542600896860986,
+            "rank": 208,
+            "totalInArea": 689
+          },
+          {
+            "tag": "database",
+            "score": 10.2,
+            "percentage": 11.434977578475335,
+            "rank": 47,
+            "totalInArea": 158
+          }
+        ],
+        "wallets": {}
+      }
+    },
+    "ecosystemFactor": 0.796262,
+    "elizaEffect": {
+      "miladyNorm": 0,
+      "elizaLifetimePercentile": 0.935462,
+      "ecosystemNorm": 0.796262,
+      "weights": {
+        "milady": 0.45,
+        "eliza": 0.35,
+        "ecosystem": 0.2
+      },
+      "effectNorm": 0.486664,
+      "effectScore": 48.6664
+    }
+  }
+}

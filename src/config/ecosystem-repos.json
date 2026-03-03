@@ -1,0 +1,29 @@
+{
+  "version": "1.0",
+  "trackedRepos": [
+    {
+      "owner": "milady-ai",
+      "repo": "milaidy",
+      "label": "Milady Core",
+      "includeInEcosystemFactor": true
+    },
+    {
+      "owner": "elizaOS",
+      "repo": "eliza",
+      "label": "Eliza Core",
+      "includeInEcosystemFactor": true
+    },
+    {
+      "owner": "elizaos-plugins",
+      "repo": "registry",
+      "label": "Eliza Plugin Registry",
+      "includeInEcosystemFactor": true
+    },
+    {
+      "owner": "elizaOS",
+      "repo": "elizaos.github.io",
+      "label": "Eliza Leaderboard Site",
+      "includeInEcosystemFactor": true
+    }
+  ]
+}

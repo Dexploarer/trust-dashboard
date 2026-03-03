@@ -1,0 +1,48 @@
+{
+  "version": "1.0",
+  "generatedAt": "2026-02-22T08:43:16.298Z",
+  "source": "milady-ai/trust-dashboard",
+  "repos": [
+    {
+      "owner": "milady-ai",
+      "repo": "milaidy",
+      "repoId": "milady-ai_milaidy",
+      "label": "Milady Core",
+      "includeInEcosystemFactor": true,
+      "summaryStatus": "missing",
+      "summaryGeneratedAt": null,
+      "summaryUrl": "https://elizaos.github.io/api/summaries/repos/milady-ai_milaidy/week/latest.json",
+      "summaryError": "Summary not published for milady-ai/milaidy"
+    },
+    {
+      "owner": "elizaOS",
+      "repo": "eliza",
+      "repoId": "elizaos_eliza",
+      "label": "Eliza Core",
+      "includeInEcosystemFactor": true,
+      "summaryStatus": "ok",
+      "summaryGeneratedAt": "2026-02-21T23:17:33.902Z",
+      "summaryUrl": "https://elizaos.github.io/api/summaries/repos/elizaos_eliza/week/latest.json"
+    },
+    {
+      "owner": "elizaos-plugins",
+      "repo": "registry",
+      "repoId": "elizaos-plugins_registry",
+      "label": "Eliza Plugin Registry",
+      "includeInEcosystemFactor": true,
+      "summaryStatus": "ok",
+      "summaryGeneratedAt": "2026-02-21T23:17:33.901Z",
+      "summaryUrl": "https://elizaos.github.io/api/summaries/repos/elizaos-plugins_registry/week/latest.json"
+    },
+    {
+      "owner": "elizaOS",
+      "repo": "elizaos.github.io",
+      "repoId": "elizaos_elizaos.github.io",
+      "label": "Eliza Leaderboard Site",
+      "includeInEcosystemFactor": true,
+      "summaryStatus": "ok",
+      "summaryGeneratedAt": "2026-02-21T23:17:33.901Z",
+      "summaryUrl": "https://elizaos.github.io/api/summaries/repos/elizaos_elizaos.github.io/week/latest.json"
+    }
+  ]
+}

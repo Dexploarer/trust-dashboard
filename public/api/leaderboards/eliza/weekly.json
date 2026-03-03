@@ -1,0 +1,475 @@
+{
+  "version": "1.0",
+  "source": "elizaos.github.io",
+  "period": "weekly",
+  "generatedAt": "2026-02-21T23:19:18.365Z",
+  "totalUsers": 14,
+  "leaderboard": [
+    {
+      "rank": 1,
+      "username": "odilitime",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/16395496?u=c9bac48e632aae594a0d85aaf9e9c9c69b674d8b&v=4",
+      "characterClass": "Builder",
+      "tier": "regular",
+      "score": 81.47654779315219,
+      "prScore": 81.47654779315219,
+      "issueScore": 0,
+      "reviewScore": 0,
+      "commentScore": 0,
+      "focusAreas": [
+        {
+          "tag": "typescript",
+          "score": 2016,
+          "percentage": 31.660280168352273,
+          "rank": 6,
+          "totalInArea": 689
+        },
+        {
+          "tag": "docs",
+          "score": 1240.5,
+          "percentage": 19.481437276210812,
+          "rank": 4,
+          "totalInArea": 580
+        },
+        {
+          "tag": "core",
+          "score": 995,
+          "percentage": 15.62598153150323,
+          "rank": 3,
+          "totalInArea": 308
+        }
+      ],
+      "achievements": [
+        {
+          "type": "level",
+          "tier": "elite",
+          "earnedAt": "2025-10-27T23:09:13.242Z"
+        },
+        {
+          "type": "streak",
+          "tier": "beginner",
+          "earnedAt": "2025-10-27T23:09:13.258Z"
+        },
+        {
+          "type": "pr_master",
+          "tier": "legend",
+          "earnedAt": "2025-10-27T23:09:13.273Z"
+        },
+        {
+          "type": "review_champion",
+          "tier": "legend",
+          "earnedAt": "2025-10-27T23:09:13.289Z"
+        }
+      ],
+      "wallets": {
+        "ethereum": "0x0cD999AB20c2491313c5D294E26e1EA8E8d5aD96",
+        "solana": "59W5HpZu1FFqEHj8Qvkwd9UXb62aQMCt32LD4uarrRsc"
+      }
+    },
+    {
+      "rank": 2,
+      "username": "standujar",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/16385918?u=718bdcd1585be8447bdfffb8c11ce249baa7532d&v=4",
+      "characterClass": "Builder",
+      "tier": "regular",
+      "score": 80.71342900469084,
+      "prScore": 80.51342900469083,
+      "issueScore": 0,
+      "reviewScore": 0,
+      "commentScore": 0.2,
+      "focusAreas": [
+        {
+          "tag": "typescript",
+          "score": 2361,
+          "percentage": 38.91223733003709,
+          "rank": 3,
+          "totalInArea": 689
+        },
+        {
+          "tag": "core",
+          "score": 920,
+          "percentage": 15.16275236918006,
+          "rank": 6,
+          "totalInArea": 308
+        },
+        {
+          "tag": "tests",
+          "score": 800,
+          "percentage": 13.185002060156572,
+          "rank": 2,
+          "totalInArea": 181
+        }
+      ],
+      "achievements": [
+        {
+          "type": "level",
+          "tier": "elite",
+          "earnedAt": "2025-12-03T23:10:09.371Z"
+        },
+        {
+          "type": "streak",
+          "tier": "beginner",
+          "earnedAt": "2025-10-27T23:09:22.180Z"
+        },
+        {
+          "type": "pr_master",
+          "tier": "legend",
+          "earnedAt": "2026-02-06T23:14:21.153Z"
+        },
+        {
+          "type": "bug_hunter",
+          "tier": "beginner",
+          "earnedAt": "2025-10-27T23:09:22.226Z"
+        },
+        {
+          "type": "review_champion",
+          "tier": "elite",
+          "earnedAt": "2025-12-18T23:11:26.879Z"
+        }
+      ],
+      "wallets": {
+        "ethereum": "0xf1d1CC42C3Cc1eE1A42D9eCbBa55E1C8cb4E1F04",
+        "solana": "F6z7JdDQH6Yo7bopZegyKqzPnti4QfrVut6oacGsR2a3"
+      }
+    },
+    {
+      "rank": 3,
+      "username": "kaiclawd",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/257877415?u=2c8763bb75f5fd07b37a1939903a8b557dd7a46f&v=4",
+      "characterClass": "Builder",
+      "tier": "regular",
+      "score": 59.475878208526346,
+      "prScore": 59.475878208526346,
+      "issueScore": 0,
+      "reviewScore": 0,
+      "commentScore": 0,
+      "focusAreas": [
+        {
+          "tag": "infra",
+          "score": 116.99999999999987,
+          "percentage": 86.53846153846152,
+          "rank": 11,
+          "totalInArea": 375
+        },
+        {
+          "tag": "docs",
+          "score": 12,
+          "percentage": 8.875739644970421,
+          "rank": 141,
+          "totalInArea": 580
+        },
+        {
+          "tag": "architect",
+          "score": 2.5,
+          "percentage": 1.8491124260355047,
+          "rank": 351,
+          "totalInArea": 353
+        }
+      ],
+      "wallets": {}
+    },
+    {
+      "rank": 4,
+      "username": "greptile-apps",
+      "avatarUrl": "https://avatars.githubusercontent.com/in/867647?v=4",
+      "characterClass": "Contributor",
+      "tier": "regular",
+      "score": 59.3,
+      "prScore": 0,
+      "issueScore": 0,
+      "reviewScore": 58.5,
+      "commentScore": 0.8,
+      "achievements": [
+        {
+          "type": "review_champion",
+          "tier": "elite",
+          "earnedAt": "2026-01-19T23:11:58.276Z"
+        },
+        {
+          "type": "streak",
+          "tier": "beginner",
+          "earnedAt": "2026-01-31T23:11:58.257Z"
+        }
+      ],
+      "wallets": {}
+    },
+    {
+      "rank": 5,
+      "username": "buzzbysolcex",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/259807261?v=4",
+      "characterClass": "Builder",
+      "tier": "regular",
+      "score": 51.22425149251019,
+      "prScore": 50.78625149251019,
+      "issueScore": 0,
+      "reviewScore": 0,
+      "commentScore": 0.43799999999999994,
+      "focusAreas": [
+        {
+          "tag": "architect",
+          "score": 5,
+          "percentage": 55.55555555555556,
+          "rank": 124,
+          "totalInArea": 353
+        },
+        {
+          "tag": "feature-dev",
+          "score": 4,
+          "percentage": 44.44444444444444,
+          "rank": 119,
+          "totalInArea": 349
+        }
+      ],
+      "wallets": {}
+    },
+    {
+      "rank": 6,
+      "username": "yaooooooooooooooo",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/62118705?v=4",
+      "characterClass": "Builder",
+      "tier": "beginner",
+      "score": 43.5437738965761,
+      "prScore": 43.5437738965761,
+      "issueScore": 0,
+      "reviewScore": 0,
+      "commentScore": 0,
+      "focusAreas": [
+        {
+          "tag": "typescript",
+          "score": 58.5,
+          "percentage": 58.5,
+          "rank": 78,
+          "totalInArea": 689
+        },
+        {
+          "tag": "tests",
+          "score": 34,
+          "percentage": 34,
+          "rank": 34,
+          "totalInArea": 181
+        },
+        {
+          "tag": "docs",
+          "score": 3,
+          "percentage": 3,
+          "rank": 554,
+          "totalInArea": 580
+        }
+      ],
+      "wallets": {}
+    },
+    {
+      "rank": 7,
+      "username": "decentralize-dfw",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/115695363?u=858e729376e39f7d94ec1907637812ec3b9ca575&v=4",
+      "characterClass": "Builder",
+      "tier": "beginner",
+      "score": 43.5437738965761,
+      "prScore": 43.5437738965761,
+      "issueScore": 0,
+      "reviewScore": 0,
+      "commentScore": 0,
+      "focusAreas": [
+        {
+          "tag": "infra",
+          "score": 107.99999999999989,
+          "percentage": 89.99999999999999,
+          "rank": 15,
+          "totalInArea": 375
+        },
+        {
+          "tag": "docs",
+          "score": 10.5,
+          "percentage": 8.750000000000007,
+          "rank": 152,
+          "totalInArea": 580
+        },
+        {
+          "tag": "typescript",
+          "score": 1.5,
+          "percentage": 1.250000000000001,
+          "rank": 689,
+          "totalInArea": 689
+        }
+      ],
+      "wallets": {}
+    },
+    {
+      "rank": 8,
+      "username": "Fankouzu",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/8297296?u=bfe40f2d2a88d01f2092e44db726b11c0608b657&v=4",
+      "characterClass": "Builder",
+      "tier": "beginner",
+      "score": 34.0207738965761,
+      "prScore": 34.0207738965761,
+      "issueScore": 0,
+      "reviewScore": 0,
+      "commentScore": 0,
+      "focusAreas": [
+        {
+          "tag": "infra",
+          "score": 116.99999999999987,
+          "percentage": 89.51798010711552,
+          "rank": 12,
+          "totalInArea": 375
+        },
+        {
+          "tag": "docs",
+          "score": 12,
+          "percentage": 9.1813312930375,
+          "rank": 142,
+          "totalInArea": 580
+        },
+        {
+          "tag": "database",
+          "score": 1.7,
+          "percentage": 1.300688599846979,
+          "rank": 158,
+          "totalInArea": 158
+        }
+      ],
+      "wallets": {}
+    },
+    {
+      "rank": 9,
+      "username": "kamiyo-ai",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/197570892?u=0d1ee66bdde083d3cfa339f7b2dfc1c2e8fee2fd&v=4",
+      "characterClass": "Builder",
+      "tier": "beginner",
+      "score": 21.18304826901074,
+      "prScore": 20.64304826901074,
+      "issueScore": 0,
+      "reviewScore": 0,
+      "commentScore": 0.54,
+      "focusAreas": [
+        {
+          "tag": "infra",
+          "score": 3.6,
+          "percentage": 62.06896551724137,
+          "rank": 185,
+          "totalInArea": 375
+        },
+        {
+          "tag": "devops",
+          "score": 2.2,
+          "percentage": 37.93103448275862,
+          "rank": 7,
+          "totalInArea": 7
+        }
+      ],
+      "wallets": {}
+    },
+    {
+      "rank": 10,
+      "username": "borisudovicic",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/31806472?u=8935f4d43fd7e4eb9bf5ff92d54d4d2f8ac8a786&v=4",
+      "characterClass": "Hunter",
+      "tier": "beginner",
+      "score": 10,
+      "prScore": 0,
+      "issueScore": 10,
+      "reviewScore": 0,
+      "commentScore": 0,
+      "achievements": [
+        {
+          "type": "bug_hunter",
+          "tier": "beginner",
+          "earnedAt": "2025-10-27T23:09:26.918Z"
+        }
+      ],
+      "wallets": {}
+    },
+    {
+      "rank": 11,
+      "username": "samarth30",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/48334430?u=1fc119a6c2deb8cf60448b4c8961cb21dc69baeb&v=4",
+      "characterClass": "Hunter",
+      "tier": "beginner",
+      "score": 4,
+      "prScore": 0,
+      "issueScore": 4,
+      "reviewScore": 0,
+      "commentScore": 0,
+      "focusAreas": [
+        {
+          "tag": "typescript",
+          "score": 283.5,
+          "percentage": 47.2421263122813,
+          "rank": 18,
+          "totalInArea": 689
+        },
+        {
+          "tag": "core",
+          "score": 110,
+          "percentage": 18.330278286952183,
+          "rank": 21,
+          "totalInArea": 308
+        },
+        {
+          "tag": "infra",
+          "score": 77.39999999999993,
+          "percentage": 12.897850358273615,
+          "rank": 24,
+          "totalInArea": 375
+        }
+      ],
+      "achievements": [
+        {
+          "type": "level",
+          "tier": "beginner",
+          "earnedAt": "2025-10-27T23:09:16.839Z"
+        },
+        {
+          "type": "pr_master",
+          "tier": "beginner",
+          "earnedAt": "2025-10-27T23:09:16.882Z"
+        },
+        {
+          "type": "review_champion",
+          "tier": "beginner",
+          "earnedAt": "2025-10-27T23:09:16.885Z"
+        }
+      ],
+      "wallets": {}
+    },
+    {
+      "rank": 12,
+      "username": "rookdaemon",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/258400181?u=f806b5798e056f9384e53da900fdcd3d7bc24c14&v=4",
+      "characterClass": "Hunter",
+      "tier": "beginner",
+      "score": 2,
+      "prScore": 0,
+      "issueScore": 2,
+      "reviewScore": 0,
+      "commentScore": 0,
+      "wallets": {}
+    },
+    {
+      "rank": 13,
+      "username": "mbatini",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/34915878?v=4",
+      "characterClass": "Hunter",
+      "tier": "beginner",
+      "score": 2,
+      "prScore": 0,
+      "issueScore": 2,
+      "reviewScore": 0,
+      "commentScore": 0,
+      "wallets": {}
+    },
+    {
+      "rank": 14,
+      "username": "JKHeadley",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/12631935?u=e1a3e2005973fbf5526f5dccd04b6310e2476946&v=4",
+      "characterClass": "Hunter",
+      "tier": "beginner",
+      "score": 2,
+      "prScore": 0,
+      "issueScore": 2,
+      "reviewScore": 0,
+      "commentScore": 0,
+      "wallets": {}
+    }
+  ]
+}

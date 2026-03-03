@@ -9,6 +9,11 @@ This repo is configured for static export:
 
 `basePath` is set to `/trust-dashboard` so the app can be hosted under the repo path on GitHub Pages.
 
+Static API artifacts are served from:
+
+- `/trust-dashboard/api/*`
+- `/trust-dashboard/openapi.json`
+
 ## GitHub Actions
 
 Deployment workflow:
@@ -26,4 +31,4 @@ Build steps:
 
 - `next.config.ts` sets `images.unoptimized = true` to make image rendering compatible with static export.
 - If you rename the repo or change the Pages path, update `basePath`.
-
+- API artifacts are generated ahead-of-time by `scripts/generate-scores.ts` and committed by `.github/workflows/update-scores.yml`.

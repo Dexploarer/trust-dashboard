@@ -1,0 +1,99 @@
+{
+  "version": "1.0",
+  "generatedAt": "2026-02-22T08:43:16.298Z",
+  "source": "milady-ai/trust-dashboard",
+  "username": "odilitime",
+  "profile": {
+    "username": "odilitime",
+    "canonicalUsername": "odilitime",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/16395496?v=4",
+    "milady": {
+      "trustScore": 46.69,
+      "rank": 8,
+      "tier": "contributing"
+    },
+    "eliza": {
+      "lifetimeScore": 9383.029,
+      "lifetimeRank": 4,
+      "lifetimePercentile": 0.997962,
+      "weeklyRank": 1,
+      "monthlyRank": 2,
+      "characterClass": "Maintainer",
+      "tier": "legend",
+      "entry": {
+        "rank": 4,
+        "username": "odilitime",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/16395496?u=c9bac48e632aae594a0d85aaf9e9c9c69b674d8b&v=4",
+        "characterClass": "Maintainer",
+        "tier": "legend",
+        "score": 9383.02895765817,
+        "prScore": 6773.894957658171,
+        "issueScore": 28.4,
+        "reviewScore": 2550.5,
+        "commentScore": 30.233999999999998,
+        "focusAreas": [
+          {
+            "tag": "typescript",
+            "score": 2016,
+            "percentage": 31.660280168352273,
+            "rank": 6,
+            "totalInArea": 689
+          },
+          {
+            "tag": "docs",
+            "score": 1240.5,
+            "percentage": 19.481437276210812,
+            "rank": 4,
+            "totalInArea": 580
+          },
+          {
+            "tag": "core",
+            "score": 995,
+            "percentage": 15.62598153150323,
+            "rank": 3,
+            "totalInArea": 308
+          }
+        ],
+        "achievements": [
+          {
+            "type": "level",
+            "tier": "elite",
+            "earnedAt": "2025-10-27T23:09:13.242Z"
+          },
+          {
+            "type": "streak",
+            "tier": "beginner",
+            "earnedAt": "2025-10-27T23:09:13.258Z"
+          },
+          {
+            "type": "pr_master",
+            "tier": "legend",
+            "earnedAt": "2025-10-27T23:09:13.273Z"
+          },
+          {
+            "type": "review_champion",
+            "tier": "legend",
+            "earnedAt": "2025-10-27T23:09:13.289Z"
+          }
+        ],
+        "wallets": {
+          "ethereum": "0x0cD999AB20c2491313c5D294E26e1EA8E8d5aD96",
+          "solana": "59W5HpZu1FFqEHj8Qvkwd9UXb62aQMCt32LD4uarrRsc"
+        }
+      }
+    },
+    "ecosystemFactor": 0.806316,
+    "elizaEffect": {
+      "miladyNorm": 0.4669,
+      "elizaLifetimePercentile": 0.997962,
+      "ecosystemNorm": 0.806316,
+      "weights": {
+        "milady": 0.45,
+        "eliza": 0.35,
+        "ecosystem": 0.2
+      },
+      "effectNorm": 0.720655,
+      "effectScore": 72.0655
+    }
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "version": "1.0",
+  "generatedAt": "2026-02-22T08:43:16.298Z",
+  "source": "milady-ai/trust-dashboard",
+  "username": "ncale",
+  "profile": {
+    "username": "ncale",
+    "canonicalUsername": "ncale",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/106794061?u=3269bddd86da2efe1784076e485a5466ad96cb62&v=4",
+    "milady": null,
+    "eliza": {
+      "lifetimeScore": 200.1094,
+      "lifetimeRank": 83,
+      "lifetimePercentile": 0.944293,
+      "weeklyRank": null,
+      "monthlyRank": null,
+      "characterClass": "Builder",
+      "tier": "active",
+      "entry": {
+        "rank": 83,
+        "username": "ncale",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/106794061?u=3269bddd86da2efe1784076e485a5466ad96cb62&v=4",
+        "characterClass": "Builder",
+        "tier": "active",
+        "score": 200.10939594487633,
+        "prScore": 195.00939594487633,
+        "issueScore": 0,
+        "reviewScore": 4.5,
+        "commentScore": 0.6000000000000001,
+        "focusAreas": [
+          {
+            "tag": "infra",
+            "score": 91.79999999999991,
+            "percentage": 29.41364947132327,
+            "rank": 21,
+            "totalInArea": 375
+          },
+          {
+            "tag": "docs",
+            "score": 87,
+            "percentage": 27.875680871515545,
+            "rank": 39,
+            "totalInArea": 580
+          },
+          {
+            "tag": "typescript",
+            "score": 39,
+            "percentage": 12.495994873438004,
+            "rank": 113,
+            "totalInArea": 689
+          }
+        ],
+        "wallets": {}
+      }
+    },
+    "ecosystemFactor": 0.798754,
+    "elizaEffect": {
+      "miladyNorm": 0,
+      "elizaLifetimePercentile": 0.944293,
+      "ecosystemNorm": 0.798754,
+      "weights": {
+        "milady": 0.45,
+        "eliza": 0.35,
+        "ecosystem": 0.2
+      },
+      "effectNorm": 0.490253,
+      "effectScore": 49.0253
+    }
+  }
+}

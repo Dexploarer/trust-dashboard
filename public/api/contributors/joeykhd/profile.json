@@ -1,0 +1,77 @@
+{
+  "version": "1.0",
+  "generatedAt": "2026-02-22T08:43:16.298Z",
+  "source": "milady-ai/trust-dashboard",
+  "username": "JoeyKhd",
+  "profile": {
+    "username": "JoeyKhd",
+    "canonicalUsername": "joeykhd",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/23193015?u=e038aa9d9822787a7651f1c7bec9301f2d3004b1&v=4",
+    "milady": null,
+    "eliza": {
+      "lifetimeScore": 355.2493,
+      "lifetimeRank": 47,
+      "lifetimePercentile": 0.96875,
+      "weeklyRank": null,
+      "monthlyRank": null,
+      "characterClass": "Builder",
+      "tier": "active",
+      "entry": {
+        "rank": 47,
+        "username": "JoeyKhd",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/23193015?u=e038aa9d9822787a7651f1c7bec9301f2d3004b1&v=4",
+        "characterClass": "Builder",
+        "tier": "active",
+        "score": 355.24933277089474,
+        "prScore": 339.65933277089476,
+        "issueScore": 4,
+        "reviewScore": 9,
+        "commentScore": 2.59,
+        "focusAreas": [
+          {
+            "tag": "typescript",
+            "score": 151.5,
+            "percentage": 30.956272987331428,
+            "rank": 28,
+            "totalInArea": 689
+          },
+          {
+            "tag": "ui",
+            "score": 116.99999999999987,
+            "percentage": 23.90682468328563,
+            "rank": 8,
+            "totalInArea": 67
+          },
+          {
+            "tag": "react",
+            "score": 82.60000000000004,
+            "percentage": 16.877809562729883,
+            "rank": 9,
+            "totalInArea": 73
+          }
+        ],
+        "achievements": [
+          {
+            "type": "pr_master",
+            "tier": "beginner",
+            "earnedAt": "2025-10-27T23:09:18.591Z"
+          }
+        ],
+        "wallets": {}
+      }
+    },
+    "ecosystemFactor": 0.809206,
+    "elizaEffect": {
+      "miladyNorm": 0,
+      "elizaLifetimePercentile": 0.96875,
+      "ecosystemNorm": 0.809206,
+      "weights": {
+        "milady": 0.45,
+        "eliza": 0.35,
+        "ecosystem": 0.2
+      },
+      "effectNorm": 0.500904,
+      "effectScore": 50.0904
+    }
+  }
+}

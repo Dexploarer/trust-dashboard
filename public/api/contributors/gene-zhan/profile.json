@@ -1,0 +1,70 @@
+{
+  "version": "1.0",
+  "generatedAt": "2026-02-22T08:43:16.298Z",
+  "source": "milady-ai/trust-dashboard",
+  "username": "gene-zhan",
+  "profile": {
+    "username": "gene-zhan",
+    "canonicalUsername": "gene-zhan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/125658572?v=4",
+    "milady": null,
+    "eliza": {
+      "lifetimeScore": 235.5293,
+      "lifetimeRank": 66,
+      "lifetimePercentile": 0.955842,
+      "weeklyRank": null,
+      "monthlyRank": null,
+      "characterClass": "Builder",
+      "tier": "active",
+      "entry": {
+        "rank": 66,
+        "username": "gene-zhan",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/125658572?v=4",
+        "characterClass": "Builder",
+        "tier": "active",
+        "score": 235.5292910606044,
+        "prScore": 230.0512910606044,
+        "issueScore": 0,
+        "reviewScore": 4.5,
+        "commentScore": 0.978,
+        "focusAreas": [
+          {
+            "tag": "typescript",
+            "score": 78,
+            "percentage": 43.30927262631871,
+            "rank": 53,
+            "totalInArea": 689
+          },
+          {
+            "tag": "core",
+            "score": 25,
+            "percentage": 13.881177123820102,
+            "rank": 92,
+            "totalInArea": 308
+          },
+          {
+            "tag": "docs",
+            "score": 24,
+            "percentage": 13.325930038867295,
+            "rank": 79,
+            "totalInArea": 580
+          }
+        ],
+        "wallets": {}
+      }
+    },
+    "ecosystemFactor": 0.804845,
+    "elizaEffect": {
+      "miladyNorm": 0,
+      "elizaLifetimePercentile": 0.955842,
+      "ecosystemNorm": 0.804845,
+      "weights": {
+        "milady": 0.45,
+        "eliza": 0.35,
+        "ecosystem": 0.2
+      },
+      "effectNorm": 0.495514,
+      "effectScore": 49.5514
+    }
+  }
+}

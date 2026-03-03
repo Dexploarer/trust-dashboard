@@ -30,6 +30,8 @@ interface PullDetail {
 interface PullReview {
   state: string;
   body: string | null;
+  user?: GitHubUser | null;
+  submitted_at?: string | null;
 }
 
 export interface GitHubPullRequestData {
@@ -79,6 +81,7 @@ export async function fetchClosedPRs(
   token?: string,
 ): Promise<GitHubPullRequestData[]> {
   const allPRs: GitHubPullRequestData[] = [];
+  const delayMs = token ? 0 : 100;
 
   let page = 1;
   while (true) {
@@ -109,8 +112,10 @@ export async function fetchClosedPRs(
         closedByLogin: detail.closed_by?.login ?? null,
       });
 
-      // Avoid GitHub secondary rate limits
-      await new Promise((r) => setTimeout(r, 100));
+      // Keep unauthenticated mode conservative to avoid secondary rate limits.
+      if (delayMs > 0) {
+        await new Promise((r) => setTimeout(r, delayMs));
+      }
     }
 
     if (pulls.length < 100) break;

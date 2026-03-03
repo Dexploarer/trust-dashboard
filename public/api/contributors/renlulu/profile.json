@@ -1,0 +1,70 @@
+{
+  "version": "1.0",
+  "generatedAt": "2026-02-22T08:43:16.298Z",
+  "source": "milady-ai/trust-dashboard",
+  "username": "renlulu",
+  "profile": {
+    "username": "renlulu",
+    "canonicalUsername": "renlulu",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/8149051?u=001a339b366e297d951ff1155837fe1e1510c398&v=4",
+    "milady": null,
+    "eliza": {
+      "lifetimeScore": 167.6337,
+      "lifetimeRank": 99,
+      "lifetimePercentile": 0.933424,
+      "weeklyRank": null,
+      "monthlyRank": null,
+      "characterClass": "Builder",
+      "tier": "regular",
+      "entry": {
+        "rank": 99,
+        "username": "renlulu",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/8149051?u=001a339b366e297d951ff1155837fe1e1510c398&v=4",
+        "characterClass": "Builder",
+        "tier": "regular",
+        "score": 167.63366324417711,
+        "prScore": 162.69566324417713,
+        "issueScore": 0,
+        "reviewScore": 4.5,
+        "commentScore": 0.43799999999999994,
+        "focusAreas": [
+          {
+            "tag": "typescript",
+            "score": 19.5,
+            "percentage": 45.667447306791566,
+            "rank": 223,
+            "totalInArea": 689
+          },
+          {
+            "tag": "architect",
+            "score": 10,
+            "percentage": 23.419203747072597,
+            "rank": 37,
+            "totalInArea": 353
+          },
+          {
+            "tag": "feature-dev",
+            "score": 8,
+            "percentage": 18.73536299765808,
+            "rank": 36,
+            "totalInArea": 349
+          }
+        ],
+        "wallets": {}
+      }
+    },
+    "ecosystemFactor": 0.792815,
+    "elizaEffect": {
+      "miladyNorm": 0,
+      "elizaLifetimePercentile": 0.933424,
+      "ecosystemNorm": 0.792815,
+      "weights": {
+        "milady": 0.45,
+        "eliza": 0.35,
+        "ecosystem": 0.2
+      },
+      "effectNorm": 0.485261,
+      "effectScore": 48.5261
+    }
+  }
+}

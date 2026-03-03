@@ -1,0 +1,82 @@
+{
+  "version": "1.0",
+  "generatedAt": "2026-02-22T08:43:16.298Z",
+  "source": "milady-ai/trust-dashboard",
+  "username": "Samarthsinghal28",
+  "profile": {
+    "username": "Samarthsinghal28",
+    "canonicalUsername": "samarthsinghal28",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/120447590?v=4",
+    "milady": null,
+    "eliza": {
+      "lifetimeScore": 831.5453,
+      "lifetimeRank": 21,
+      "lifetimePercentile": 0.986413,
+      "weeklyRank": null,
+      "monthlyRank": null,
+      "characterClass": "Builder",
+      "tier": "veteran",
+      "entry": {
+        "rank": 21,
+        "username": "Samarthsinghal28",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/120447590?v=4",
+        "characterClass": "Builder",
+        "tier": "veteran",
+        "score": 831.5453489255153,
+        "prScore": 800.0453489255153,
+        "issueScore": 0,
+        "reviewScore": 31.5,
+        "commentScore": 0,
+        "focusAreas": [
+          {
+            "tag": "typescript",
+            "score": 375,
+            "percentage": 51.80989223542415,
+            "rank": 16,
+            "totalInArea": 689
+          },
+          {
+            "tag": "core",
+            "score": 155,
+            "percentage": 21.414755457308647,
+            "rank": 16,
+            "totalInArea": 308
+          },
+          {
+            "tag": "tests",
+            "score": 114,
+            "percentage": 15.750207239568939,
+            "rank": 12,
+            "totalInArea": 181
+          }
+        ],
+        "achievements": [
+          {
+            "type": "level",
+            "tier": "beginner",
+            "earnedAt": "2025-10-27T23:09:12.979Z"
+          },
+          {
+            "type": "pr_master",
+            "tier": "beginner",
+            "earnedAt": "2025-10-27T23:09:12.985Z"
+          }
+        ],
+        "wallets": {}
+      }
+    },
+    "ecosystemFactor": 0.819904,
+    "elizaEffect": {
+      "miladyNorm": 0,
+      "elizaLifetimePercentile": 0.986413,
+      "ecosystemNorm": 0.819904,
+      "weights": {
+        "milady": 0.45,
+        "eliza": 0.35,
+        "ecosystem": 0.2
+      },
+      "effectNorm": 0.509225,
+      "effectScore": 50.9225
+    }
+  }
+}

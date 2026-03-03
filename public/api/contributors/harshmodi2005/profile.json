@@ -1,0 +1,87 @@
+{
+  "version": "1.0",
+  "generatedAt": "2026-02-22T08:43:16.298Z",
+  "source": "milady-ai/trust-dashboard",
+  "username": "HarshModi2005",
+  "profile": {
+    "username": "HarshModi2005",
+    "canonicalUsername": "harshmodi2005",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/142230924?u=64e337bbdb6b3aded5943b7e297759e7a3cfc0f0&v=4",
+    "milady": null,
+    "eliza": {
+      "lifetimeScore": 940.3904,
+      "lifetimeRank": 20,
+      "lifetimePercentile": 0.987092,
+      "weeklyRank": null,
+      "monthlyRank": null,
+      "characterClass": "Builder",
+      "tier": "veteran",
+      "entry": {
+        "rank": 20,
+        "username": "HarshModi2005",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/142230924?u=64e337bbdb6b3aded5943b7e297759e7a3cfc0f0&v=4",
+        "characterClass": "Builder",
+        "tier": "veteran",
+        "score": 940.3903698095615,
+        "prScore": 858.5903698095615,
+        "issueScore": 0,
+        "reviewScore": 81,
+        "commentScore": 0.8,
+        "focusAreas": [
+          {
+            "tag": "typescript",
+            "score": 519,
+            "percentage": 42.58286839514277,
+            "rank": 12,
+            "totalInArea": 689
+          },
+          {
+            "tag": "tests",
+            "score": 322,
+            "percentage": 26.41942894650476,
+            "rank": 9,
+            "totalInArea": 181
+          },
+          {
+            "tag": "infra",
+            "score": 93.59999999999991,
+            "percentage": 7.679684936002619,
+            "rank": 19,
+            "totalInArea": 375
+          }
+        ],
+        "achievements": [
+          {
+            "type": "level",
+            "tier": "beginner",
+            "earnedAt": "2025-10-27T23:09:12.944Z"
+          },
+          {
+            "type": "pr_master",
+            "tier": "beginner",
+            "earnedAt": "2025-10-27T23:09:12.959Z"
+          },
+          {
+            "type": "review_champion",
+            "tier": "beginner",
+            "earnedAt": "2025-10-27T23:09:12.976Z"
+          }
+        ],
+        "wallets": {}
+      }
+    },
+    "ecosystemFactor": 0.816261,
+    "elizaEffect": {
+      "miladyNorm": 0,
+      "elizaLifetimePercentile": 0.987092,
+      "ecosystemNorm": 0.816261,
+      "weights": {
+        "milady": 0.45,
+        "eliza": 0.35,
+        "ecosystem": 0.2
+      },
+      "effectNorm": 0.508735,
+      "effectScore": 50.8735
+    }
+  }
+}

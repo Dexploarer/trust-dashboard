@@ -1,0 +1,59 @@
+{
+  "version": "1.0",
+  "generatedAt": "2026-02-22T08:43:16.298Z",
+  "source": "milady-ai/trust-dashboard",
+  "username": "greptile-apps",
+  "profile": {
+    "username": "greptile-apps",
+    "canonicalUsername": "greptile-apps",
+    "avatarUrl": "https://avatars.githubusercontent.com/in/867647?v=4",
+    "milady": null,
+    "eliza": {
+      "lifetimeScore": 531.078,
+      "lifetimeRank": 34,
+      "lifetimePercentile": 0.977582,
+      "weeklyRank": 4,
+      "monthlyRank": 4,
+      "characterClass": "Contributor",
+      "tier": "veteran",
+      "entry": {
+        "rank": 34,
+        "username": "greptile-apps",
+        "avatarUrl": "https://avatars.githubusercontent.com/in/867647?v=4",
+        "characterClass": "Contributor",
+        "tier": "veteran",
+        "score": 531.078,
+        "prScore": 0,
+        "issueScore": 0,
+        "reviewScore": 526.5,
+        "commentScore": 4.578,
+        "achievements": [
+          {
+            "type": "review_champion",
+            "tier": "elite",
+            "earnedAt": "2026-01-19T23:11:58.276Z"
+          },
+          {
+            "type": "streak",
+            "tier": "beginner",
+            "earnedAt": "2026-01-31T23:11:58.257Z"
+          }
+        ],
+        "wallets": {}
+      }
+    },
+    "ecosystemFactor": 0.737653,
+    "elizaEffect": {
+      "miladyNorm": 0,
+      "elizaLifetimePercentile": 0.977582,
+      "ecosystemNorm": 0.737653,
+      "weights": {
+        "milady": 0.45,
+        "eliza": 0.35,
+        "ecosystem": 0.2
+      },
+      "effectNorm": 0.489684,
+      "effectScore": 48.9684
+    }
+  }
+}

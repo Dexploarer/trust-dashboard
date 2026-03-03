@@ -1,0 +1,54 @@
+{
+  "version": "1.0",
+  "generatedAt": "2026-02-22T08:43:16.298Z",
+  "source": "milady-ai/trust-dashboard",
+  "username": "borisudovicic",
+  "profile": {
+    "username": "borisudovicic",
+    "canonicalUsername": "borisudovicic",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/31806472?u=8935f4d43fd7e4eb9bf5ff92d54d4d2f8ac8a786&v=4",
+    "milady": null,
+    "eliza": {
+      "lifetimeScore": 994.74,
+      "lifetimeRank": 18,
+      "lifetimePercentile": 0.988451,
+      "weeklyRank": 10,
+      "monthlyRank": 9,
+      "characterClass": "Hunter",
+      "tier": "veteran",
+      "entry": {
+        "rank": 18,
+        "username": "borisudovicic",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/31806472?u=8935f4d43fd7e4eb9bf5ff92d54d4d2f8ac8a786&v=4",
+        "characterClass": "Hunter",
+        "tier": "veteran",
+        "score": 994.74,
+        "prScore": 0,
+        "issueScore": 994.2,
+        "reviewScore": 0,
+        "commentScore": 0.54,
+        "achievements": [
+          {
+            "type": "bug_hunter",
+            "tier": "beginner",
+            "earnedAt": "2025-10-27T23:09:26.918Z"
+          }
+        ],
+        "wallets": {}
+      }
+    },
+    "ecosystemFactor": 0.703973,
+    "elizaEffect": {
+      "miladyNorm": 0,
+      "elizaLifetimePercentile": 0.988451,
+      "ecosystemNorm": 0.703973,
+      "weights": {
+        "milady": 0.45,
+        "eliza": 0.35,
+        "ecosystem": 0.2
+      },
+      "effectNorm": 0.486752,
+      "effectScore": 48.6752
+    }
+  }
+}

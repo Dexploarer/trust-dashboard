@@ -1,0 +1,77 @@
+{
+  "version": "1.0",
+  "generatedAt": "2026-02-22T08:43:16.298Z",
+  "source": "milady-ai/trust-dashboard",
+  "username": "MarcoMandar",
+  "profile": {
+    "username": "MarcoMandar",
+    "canonicalUsername": "marcomandar",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/70625671?u=88aeaa8b5ed43a818bdac96843f2fd40c0abf8ff&v=4",
+    "milady": null,
+    "eliza": {
+      "lifetimeScore": 705.589,
+      "lifetimeRank": 24,
+      "lifetimePercentile": 0.984375,
+      "weeklyRank": null,
+      "monthlyRank": null,
+      "characterClass": "Builder",
+      "tier": "veteran",
+      "entry": {
+        "rank": 24,
+        "username": "MarcoMandar",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/70625671?u=88aeaa8b5ed43a818bdac96843f2fd40c0abf8ff&v=4",
+        "characterClass": "Builder",
+        "tier": "veteran",
+        "score": 705.5889818461161,
+        "prScore": 696.3889818461162,
+        "issueScore": 0,
+        "reviewScore": 9,
+        "commentScore": 0.2,
+        "focusAreas": [
+          {
+            "tag": "typescript",
+            "score": 127.5,
+            "percentage": 37.031658437409234,
+            "rank": 31,
+            "totalInArea": 689
+          },
+          {
+            "tag": "core",
+            "score": 100,
+            "percentage": 29.044437990124887,
+            "rank": 25,
+            "totalInArea": 308
+          },
+          {
+            "tag": "tests",
+            "score": 66,
+            "percentage": 19.169329073482427,
+            "rank": 20,
+            "totalInArea": 181
+          }
+        ],
+        "achievements": [
+          {
+            "type": "pr_master",
+            "tier": "beginner",
+            "earnedAt": "2025-10-27T23:09:13.428Z"
+          }
+        ],
+        "wallets": {}
+      }
+    },
+    "ecosystemFactor": 0.820809,
+    "elizaEffect": {
+      "miladyNorm": 0,
+      "elizaLifetimePercentile": 0.984375,
+      "ecosystemNorm": 0.820809,
+      "weights": {
+        "milady": 0.45,
+        "eliza": 0.35,
+        "ecosystem": 0.2
+      },
+      "effectNorm": 0.508693,
+      "effectScore": 50.8693
+    }
+  }
+}

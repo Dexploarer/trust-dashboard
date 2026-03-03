@@ -1,0 +1,70 @@
+{
+  "version": "1.0",
+  "generatedAt": "2026-02-22T08:43:16.298Z",
+  "source": "milady-ai/trust-dashboard",
+  "username": "Cooops",
+  "profile": {
+    "username": "Cooops",
+    "canonicalUsername": "cooops",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/24834768?u=91ffca48d202d997110169b04cb074b5353e99d1&v=4",
+    "milady": null,
+    "eliza": {
+      "lifetimeScore": 206.9679,
+      "lifetimeRank": 80,
+      "lifetimePercentile": 0.946332,
+      "weeklyRank": null,
+      "monthlyRank": null,
+      "characterClass": "Builder",
+      "tier": "active",
+      "entry": {
+        "rank": 80,
+        "username": "Cooops",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/24834768?u=91ffca48d202d997110169b04cb074b5353e99d1&v=4",
+        "characterClass": "Builder",
+        "tier": "active",
+        "score": 206.9678694828805,
+        "prScore": 206.2878694828805,
+        "issueScore": 0,
+        "reviewScore": 0,
+        "commentScore": 0.6799999999999999,
+        "focusAreas": [
+          {
+            "tag": "typescript",
+            "score": 226.5,
+            "percentage": 53.52079395085065,
+            "rank": 21,
+            "totalInArea": 689
+          },
+          {
+            "tag": "core",
+            "score": 105,
+            "percentage": 24.8109640831758,
+            "rank": 22,
+            "totalInArea": 308
+          },
+          {
+            "tag": "tests",
+            "score": 50,
+            "percentage": 11.814744801512287,
+            "rank": 22,
+            "totalInArea": 181
+          }
+        ],
+        "wallets": {}
+      }
+    },
+    "ecosystemFactor": 0.801567,
+    "elizaEffect": {
+      "miladyNorm": 0,
+      "elizaLifetimePercentile": 0.946332,
+      "ecosystemNorm": 0.801567,
+      "weights": {
+        "milady": 0.45,
+        "eliza": 0.35,
+        "ecosystem": 0.2
+      },
+      "effectNorm": 0.491529,
+      "effectScore": 49.1529
+    }
+  }
+}

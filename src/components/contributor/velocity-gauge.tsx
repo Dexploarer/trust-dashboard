@@ -29,15 +29,15 @@ export function VelocityGauge({ weeklyCount, softCap = 10, hardCap = 25 }: Veloc
   const hardEnd = (hardCap / maxDisplay) * 180;
 
   return (
-    <section className="rounded-xl border border-border bg-card p-4 md:p-5">
+    <section className="rounded-2xl border border-border bg-card p-4 md:p-5">
       <h3 className="text-lg font-semibold mb-3">Weekly Velocity</h3>
       <svg viewBox="0 0 100 60" className="h-40 w-full" role="img" aria-label="Weekly velocity gauge">
         <path d={describeArc(50, 50, 34, 0, softEnd)} stroke="#10B981" strokeWidth="8" fill="none" strokeLinecap="round" />
         <path d={describeArc(50, 50, 34, softEnd, hardEnd)} stroke="#F59E0B" strokeWidth="8" fill="none" strokeLinecap="round" />
         <path d={describeArc(50, 50, 34, hardEnd, 180)} stroke="#EF4444" strokeWidth="8" fill="none" strokeLinecap="round" />
 
-        <line x1="50" y1="50" x2={needle.x} y2={needle.y} stroke="#F8FAFC" strokeWidth="1.6" />
-        <circle cx="50" cy="50" r="2" fill="#F8FAFC" />
+        <line x1="50" y1="50" x2={needle.x} y2={needle.y} stroke="currentColor" strokeWidth="1.6" />
+        <circle cx="50" cy="50" r="2" fill="currentColor" />
       </svg>
 
       <div className="text-center font-mono text-xl font-bold">{weeklyCount} PRs</div>

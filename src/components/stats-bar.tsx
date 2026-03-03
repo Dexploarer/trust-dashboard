@@ -13,19 +13,23 @@ export function StatsBar({ contributors, stats, generatedAt }: StatsBarProps) {
   const totalContributors = stats.totalContributors || contributors.length;
   const avgScore = stats.avgScore || 0;
   const autoMergeCount = contributors.filter(isAutoMergeEligible).length;
+  const totalCoauthoredCommits = stats.totalCoauthoredCommits ?? 0;
+  const totalCoauthorPairs = stats.totalCoauthorPairs ?? 0;
 
   return (
-    <div className="space-y-4">
-      <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
+    <div className="space-y-3">
+      <div className="grid grid-cols-2 md:grid-cols-6 gap-2">
         <StatCard label="Total Contributors" value={totalContributors.toString()} />
         <StatCard label="Average Score" value={avgScore.toFixed(1)} />
         <StatCard label="Auto-Merge Eligible" value={autoMergeCount.toString()} />
         <StatCard label="Total Events" value={stats.totalEvents.toString()} />
+        <StatCard label="Co-Auth Commits" value={totalCoauthoredCommits.toString()} />
+        <StatCard label="Co-Auth Partners" value={totalCoauthorPairs.toString()} />
       </div>
 
-      <div className="rounded-lg border border-border bg-card p-4 space-y-3">
+      <div className="rounded-2xl border border-border bg-card p-4 space-y-3">
         <div className="flex flex-col sm:flex-row sm:items-center sm:justify-between gap-2">
-          <h3 className="text-sm font-medium">Tier Distribution</h3>
+          <h3 className="text-sm font-semibold">Tier Distribution</h3>
           <p className="text-xs text-muted-foreground">Last updated: {formatRelativeTime(generatedAt)}</p>
         </div>
 
@@ -68,9 +72,9 @@ export function StatsBar({ contributors, stats, generatedAt }: StatsBarProps) {
 
 function StatCard({ label, value }: { label: string; value: string }) {
   return (
-    <div className="rounded-lg border border-border bg-card p-4">
-      <div className="text-xs text-muted-foreground">{label}</div>
-      <div className="text-2xl font-bold font-mono mt-1">{value}</div>
+    <div className="rounded-2xl border border-border bg-card px-4 py-3">
+      <div className="text-[11px] text-muted-foreground uppercase tracking-wide">{label}</div>
+      <div className="text-2xl font-semibold font-mono mt-1">{value}</div>
     </div>
   );
 }

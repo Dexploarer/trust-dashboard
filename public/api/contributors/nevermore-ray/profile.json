@@ -1,0 +1,70 @@
+{
+  "version": "1.0",
+  "generatedAt": "2026-02-22T08:43:16.298Z",
+  "source": "milady-ai/trust-dashboard",
+  "username": "Nevermore-Ray",
+  "profile": {
+    "username": "Nevermore-Ray",
+    "canonicalUsername": "nevermore-ray",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/195998257?v=4",
+    "milady": null,
+    "eliza": {
+      "lifetimeScore": 181.6578,
+      "lifetimeRank": 95,
+      "lifetimePercentile": 0.936141,
+      "weeklyRank": null,
+      "monthlyRank": null,
+      "characterClass": "Builder",
+      "tier": "regular",
+      "entry": {
+        "rank": 95,
+        "username": "Nevermore-Ray",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/195998257?v=4",
+        "characterClass": "Builder",
+        "tier": "regular",
+        "score": 181.65779560750494,
+        "prScore": 175.67779560750495,
+        "issueScore": 0,
+        "reviewScore": 4.5,
+        "commentScore": 1.48,
+        "focusAreas": [
+          {
+            "tag": "typescript",
+            "score": 21,
+            "percentage": 60.344827586206904,
+            "rank": 211,
+            "totalInArea": 689
+          },
+          {
+            "tag": "docs",
+            "score": 12,
+            "percentage": 34.48275862068966,
+            "rank": 125,
+            "totalInArea": 580
+          },
+          {
+            "tag": "infra",
+            "score": 1.8,
+            "percentage": 5.172413793103449,
+            "rank": 223,
+            "totalInArea": 375
+          }
+        ],
+        "wallets": {}
+      }
+    },
+    "ecosystemFactor": 0.793508,
+    "elizaEffect": {
+      "miladyNorm": 0,
+      "elizaLifetimePercentile": 0.936141,
+      "ecosystemNorm": 0.793508,
+      "weights": {
+        "milady": 0.45,
+        "eliza": 0.35,
+        "ecosystem": 0.2
+      },
+      "effectNorm": 0.486351,
+      "effectScore": 48.6351
+    }
+  }
+}

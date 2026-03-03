@@ -1,0 +1,92 @@
+{
+  "version": "1.0",
+  "generatedAt": "2026-02-22T08:43:16.298Z",
+  "source": "milady-ai/trust-dashboard",
+  "username": "ponderingdemocritus",
+  "profile": {
+    "username": "ponderingdemocritus",
+    "canonicalUsername": "ponderingdemocritus",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/90423308?u=fa7a84e8e946db253241c7aaabbb57e7c6495f0b&v=4",
+    "milady": null,
+    "eliza": {
+      "lifetimeScore": 2012.3112,
+      "lifetimeRank": 15,
+      "lifetimePercentile": 0.990489,
+      "weeklyRank": null,
+      "monthlyRank": null,
+      "characterClass": "Builder",
+      "tier": "elite",
+      "entry": {
+        "rank": 15,
+        "username": "ponderingdemocritus",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/90423308?u=fa7a84e8e946db253241c7aaabbb57e7c6495f0b&v=4",
+        "characterClass": "Builder",
+        "tier": "elite",
+        "score": 2012.311207360589,
+        "prScore": 1867.4572073605889,
+        "issueScore": 20.1,
+        "reviewScore": 122.5,
+        "commentScore": 2.254,
+        "focusAreas": [
+          {
+            "tag": "core",
+            "score": 780,
+            "percentage": 34.02250719706883,
+            "rank": 8,
+            "totalInArea": 308
+          },
+          {
+            "tag": "typescript",
+            "score": 736.5,
+            "percentage": 32.12509814184769,
+            "rank": 10,
+            "totalInArea": 689
+          },
+          {
+            "tag": "docs",
+            "score": 201,
+            "percentage": 8.767338393090814,
+            "rank": 14,
+            "totalInArea": 580
+          }
+        ],
+        "achievements": [
+          {
+            "type": "level",
+            "tier": "beginner",
+            "earnedAt": "2025-10-27T23:09:13.565Z"
+          },
+          {
+            "type": "streak",
+            "tier": "beginner",
+            "earnedAt": "2025-10-27T23:09:13.588Z"
+          },
+          {
+            "type": "pr_master",
+            "tier": "elite",
+            "earnedAt": "2025-10-27T23:09:13.600Z"
+          },
+          {
+            "type": "review_champion",
+            "tier": "beginner",
+            "earnedAt": "2025-10-27T23:09:13.612Z"
+          }
+        ],
+        "wallets": {}
+      }
+    },
+    "ecosystemFactor": 0.818806,
+    "elizaEffect": {
+      "miladyNorm": 0,
+      "elizaLifetimePercentile": 0.990489,
+      "ecosystemNorm": 0.818806,
+      "weights": {
+        "milady": 0.45,
+        "eliza": 0.35,
+        "ecosystem": 0.2
+      },
+      "effectNorm": 0.510432,
+      "effectScore": 51.0432
+    }
+  }
+}

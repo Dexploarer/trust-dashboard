@@ -1,0 +1,82 @@
+{
+  "version": "1.0",
+  "generatedAt": "2026-02-22T08:43:16.298Z",
+  "source": "milady-ai/trust-dashboard",
+  "username": "rferrari",
+  "profile": {
+    "username": "rferrari",
+    "canonicalUsername": "rferrari",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/495887?u=5a56d90f584ffc1827bb301541076597dca9cb3e&v=4",
+    "milady": null,
+    "eliza": {
+      "lifetimeScore": 284.7738,
+      "lifetimeRank": 56,
+      "lifetimePercentile": 0.962636,
+      "weeklyRank": null,
+      "monthlyRank": null,
+      "characterClass": "Builder",
+      "tier": "active",
+      "entry": {
+        "rank": 56,
+        "username": "rferrari",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/495887?u=5a56d90f584ffc1827bb301541076597dca9cb3e&v=4",
+        "characterClass": "Builder",
+        "tier": "active",
+        "score": 284.773753967391,
+        "prScore": 264.49575396739095,
+        "issueScore": 18.5,
+        "reviewScore": 0,
+        "commentScore": 1.778,
+        "focusAreas": [
+          {
+            "tag": "typescript",
+            "score": 25.5,
+            "percentage": 30.68592057761734,
+            "rank": 167,
+            "totalInArea": 689
+          },
+          {
+            "tag": "core",
+            "score": 25,
+            "percentage": 30.08423586040915,
+            "rank": 94,
+            "totalInArea": 308
+          },
+          {
+            "tag": "maintainer",
+            "score": 10,
+            "percentage": 12.033694344163662,
+            "rank": 28,
+            "totalInArea": 290
+          }
+        ],
+        "achievements": [
+          {
+            "type": "pr_master",
+            "tier": "beginner",
+            "earnedAt": "2025-10-27T23:09:18.745Z"
+          },
+          {
+            "type": "bug_hunter",
+            "tier": "beginner",
+            "earnedAt": "2025-10-27T23:09:18.788Z"
+          }
+        ],
+        "wallets": {}
+      }
+    },
+    "ecosystemFactor": 0.801776,
+    "elizaEffect": {
+      "miladyNorm": 0,
+      "elizaLifetimePercentile": 0.962636,
+      "ecosystemNorm": 0.801776,
+      "weights": {
+        "milady": 0.45,
+        "eliza": 0.35,
+        "ecosystem": 0.2
+      },
+      "effectNorm": 0.497278,
+      "effectScore": 49.7278
+    }
+  }
+}

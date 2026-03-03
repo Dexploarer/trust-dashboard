@@ -1,0 +1,63 @@
+{
+  "version": "1.0",
+  "generatedAt": "2026-02-22T08:43:16.298Z",
+  "source": "milady-ai/trust-dashboard",
+  "username": "imholders",
+  "profile": {
+    "username": "imholders",
+    "canonicalUsername": "imholders",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/202005793?v=4",
+    "milady": null,
+    "eliza": {
+      "lifetimeScore": 313.6281,
+      "lifetimeRank": 52,
+      "lifetimePercentile": 0.965353,
+      "weeklyRank": null,
+      "monthlyRank": null,
+      "characterClass": "Scribe",
+      "tier": "active",
+      "entry": {
+        "rank": 52,
+        "username": "imholders",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/202005793?v=4",
+        "characterClass": "Scribe",
+        "tier": "active",
+        "score": 313.6281229204402,
+        "prScore": 313.6281229204402,
+        "issueScore": 0,
+        "reviewScore": 0,
+        "commentScore": 0,
+        "focusAreas": [
+          {
+            "tag": "docs",
+            "score": 37.5,
+            "percentage": 100,
+            "rank": 69,
+            "totalInArea": 580
+          }
+        ],
+        "achievements": [
+          {
+            "type": "pr_master",
+            "tier": "beginner",
+            "earnedAt": "2025-10-27T23:09:22.333Z"
+          }
+        ],
+        "wallets": {}
+      }
+    },
+    "ecosystemFactor": 0.811984,
+    "elizaEffect": {
+      "miladyNorm": 0,
+      "elizaLifetimePercentile": 0.965353,
+      "ecosystemNorm": 0.811984,
+      "weights": {
+        "milady": 0.45,
+        "eliza": 0.35,
+        "ecosystem": 0.2
+      },
+      "effectNorm": 0.50027,
+      "effectScore": 50.027
+    }
+  }
+}

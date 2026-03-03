@@ -1,0 +1,77 @@
+{
+  "version": "1.0",
+  "generatedAt": "2026-02-22T08:43:16.298Z",
+  "source": "milady-ai/trust-dashboard",
+  "username": "proteanx",
+  "profile": {
+    "username": "proteanx",
+    "canonicalUsername": "proteanx",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/29043582?u=d2261c451984df04b46d6fca1261eb8d245de59b&v=4",
+    "milady": null,
+    "eliza": {
+      "lifetimeScore": 405.7612,
+      "lifetimeRank": 40,
+      "lifetimePercentile": 0.973505,
+      "weeklyRank": null,
+      "monthlyRank": null,
+      "characterClass": "Builder",
+      "tier": "active",
+      "entry": {
+        "rank": 40,
+        "username": "proteanx",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/29043582?u=d2261c451984df04b46d6fca1261eb8d245de59b&v=4",
+        "characterClass": "Builder",
+        "tier": "active",
+        "score": 405.761169947048,
+        "prScore": 381.243169947048,
+        "issueScore": 4.1,
+        "reviewScore": 18.5,
+        "commentScore": 1.918,
+        "focusAreas": [
+          {
+            "tag": "docs",
+            "score": 54,
+            "percentage": 26.405867970660147,
+            "rank": 59,
+            "totalInArea": 580
+          },
+          {
+            "tag": "core",
+            "score": 50,
+            "percentage": 24.449877750611247,
+            "rank": 42,
+            "totalInArea": 308
+          },
+          {
+            "tag": "typescript",
+            "score": 45,
+            "percentage": 22.00488997555012,
+            "rank": 99,
+            "totalInArea": 689
+          }
+        ],
+        "achievements": [
+          {
+            "type": "pr_master",
+            "tier": "beginner",
+            "earnedAt": "2025-10-27T23:09:15.542Z"
+          }
+        ],
+        "wallets": {}
+      }
+    },
+    "ecosystemFactor": 0.810607,
+    "elizaEffect": {
+      "miladyNorm": 0,
+      "elizaLifetimePercentile": 0.973505,
+      "ecosystemNorm": 0.810607,
+      "weights": {
+        "milady": 0.45,
+        "eliza": 0.35,
+        "ecosystem": 0.2
+      },
+      "effectNorm": 0.502848,
+      "effectScore": 50.2848
+    }
+  }
+}

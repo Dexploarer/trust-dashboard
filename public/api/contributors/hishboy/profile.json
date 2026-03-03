@@ -1,0 +1,77 @@
+{
+  "version": "1.0",
+  "generatedAt": "2026-02-22T08:43:16.298Z",
+  "source": "milady-ai/trust-dashboard",
+  "username": "hishboy",
+  "profile": {
+    "username": "hishboy",
+    "canonicalUsername": "hishboy",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/340982?u=3201dbd7bc2c194744a093db20c0c35c7afc96d4&v=4",
+    "milady": null,
+    "eliza": {
+      "lifetimeScore": 199.7534,
+      "lifetimeRank": 84,
+      "lifetimePercentile": 0.943614,
+      "weeklyRank": null,
+      "monthlyRank": null,
+      "characterClass": "Builder",
+      "tier": "regular",
+      "entry": {
+        "rank": 84,
+        "username": "hishboy",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/340982?u=3201dbd7bc2c194744a093db20c0c35c7afc96d4&v=4",
+        "characterClass": "Builder",
+        "tier": "regular",
+        "score": 199.7533808974719,
+        "prScore": 194.61538089747194,
+        "issueScore": 0,
+        "reviewScore": 4.5,
+        "commentScore": 0.6379999999999999,
+        "focusAreas": [
+          {
+            "tag": "typescript",
+            "score": 57,
+            "percentage": 48.63481228668942,
+            "rank": 79,
+            "totalInArea": 689
+          },
+          {
+            "tag": "core",
+            "score": 35,
+            "percentage": 29.86348122866894,
+            "rank": 58,
+            "totalInArea": 308
+          },
+          {
+            "tag": "tests",
+            "score": 18,
+            "percentage": 15.358361774744028,
+            "rank": 47,
+            "totalInArea": 181
+          }
+        ],
+        "achievements": [
+          {
+            "type": "pr_master",
+            "tier": "beginner",
+            "earnedAt": "2025-10-27T23:09:13.014Z"
+          }
+        ],
+        "wallets": {}
+      }
+    },
+    "ecosystemFactor": 0.798366,
+    "elizaEffect": {
+      "miladyNorm": 0,
+      "elizaLifetimePercentile": 0.943614,
+      "ecosystemNorm": 0.798366,
+      "weights": {
+        "milady": 0.45,
+        "eliza": 0.35,
+        "ecosystem": 0.2
+      },
+      "effectNorm": 0.489938,
+      "effectScore": 48.9938
+    }
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "version": "1.0",
+  "generatedAt": "2026-02-22T08:43:16.298Z",
+  "source": "milady-ai/trust-dashboard",
+  "username": "bealers",
+  "profile": {
+    "username": "bealers",
+    "canonicalUsername": "bealers",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/6403055?u=8c40778251e25b92cdee727056415b6c0d1bcdc5&v=4",
+    "milady": null,
+    "eliza": {
+      "lifetimeScore": 234.6787,
+      "lifetimeRank": 68,
+      "lifetimePercentile": 0.954484,
+      "weeklyRank": null,
+      "monthlyRank": null,
+      "characterClass": "Builder",
+      "tier": "active",
+      "entry": {
+        "rank": 68,
+        "username": "bealers",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/6403055?u=8c40778251e25b92cdee727056415b6c0d1bcdc5&v=4",
+        "characterClass": "Builder",
+        "tier": "active",
+        "score": 234.6787131775777,
+        "prScore": 228.1027131775777,
+        "issueScore": 0,
+        "reviewScore": 4.5,
+        "commentScore": 2.076,
+        "focusAreas": [
+          {
+            "tag": "infra",
+            "score": 70.19999999999995,
+            "percentage": 36.48648648648648,
+            "rank": 28,
+            "totalInArea": 375
+          },
+          {
+            "tag": "typescript",
+            "score": 39,
+            "percentage": 20.27027027027028,
+            "rank": 118,
+            "totalInArea": 689
+          },
+          {
+            "tag": "tests",
+            "score": 32,
+            "percentage": 16.63201663201664,
+            "rank": 36,
+            "totalInArea": 181
+          }
+        ],
+        "achievements": [
+          {
+            "type": "pr_master",
+            "tier": "beginner",
+            "earnedAt": "2025-10-27T23:09:17.421Z"
+          }
+        ],
+        "wallets": {
+          "ethereum": "0x13f7B688C046D0b08039Da20580C331839a7CCed",
+          "solana": "EteJHGm4DJiUFrJZBvjA6LCupvcnqVoPk8DWpMneRx7Z"
+        }
+      }
+    },
+    "ecosystemFactor": 0.803382,
+    "elizaEffect": {
+      "miladyNorm": 0,
+      "elizaLifetimePercentile": 0.954484,
+      "ecosystemNorm": 0.803382,
+      "weights": {
+        "milady": 0.45,
+        "eliza": 0.35,
+        "ecosystem": 0.2
+      },
+      "effectNorm": 0.494746,
+      "effectScore": 49.4746
+    }
+  }
+}

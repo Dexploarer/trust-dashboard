@@ -1,0 +1,74 @@
+{
+  "version": "1.0",
+  "generatedAt": "2026-02-22T08:43:16.298Z",
+  "source": "milady-ai/trust-dashboard",
+  "username": "hellopleasures",
+  "profile": {
+    "username": "hellopleasures",
+    "canonicalUsername": "hellopleasures",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/99759672?v=4",
+    "milady": {
+      "trustScore": 56.38,
+      "rank": 4,
+      "tier": "contributing"
+    },
+    "eliza": {
+      "lifetimeScore": 193.9551,
+      "lifetimeRank": 87,
+      "lifetimePercentile": 0.941576,
+      "weeklyRank": null,
+      "monthlyRank": null,
+      "characterClass": "Builder",
+      "tier": "regular",
+      "entry": {
+        "rank": 87,
+        "username": "hellopleasures",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/99759672?u=b6a108e2d997342768a4a75dde071f0586527e8d&v=4",
+        "characterClass": "Builder",
+        "tier": "regular",
+        "score": 193.95506686191774,
+        "prScore": 183.51706686191773,
+        "issueScore": 0,
+        "reviewScore": 9,
+        "commentScore": 1.438,
+        "focusAreas": [
+          {
+            "tag": "typescript",
+            "score": 69,
+            "percentage": 62.841530054644814,
+            "rank": 63,
+            "totalInArea": 689
+          },
+          {
+            "tag": "core",
+            "score": 15,
+            "percentage": 13.661202185792352,
+            "rank": 140,
+            "totalInArea": 308
+          },
+          {
+            "tag": "infra",
+            "score": 10.8,
+            "percentage": 9.836065573770494,
+            "rank": 67,
+            "totalInArea": 375
+          }
+        ],
+        "wallets": {}
+      }
+    },
+    "ecosystemFactor": 0.794721,
+    "elizaEffect": {
+      "miladyNorm": 0.5638,
+      "elizaLifetimePercentile": 0.941576,
+      "ecosystemNorm": 0.794721,
+      "weights": {
+        "milady": 0.45,
+        "eliza": 0.35,
+        "ecosystem": 0.2
+      },
+      "effectNorm": 0.742206,
+      "effectScore": 74.2206
+    }
+  }
+}

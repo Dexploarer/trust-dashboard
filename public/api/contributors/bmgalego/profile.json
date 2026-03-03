@@ -1,0 +1,82 @@
+{
+  "version": "1.0",
+  "generatedAt": "2026-02-22T08:43:16.298Z",
+  "source": "milady-ai/trust-dashboard",
+  "username": "bmgalego",
+  "profile": {
+    "username": "bmgalego",
+    "canonicalUsername": "bmgalego",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/2568430?v=4",
+    "milady": null,
+    "eliza": {
+      "lifetimeScore": 962.7343,
+      "lifetimeRank": 19,
+      "lifetimePercentile": 0.987772,
+      "weeklyRank": null,
+      "monthlyRank": null,
+      "characterClass": "Builder",
+      "tier": "veteran",
+      "entry": {
+        "rank": 19,
+        "username": "bmgalego",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/2568430?v=4",
+        "characterClass": "Builder",
+        "tier": "veteran",
+        "score": 962.7343063251049,
+        "prScore": 934.7943063251049,
+        "issueScore": 0,
+        "reviewScore": 27,
+        "commentScore": 0.94,
+        "focusAreas": [
+          {
+            "tag": "core",
+            "score": 220,
+            "percentage": 37.23134202064647,
+            "rank": 14,
+            "totalInArea": 308
+          },
+          {
+            "tag": "typescript",
+            "score": 195,
+            "percentage": 33.00050770011846,
+            "rank": 23,
+            "totalInArea": 689
+          },
+          {
+            "tag": "bug-fixer",
+            "score": 46.20000000000001,
+            "percentage": 7.818581824335761,
+            "rank": 13,
+            "totalInArea": 227
+          }
+        ],
+        "achievements": [
+          {
+            "type": "level",
+            "tier": "beginner",
+            "earnedAt": "2025-10-27T23:09:13.644Z"
+          },
+          {
+            "type": "pr_master",
+            "tier": "elite",
+            "earnedAt": "2025-10-27T23:09:13.656Z"
+          }
+        ],
+        "wallets": {}
+      }
+    },
+    "ecosystemFactor": 0.821241,
+    "elizaEffect": {
+      "miladyNorm": 0,
+      "elizaLifetimePercentile": 0.987772,
+      "ecosystemNorm": 0.821241,
+      "weights": {
+        "milady": 0.45,
+        "eliza": 0.35,
+        "ecosystem": 0.2
+      },
+      "effectNorm": 0.509968,
+      "effectScore": 50.9968
+    }
+  }
+}

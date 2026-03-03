@@ -1,0 +1,94 @@
+{
+  "version": "1.0",
+  "generatedAt": "2026-02-22T08:43:16.298Z",
+  "source": "milady-ai/trust-dashboard",
+  "username": "0xbbjoker",
+  "profile": {
+    "username": "0xbbjoker",
+    "canonicalUsername": "0xbbjoker",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/54844437?u=90fe1762420de6ad493a1c1582f1f70c0d87d8e2&v=4",
+    "milady": null,
+    "eliza": {
+      "lifetimeScore": 9496.8504,
+      "lifetimeRank": 3,
+      "lifetimePercentile": 0.998641,
+      "weeklyRank": null,
+      "monthlyRank": 5,
+      "characterClass": "Builder",
+      "tier": "legend",
+      "entry": {
+        "rank": 3,
+        "username": "0xbbjoker",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/54844437?u=90fe1762420de6ad493a1c1582f1f70c0d87d8e2&v=4",
+        "characterClass": "Builder",
+        "tier": "legend",
+        "score": 9496.85038499766,
+        "prScore": 8838.66438499766,
+        "issueScore": 14,
+        "reviewScore": 621,
+        "commentScore": 23.186,
+        "focusAreas": [
+          {
+            "tag": "typescript",
+            "score": 2263.5,
+            "percentage": 35.55105310276581,
+            "rank": 4,
+            "totalInArea": 689
+          },
+          {
+            "tag": "database",
+            "score": 986.0000000000102,
+            "percentage": 15.486343432439787,
+            "rank": 1,
+            "totalInArea": 158
+          },
+          {
+            "tag": "core",
+            "score": 955,
+            "percentage": 14.99945028192682,
+            "rank": 4,
+            "totalInArea": 308
+          }
+        ],
+        "achievements": [
+          {
+            "type": "level",
+            "tier": "elite",
+            "earnedAt": "2025-10-27T23:09:13.038Z"
+          },
+          {
+            "type": "streak",
+            "tier": "beginner",
+            "earnedAt": "2025-10-27T23:09:13.051Z"
+          },
+          {
+            "type": "pr_master",
+            "tier": "legend",
+            "earnedAt": "2025-10-27T23:09:13.085Z"
+          },
+          {
+            "type": "review_champion",
+            "tier": "elite",
+            "earnedAt": "2025-10-27T23:09:13.089Z"
+          }
+        ],
+        "wallets": {
+          "solana": "6ZSoGo74ZCfb4yeVHoJHai1wEekAAU61wPDKhxitJzu6"
+        }
+      }
+    },
+    "ecosystemFactor": 0.823495,
+    "elizaEffect": {
+      "miladyNorm": 0,
+      "elizaLifetimePercentile": 0.998641,
+      "ecosystemNorm": 0.823495,
+      "weights": {
+        "milady": 0.45,
+        "eliza": 0.35,
+        "ecosystem": 0.2
+      },
+      "effectNorm": 0.514223,
+      "effectScore": 51.4223
+    }
+  }
+}

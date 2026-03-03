@@ -1,0 +1,100 @@
+{
+  "version": "1.0",
+  "generatedAt": "2026-02-22T08:43:16.298Z",
+  "source": "milady-ai/trust-dashboard",
+  "username": "tcm390",
+  "profile": {
+    "username": "tcm390",
+    "canonicalUsername": "tcm390",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/60634884?u=c6c41679b8322eaa0c81f72e0b4ed95e80f0ac16&v=4",
+    "milady": null,
+    "eliza": {
+      "lifetimeScore": 10577.2045,
+      "lifetimeRank": 2,
+      "lifetimePercentile": 0.999321,
+      "weeklyRank": null,
+      "monthlyRank": null,
+      "characterClass": "Builder",
+      "tier": "legend",
+      "entry": {
+        "rank": 2,
+        "username": "tcm390",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/60634884?u=c6c41679b8322eaa0c81f72e0b4ed95e80f0ac16&v=4",
+        "characterClass": "Builder",
+        "tier": "legend",
+        "score": 10577.204546595962,
+        "prScore": 9624.784546595962,
+        "issueScore": 60.5,
+        "reviewScore": 869.5,
+        "commentScore": 22.419999999999998,
+        "focusAreas": [
+          {
+            "tag": "typescript",
+            "score": 1996.5,
+            "percentage": 33.83496873252332,
+            "rank": 7,
+            "totalInArea": 689
+          },
+          {
+            "tag": "core",
+            "score": 787.5,
+            "percentage": 13.345874218313106,
+            "rank": 7,
+            "totalInArea": 308
+          },
+          {
+            "tag": "ui",
+            "score": 764.9999999999959,
+            "percentage": 12.964563526361234,
+            "rank": 2,
+            "totalInArea": 67
+          }
+        ],
+        "achievements": [
+          {
+            "type": "level",
+            "tier": "elite",
+            "earnedAt": "2025-10-27T23:09:12.946Z"
+          },
+          {
+            "type": "streak",
+            "tier": "beginner",
+            "earnedAt": "2025-10-27T23:09:12.960Z"
+          },
+          {
+            "type": "pr_master",
+            "tier": "legend",
+            "earnedAt": "2025-10-27T23:09:12.977Z"
+          },
+          {
+            "type": "bug_hunter",
+            "tier": "elite",
+            "earnedAt": "2025-10-27T23:09:12.981Z"
+          },
+          {
+            "type": "review_champion",
+            "tier": "elite",
+            "earnedAt": "2025-10-27T23:09:12.997Z"
+          }
+        ],
+        "wallets": {
+          "ethereum": "0x56a9D3c26E97314C17a308a375C796859Cd592b6",
+          "solana": "5h3okbcCBa8MFAx9djg6mAWhG6pbhMe6iKAgjLxfrJnV"
+        }
+      }
+    },
+    "ecosystemFactor": 0.822045,
+    "elizaEffect": {
+      "miladyNorm": 0,
+      "elizaLifetimePercentile": 0.999321,
+      "ecosystemNorm": 0.822045,
+      "weights": {
+        "milady": 0.45,
+        "eliza": 0.35,
+        "ecosystem": 0.2
+      },
+      "effectNorm": 0.514171,
+      "effectScore": 51.4171
+    }
+  }
+}

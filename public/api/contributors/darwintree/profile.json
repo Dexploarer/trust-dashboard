@@ -1,0 +1,70 @@
+{
+  "version": "1.0",
+  "generatedAt": "2026-02-22T08:43:16.298Z",
+  "source": "milady-ai/trust-dashboard",
+  "username": "darwintree",
+  "profile": {
+    "username": "darwintree",
+    "canonicalUsername": "darwintree",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/17946284?v=4",
+    "milady": null,
+    "eliza": {
+      "lifetimeScore": 178.4468,
+      "lifetimeRank": 97,
+      "lifetimePercentile": 0.934783,
+      "weeklyRank": null,
+      "monthlyRank": null,
+      "characterClass": "Builder",
+      "tier": "regular",
+      "entry": {
+        "rank": 97,
+        "username": "darwintree",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/17946284?v=4",
+        "characterClass": "Builder",
+        "tier": "regular",
+        "score": 178.44680998690626,
+        "prScore": 165.06880998690627,
+        "issueScore": 8.1,
+        "reviewScore": 4.5,
+        "commentScore": 0.7779999999999999,
+        "focusAreas": [
+          {
+            "tag": "typescript",
+            "score": 40.5,
+            "percentage": 46.65898617511521,
+            "rank": 110,
+            "totalInArea": 689
+          },
+          {
+            "tag": "core",
+            "score": 15,
+            "percentage": 17.28110599078341,
+            "rank": 134,
+            "totalInArea": 308
+          },
+          {
+            "tag": "architect",
+            "score": 7.5,
+            "percentage": 8.640552995391705,
+            "rank": 49,
+            "totalInArea": 353
+          }
+        ],
+        "wallets": {}
+      }
+    },
+    "ecosystemFactor": 0.787925,
+    "elizaEffect": {
+      "miladyNorm": 0,
+      "elizaLifetimePercentile": 0.934783,
+      "ecosystemNorm": 0.787925,
+      "weights": {
+        "milady": 0.45,
+        "eliza": 0.35,
+        "ecosystem": 0.2
+      },
+      "effectNorm": 0.484759,
+      "effectScore": 48.4759
+    }
+  }
+}

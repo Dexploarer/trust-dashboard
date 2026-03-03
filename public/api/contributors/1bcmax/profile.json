@@ -1,0 +1,30 @@
+{
+  "version": "1.0",
+  "generatedAt": "2026-02-22T08:43:16.298Z",
+  "source": "milady-ai/trust-dashboard",
+  "username": "1bcMax",
+  "profile": {
+    "username": "1bcMax",
+    "canonicalUsername": "1bcmax",
+    "avatarUrl": "https://github.com/1bcMax.png",
+    "milady": {
+      "trustScore": 35,
+      "rank": 13,
+      "tier": "probationary"
+    },
+    "eliza": null,
+    "ecosystemFactor": 0,
+    "elizaEffect": {
+      "miladyNorm": 0.35,
+      "elizaLifetimePercentile": 0,
+      "ecosystemNorm": 0,
+      "weights": {
+        "milady": 0.45,
+        "eliza": 0.35,
+        "ecosystem": 0.2
+      },
+      "effectNorm": 0.1575,
+      "effectScore": 15.75
+    }
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "version": "1.0",
+  "generatedAt": "2026-02-22T08:43:16.298Z",
+  "source": "milady-ai/trust-dashboard",
+  "username": "sweetmantech",
+  "profile": {
+    "username": "sweetmantech",
+    "canonicalUsername": "sweetmantech",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/23249402?u=724d25cb47efbb540eebee32d8ff8fab744e81a0&v=4",
+    "milady": null,
+    "eliza": {
+      "lifetimeScore": 184.619,
+      "lifetimeRank": 92,
+      "lifetimePercentile": 0.938179,
+      "weeklyRank": null,
+      "monthlyRank": null,
+      "characterClass": "Builder",
+      "tier": "regular",
+      "entry": {
+        "rank": 92,
+        "username": "sweetmantech",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/23249402?u=724d25cb47efbb540eebee32d8ff8fab744e81a0&v=4",
+        "characterClass": "Builder",
+        "tier": "regular",
+        "score": 184.61900990225493,
+        "prScore": 156.74300990225495,
+        "issueScore": 0,
+        "reviewScore": 27,
+        "commentScore": 0.8759999999999999,
+        "focusAreas": [
+          {
+            "tag": "typescript",
+            "score": 22.5,
+            "percentage": 54.08653846153846,
+            "rank": 202,
+            "totalInArea": 689
+          },
+          {
+            "tag": "docs",
+            "score": 9,
+            "percentage": 21.634615384615383,
+            "rank": 178,
+            "totalInArea": 580
+          },
+          {
+            "tag": "infra",
+            "score": 3.6,
+            "percentage": 8.653846153846153,
+            "rank": 175,
+            "totalInArea": 375
+          }
+        ],
+        "wallets": {}
+      }
+    },
+    "ecosystemFactor": 0.785394,
+    "elizaEffect": {
+      "miladyNorm": 0,
+      "elizaLifetimePercentile": 0.938179,
+      "ecosystemNorm": 0.785394,
+      "weights": {
+        "milady": 0.45,
+        "eliza": 0.35,
+        "ecosystem": 0.2
+      },
+      "effectNorm": 0.485442,
+      "effectScore": 48.5442
+    }
+  }
+}

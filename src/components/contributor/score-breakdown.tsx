@@ -89,7 +89,7 @@ export function ScoreBreakdownViz({ breakdown }: ScoreBreakdownProps) {
   const maxAbs = Math.max(1, ...rows.map((row) => Math.abs(row.change)));
 
   return (
-    <section className="rounded-xl border border-border bg-card p-4 md:p-5">
+    <section className="rounded-2xl border border-border bg-card p-4 md:p-5">
       <h3 className="text-lg font-semibold mb-4">Score Breakdown</h3>
       <div className="space-y-3">
         {rows.map((row) => {
@@ -97,7 +97,7 @@ export function ScoreBreakdownViz({ breakdown }: ScoreBreakdownProps) {
           const isPositive = row.change >= 0;
 
           return (
-            <div key={row.label} className="rounded-lg border border-border/70 bg-muted/25 p-3">
+            <div key={row.label} className="rounded-xl border border-border/70 bg-muted/30 p-3">
               <div className="flex flex-col sm:flex-row sm:items-center sm:justify-between gap-1">
                 <div className="text-sm font-medium">{row.label}</div>
                 <div className="font-mono text-sm" style={{ color: isPositive ? "#10B981" : "#EF4444" }}>

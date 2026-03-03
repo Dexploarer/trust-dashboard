@@ -1,0 +1,70 @@
+{
+  "version": "1.0",
+  "generatedAt": "2026-02-22T08:43:16.298Z",
+  "source": "milady-ai/trust-dashboard",
+  "username": "jzvikart",
+  "profile": {
+    "username": "jzvikart",
+    "canonicalUsername": "jzvikart",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/7929905?u=d54ea7bb2ef0bc7fae6f010f70decfaa559cbc30&v=4",
+    "milady": null,
+    "eliza": {
+      "lifetimeScore": 191.4194,
+      "lifetimeRank": 89,
+      "lifetimePercentile": 0.940217,
+      "weeklyRank": null,
+      "monthlyRank": null,
+      "characterClass": "Scribe",
+      "tier": "regular",
+      "entry": {
+        "rank": 89,
+        "username": "jzvikart",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/7929905?u=d54ea7bb2ef0bc7fae6f010f70decfaa559cbc30&v=4",
+        "characterClass": "Scribe",
+        "tier": "regular",
+        "score": 191.41935585194068,
+        "prScore": 168.2793558519407,
+        "issueScore": 4.1,
+        "reviewScore": 18.5,
+        "commentScore": 0.54,
+        "focusAreas": [
+          {
+            "tag": "docs",
+            "score": 124.5,
+            "percentage": 52.82138311412812,
+            "rank": 28,
+            "totalInArea": 580
+          },
+          {
+            "tag": "api",
+            "score": 54.40000000000003,
+            "percentage": 23.080186677980493,
+            "rank": 25,
+            "totalInArea": 194
+          },
+          {
+            "tag": "infra",
+            "score": 25.200000000000006,
+            "percentage": 10.69155706406449,
+            "rank": 47,
+            "totalInArea": 375
+          }
+        ],
+        "wallets": {}
+      }
+    },
+    "ecosystemFactor": 0.78816,
+    "elizaEffect": {
+      "miladyNorm": 0,
+      "elizaLifetimePercentile": 0.940217,
+      "ecosystemNorm": 0.78816,
+      "weights": {
+        "milady": 0.45,
+        "eliza": 0.35,
+        "ecosystem": 0.2
+      },
+      "effectNorm": 0.486708,
+      "effectScore": 48.6708
+    }
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "version": "1.0",
+  "generatedAt": "2026-02-22T08:43:16.298Z",
+  "source": "milady-ai/trust-dashboard",
+  "username": "shakkernerd",
+  "profile": {
+    "username": "shakkernerd",
+    "canonicalUsername": "shakkernerd",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/165377636?u=5560dd9f2d310e1ba61dbba864006a951391a582&v=4",
+    "milady": null,
+    "eliza": {
+      "lifetimeScore": 3817.4773,
+      "lifetimeRank": 10,
+      "lifetimePercentile": 0.993886,
+      "weeklyRank": null,
+      "monthlyRank": null,
+      "characterClass": "Maintainer",
+      "tier": "elite",
+      "entry": {
+        "rank": 10,
+        "username": "shakkernerd",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/165377636?u=5560dd9f2d310e1ba61dbba864006a951391a582&v=4",
+        "characterClass": "Maintainer",
+        "tier": "elite",
+        "score": 3817.4772594583683,
+        "prScore": 2565.759259458368,
+        "issueScore": 8,
+        "reviewScore": 1228,
+        "commentScore": 15.717999999999998,
+        "focusAreas": [
+          {
+            "tag": "typescript",
+            "score": 265.5,
+            "percentage": 22.616917965755178,
+            "rank": 19,
+            "totalInArea": 689
+          },
+          {
+            "tag": "core",
+            "score": 227.5,
+            "percentage": 19.379844961240313,
+            "rank": 13,
+            "totalInArea": 308
+          },
+          {
+            "tag": "maintainer",
+            "score": 178,
+            "percentage": 15.16313144220121,
+            "rank": 7,
+            "totalInArea": 290
+          }
+        ],
+        "achievements": [
+          {
+            "type": "level",
+            "tier": "beginner",
+            "earnedAt": "2025-10-27T23:09:13.723Z"
+          },
+          {
+            "type": "streak",
+            "tier": "beginner",
+            "earnedAt": "2025-10-27T23:09:13.750Z"
+          },
+          {
+            "type": "pr_master",
+            "tier": "legend",
+            "earnedAt": "2025-10-27T23:09:13.753Z"
+          },
+          {
+            "type": "review_champion",
+            "tier": "legend",
+            "earnedAt": "2025-10-27T23:09:13.776Z"
+          }
+        ],
+        "wallets": {
+          "ethereum": "0x9F61f40dF9Dc56d90A09c34B9A2C441eaA13CE53",
+          "solana": "93yUQGN2itBP2duvNrUwXw2v2kHqYmFQXKoNc6nFHwNH"
+        }
+      }
+    },
+    "ecosystemFactor": 0.800176,
+    "elizaEffect": {
+      "miladyNorm": 0,
+      "elizaLifetimePercentile": 0.993886,
+      "ecosystemNorm": 0.800176,
+      "weights": {
+        "milady": 0.45,
+        "eliza": 0.35,
+        "ecosystem": 0.2
+      },
+      "effectNorm": 0.507895,
+      "effectScore": 50.7895
+    }
+  }
+}

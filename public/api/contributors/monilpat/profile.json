@@ -1,0 +1,97 @@
+{
+  "version": "1.0",
+  "generatedAt": "2026-02-22T08:43:16.298Z",
+  "source": "milady-ai/trust-dashboard",
+  "username": "monilpat",
+  "profile": {
+    "username": "monilpat",
+    "canonicalUsername": "monilpat",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/15067321?v=4",
+    "milady": null,
+    "eliza": {
+      "lifetimeScore": 4261.6045,
+      "lifetimeRank": 9,
+      "lifetimePercentile": 0.994565,
+      "weeklyRank": null,
+      "monthlyRank": null,
+      "characterClass": "Scribe",
+      "tier": "elite",
+      "entry": {
+        "rank": 9,
+        "username": "monilpat",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/15067321?v=4",
+        "characterClass": "Scribe",
+        "tier": "elite",
+        "score": 4261.60446832044,
+        "prScore": 1757.4644683204397,
+        "issueScore": 281.40000000000003,
+        "reviewScore": 2202.5,
+        "commentScore": 20.24,
+        "focusAreas": [
+          {
+            "tag": "docs",
+            "score": 1234.5,
+            "percentage": 45.27616812146995,
+            "rank": 5,
+            "totalInArea": 580
+          },
+          {
+            "tag": "typescript",
+            "score": 496.5,
+            "percentage": 18.209491674613066,
+            "rank": 14,
+            "totalInArea": 689
+          },
+          {
+            "tag": "api",
+            "score": 379.20000000000107,
+            "percentage": 13.907430499523251,
+            "rank": 5,
+            "totalInArea": 194
+          }
+        ],
+        "achievements": [
+          {
+            "type": "level",
+            "tier": "beginner",
+            "earnedAt": "2025-10-27T23:09:13.401Z"
+          },
+          {
+            "type": "streak",
+            "tier": "elite",
+            "earnedAt": "2025-10-27T23:09:13.426Z"
+          },
+          {
+            "type": "pr_master",
+            "tier": "elite",
+            "earnedAt": "2025-10-27T23:09:13.431Z"
+          },
+          {
+            "type": "bug_hunter",
+            "tier": "beginner",
+            "earnedAt": "2025-10-27T23:09:13.450Z"
+          },
+          {
+            "type": "review_champion",
+            "tier": "legend",
+            "earnedAt": "2025-10-27T23:09:13.464Z"
+          }
+        ],
+        "wallets": {}
+      }
+    },
+    "ecosystemFactor": 0.777144,
+    "elizaEffect": {
+      "miladyNorm": 0,
+      "elizaLifetimePercentile": 0.994565,
+      "ecosystemNorm": 0.777144,
+      "weights": {
+        "milady": 0.45,
+        "eliza": 0.35,
+        "ecosystem": 0.2
+      },
+      "effectNorm": 0.503527,
+      "effectScore": 50.3527
+    }
+  }
+}

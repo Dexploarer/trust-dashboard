@@ -1,0 +1,70 @@
+{
+  "version": "1.0",
+  "generatedAt": "2026-02-22T08:43:16.298Z",
+  "source": "milady-ai/trust-dashboard",
+  "username": "simsaidev",
+  "profile": {
+    "username": "simsaidev",
+    "canonicalUsername": "simsaidev",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/192255625?u=618ee6c5eb68a948ec29fc112d1ad85a34ced79c&v=4",
+    "milady": null,
+    "eliza": {
+      "lifetimeScore": 234.8211,
+      "lifetimeRank": 67,
+      "lifetimePercentile": 0.955163,
+      "weeklyRank": null,
+      "monthlyRank": null,
+      "characterClass": "Builder",
+      "tier": "active",
+      "entry": {
+        "rank": 67,
+        "username": "simsaidev",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/192255625?u=618ee6c5eb68a948ec29fc112d1ad85a34ced79c&v=4",
+        "characterClass": "Builder",
+        "tier": "active",
+        "score": 234.82109558630435,
+        "prScore": 203.12109558630436,
+        "issueScore": 0,
+        "reviewScore": 31.5,
+        "commentScore": 0.2,
+        "focusAreas": [
+          {
+            "tag": "typescript",
+            "score": 87,
+            "percentage": 75.3899480069324,
+            "rank": 47,
+            "totalInArea": 689
+          },
+          {
+            "tag": "core",
+            "score": 20,
+            "percentage": 17.33102253032929,
+            "rank": 113,
+            "totalInArea": 308
+          },
+          {
+            "tag": "infra",
+            "score": 5.4,
+            "percentage": 4.679376083188909,
+            "rank": 117,
+            "totalInArea": 375
+          }
+        ],
+        "wallets": {}
+      }
+    },
+    "ecosystemFactor": 0.795817,
+    "elizaEffect": {
+      "miladyNorm": 0,
+      "elizaLifetimePercentile": 0.955163,
+      "ecosystemNorm": 0.795817,
+      "weights": {
+        "milady": 0.45,
+        "eliza": 0.35,
+        "ecosystem": 0.2
+      },
+      "effectNorm": 0.49347,
+      "effectScore": 49.347
+    }
+  }
+}

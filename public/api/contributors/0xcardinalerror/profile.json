@@ -1,0 +1,77 @@
+{
+  "version": "1.0",
+  "generatedAt": "2026-02-22T08:43:16.298Z",
+  "source": "milady-ai/trust-dashboard",
+  "username": "0xCardinalError",
+  "profile": {
+    "username": "0xCardinalError",
+    "canonicalUsername": "0xcardinalerror",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/8969767?u=8b05509ceb96fd63a6246dfbf0860fd1df586e59&v=4",
+    "milady": null,
+    "eliza": {
+      "lifetimeScore": 435.5937,
+      "lifetimeRank": 38,
+      "lifetimePercentile": 0.974864,
+      "weeklyRank": null,
+      "monthlyRank": null,
+      "characterClass": "Builder",
+      "tier": "active",
+      "entry": {
+        "rank": 38,
+        "username": "0xCardinalError",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/8969767?u=8b05509ceb96fd63a6246dfbf0860fd1df586e59&v=4",
+        "characterClass": "Builder",
+        "tier": "active",
+        "score": 435.5937159676754,
+        "prScore": 427.0437159676754,
+        "issueScore": 4,
+        "reviewScore": 0,
+        "commentScore": 4.55,
+        "focusAreas": [
+          {
+            "tag": "typescript",
+            "score": 79.5,
+            "percentage": 49.625468164794015,
+            "rank": 52,
+            "totalInArea": 689
+          },
+          {
+            "tag": "architect",
+            "score": 17.5,
+            "percentage": 10.923845193508114,
+            "rank": 20,
+            "totalInArea": 353
+          },
+          {
+            "tag": "feature-dev",
+            "score": 14,
+            "percentage": 8.739076154806492,
+            "rank": 20,
+            "totalInArea": 349
+          }
+        ],
+        "achievements": [
+          {
+            "type": "pr_master",
+            "tier": "beginner",
+            "earnedAt": "2025-10-27T23:09:15.425Z"
+          }
+        ],
+        "wallets": {}
+      }
+    },
+    "ecosystemFactor": 0.814156,
+    "elizaEffect": {
+      "miladyNorm": 0,
+      "elizaLifetimePercentile": 0.974864,
+      "ecosystemNorm": 0.814156,
+      "weights": {
+        "milady": 0.45,
+        "eliza": 0.35,
+        "ecosystem": 0.2
+      },
+      "effectNorm": 0.504034,
+      "effectScore": 50.4034
+    }
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "version": "1.0",
+  "generatedAt": "2026-02-22T08:43:16.298Z",
+  "source": "milady-ai/trust-dashboard",
+  "username": "Ed-Marcavage",
+  "profile": {
+    "username": "Ed-Marcavage",
+    "canonicalUsername": "ed-marcavage",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/61299527?u=dbf76774d33ff354d160eb800d1020c1521b9c21&v=4",
+    "milady": null,
+    "eliza": {
+      "lifetimeScore": 223.3783,
+      "lifetimeRank": 73,
+      "lifetimePercentile": 0.951087,
+      "weeklyRank": null,
+      "monthlyRank": null,
+      "characterClass": "Builder",
+      "tier": "active",
+      "entry": {
+        "rank": 73,
+        "username": "Ed-Marcavage",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/61299527?u=dbf76774d33ff354d160eb800d1020c1521b9c21&v=4",
+        "characterClass": "Builder",
+        "tier": "active",
+        "score": 223.3783000964796,
+        "prScore": 223.3783000964796,
+        "issueScore": 0,
+        "reviewScore": 0,
+        "commentScore": 0,
+        "focusAreas": [
+          {
+            "tag": "typescript",
+            "score": 64.5,
+            "percentage": 47.56637168141593,
+            "rank": 67,
+            "totalInArea": 689
+          },
+          {
+            "tag": "docs",
+            "score": 42,
+            "percentage": 30.973451327433633,
+            "rank": 64,
+            "totalInArea": 580
+          },
+          {
+            "tag": "infra",
+            "score": 21.600000000000005,
+            "percentage": 15.929203539823014,
+            "rank": 52,
+            "totalInArea": 375
+          }
+        ],
+        "wallets": {}
+      }
+    },
+    "ecosystemFactor": 0.804565,
+    "elizaEffect": {
+      "miladyNorm": 0,
+      "elizaLifetimePercentile": 0.951087,
+      "ecosystemNorm": 0.804565,
+      "weights": {
+        "milady": 0.45,
+        "eliza": 0.35,
+        "ecosystem": 0.2
+      },
+      "effectNorm": 0.493793,
+      "effectScore": 49.3793
+    }
+  }
+}

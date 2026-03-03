@@ -1,0 +1,87 @@
+{
+  "version": "1.0",
+  "generatedAt": "2026-02-22T08:43:16.298Z",
+  "source": "milady-ai/trust-dashboard",
+  "username": "sirkitree",
+  "profile": {
+    "username": "sirkitree",
+    "canonicalUsername": "sirkitree",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/28543?u=620169c8c9ebe441dee7b49d849eea383eccd93f&v=4",
+    "milady": null,
+    "eliza": {
+      "lifetimeScore": 515.1406,
+      "lifetimeRank": 35,
+      "lifetimePercentile": 0.976902,
+      "weeklyRank": null,
+      "monthlyRank": null,
+      "characterClass": "Pathfinder",
+      "tier": "veteran",
+      "entry": {
+        "rank": 35,
+        "username": "sirkitree",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/28543?u=620169c8c9ebe441dee7b49d849eea383eccd93f&v=4",
+        "characterClass": "Pathfinder",
+        "tier": "veteran",
+        "score": 515.1405735326426,
+        "prScore": 356.7965735326426,
+        "issueScore": 133.3,
+        "reviewScore": 21,
+        "commentScore": 4.044,
+        "focusAreas": [
+          {
+            "tag": "core",
+            "score": 35,
+            "percentage": 33.65384615384615,
+            "rank": 65,
+            "totalInArea": 308
+          },
+          {
+            "tag": "infra",
+            "score": 21.600000000000005,
+            "percentage": 20.76923076923077,
+            "rank": 54,
+            "totalInArea": 375
+          },
+          {
+            "tag": "typescript",
+            "score": 19.5,
+            "percentage": 18.749999999999996,
+            "rank": 224,
+            "totalInArea": 689
+          }
+        ],
+        "achievements": [
+          {
+            "type": "streak",
+            "tier": "beginner",
+            "earnedAt": "2025-10-27T23:09:13.425Z"
+          },
+          {
+            "type": "pr_master",
+            "tier": "beginner",
+            "earnedAt": "2025-10-27T23:09:13.430Z"
+          },
+          {
+            "type": "bug_hunter",
+            "tier": "beginner",
+            "earnedAt": "2025-10-27T23:09:13.449Z"
+          }
+        ],
+        "wallets": {}
+      }
+    },
+    "ecosystemFactor": 0.78242,
+    "elizaEffect": {
+      "miladyNorm": 0,
+      "elizaLifetimePercentile": 0.976902,
+      "ecosystemNorm": 0.78242,
+      "weights": {
+        "milady": 0.45,
+        "eliza": 0.35,
+        "ecosystem": 0.2
+      },
+      "effectNorm": 0.4984,
+      "effectScore": 49.84
+    }
+  }
+}

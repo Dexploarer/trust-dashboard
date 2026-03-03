@@ -1,0 +1,84 @@
+{
+  "version": "1.0",
+  "generatedAt": "2026-02-22T08:43:16.298Z",
+  "source": "milady-ai/trust-dashboard",
+  "username": "Dexploarer",
+  "profile": {
+    "username": "Dexploarer",
+    "canonicalUsername": "dexploarer",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/211557447?v=4",
+    "milady": {
+      "trustScore": 35,
+      "rank": 18,
+      "tier": "probationary"
+    },
+    "eliza": {
+      "lifetimeScore": 359.7644,
+      "lifetimeRank": 44,
+      "lifetimePercentile": 0.970788,
+      "weeklyRank": null,
+      "monthlyRank": null,
+      "characterClass": "Builder",
+      "tier": "active",
+      "entry": {
+        "rank": 44,
+        "username": "Dexploarer",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/211557447?u=21a243d61cc1f87574328ae07fc64d7d7577b53d&v=4",
+        "characterClass": "Builder",
+        "tier": "active",
+        "score": 359.7644337307488,
+        "prScore": 350.5644337307488,
+        "issueScore": 0,
+        "reviewScore": 9,
+        "commentScore": 0.2,
+        "focusAreas": [
+          {
+            "tag": "core",
+            "score": 170,
+            "percentage": 31.35374400590188,
+            "rank": 15,
+            "totalInArea": 308
+          },
+          {
+            "tag": "typescript",
+            "score": 168,
+            "percentage": 30.984876429361858,
+            "rank": 26,
+            "totalInArea": 689
+          },
+          {
+            "tag": "docs",
+            "score": 76.5,
+            "percentage": 14.109184802655845,
+            "rank": 45,
+            "totalInArea": 580
+          }
+        ],
+        "achievements": [
+          {
+            "type": "level",
+            "tier": "beginner",
+            "earnedAt": "2025-10-27T23:09:22.451Z"
+          }
+        ],
+        "wallets": {
+          "ethereum": "0x215bfEeBdbB48a3ca1b0362294fD4fa89F25Aa59",
+          "solana": "2V7ZZ96oJX6DLQZHj83hsevJw2uLsrfMQZ5GUWRdRuj7"
+        }
+      }
+    },
+    "ecosystemFactor": 0.81272,
+    "elizaEffect": {
+      "miladyNorm": 0.35,
+      "elizaLifetimePercentile": 0.970788,
+      "ecosystemNorm": 0.81272,
+      "weights": {
+        "milady": 0.45,
+        "eliza": 0.35,
+        "ecosystem": 0.2
+      },
+      "effectNorm": 0.65982,
+      "effectScore": 65.982
+    }
+  }
+}

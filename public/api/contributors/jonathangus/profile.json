@@ -1,0 +1,70 @@
+{
+  "version": "1.0",
+  "generatedAt": "2026-02-22T08:43:16.298Z",
+  "source": "milady-ai/trust-dashboard",
+  "username": "jonathangus",
+  "profile": {
+    "username": "jonathangus",
+    "canonicalUsername": "jonathangus",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/7723195?u=2f07ca181065b387adcebe19eaf0798526e6f061&v=4",
+    "milady": null,
+    "eliza": {
+      "lifetimeScore": 237.4014,
+      "lifetimeRank": 65,
+      "lifetimePercentile": 0.956522,
+      "weeklyRank": null,
+      "monthlyRank": null,
+      "characterClass": "Builder",
+      "tier": "active",
+      "entry": {
+        "rank": 65,
+        "username": "jonathangus",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/7723195?u=2f07ca181065b387adcebe19eaf0798526e6f061&v=4",
+        "characterClass": "Builder",
+        "tier": "active",
+        "score": 237.40143766519054,
+        "prScore": 231.90143766519054,
+        "issueScore": 0,
+        "reviewScore": 4.5,
+        "commentScore": 1,
+        "focusAreas": [
+          {
+            "tag": "typescript",
+            "score": 39,
+            "percentage": 40.49844236760124,
+            "rank": 114,
+            "totalInArea": 689
+          },
+          {
+            "tag": "core",
+            "score": 15,
+            "percentage": 15.57632398753894,
+            "rank": 142,
+            "totalInArea": 308
+          },
+          {
+            "tag": "architect",
+            "score": 7.5,
+            "percentage": 7.78816199376947,
+            "rank": 54,
+            "totalInArea": 353
+          }
+        ],
+        "wallets": {}
+      }
+    },
+    "ecosystemFactor": 0.805201,
+    "elizaEffect": {
+      "miladyNorm": 0,
+      "elizaLifetimePercentile": 0.956522,
+      "ecosystemNorm": 0.805201,
+      "weights": {
+        "milady": 0.45,
+        "eliza": 0.35,
+        "ecosystem": 0.2
+      },
+      "effectNorm": 0.495823,
+      "effectScore": 49.5823
+    }
+  }
+}

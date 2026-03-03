@@ -1,0 +1,82 @@
+{
+  "version": "1.0",
+  "generatedAt": "2026-02-22T08:43:16.298Z",
+  "source": "milady-ai/trust-dashboard",
+  "username": "ryanleecode",
+  "profile": {
+    "username": "ryanleecode",
+    "canonicalUsername": "ryanleecode",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/21375952?u=24f232e3e3356e214d1464bde3bd64ffe79e0090&v=4",
+    "milady": null,
+    "eliza": {
+      "lifetimeScore": 282.4465,
+      "lifetimeRank": 58,
+      "lifetimePercentile": 0.961277,
+      "weeklyRank": null,
+      "monthlyRank": null,
+      "characterClass": "Builder",
+      "tier": "active",
+      "entry": {
+        "rank": 58,
+        "username": "ryanleecode",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/21375952?u=24f232e3e3356e214d1464bde3bd64ffe79e0090&v=4",
+        "characterClass": "Builder",
+        "tier": "active",
+        "score": 282.44647198567486,
+        "prScore": 226.57047198567489,
+        "issueScore": 32.1,
+        "reviewScore": 22.5,
+        "commentScore": 1.2759999999999998,
+        "focusAreas": [
+          {
+            "tag": "core",
+            "score": 20,
+            "percentage": 25.773195876288664,
+            "rank": 111,
+            "totalInArea": 308
+          },
+          {
+            "tag": "database",
+            "score": 16.999999999999996,
+            "percentage": 21.907216494845358,
+            "rank": 32,
+            "totalInArea": 158
+          },
+          {
+            "tag": "maintainer",
+            "score": 10,
+            "percentage": 12.886597938144332,
+            "rank": 29,
+            "totalInArea": 290
+          }
+        ],
+        "achievements": [
+          {
+            "type": "pr_master",
+            "tier": "beginner",
+            "earnedAt": "2025-10-27T23:09:16.585Z"
+          },
+          {
+            "type": "bug_hunter",
+            "tier": "beginner",
+            "earnedAt": "2025-10-27T23:09:16.597Z"
+          }
+        ],
+        "wallets": {}
+      }
+    },
+    "ecosystemFactor": 0.78913,
+    "elizaEffect": {
+      "miladyNorm": 0,
+      "elizaLifetimePercentile": 0.961277,
+      "ecosystemNorm": 0.78913,
+      "weights": {
+        "milady": 0.45,
+        "eliza": 0.35,
+        "ecosystem": 0.2
+      },
+      "effectNorm": 0.494273,
+      "effectScore": 49.4273
+    }
+  }
+}

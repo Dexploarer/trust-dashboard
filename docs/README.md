@@ -6,13 +6,14 @@ This directory contains the documentation and assets for the Milaidy Trust Dashb
 
 - `docs/scoring.md` (algorithm + constants)
 - `docs/data-pipeline.md` (how scores are generated)
+- `docs/api.md` (static API endpoints + contracts)
 - `docs/development.md` (local dev + checks)
 - `docs/deployment.md` (GitHub Pages export)
 - `docs/screenshot.png` (README screenshot)
 
 ## Refresh Trust Scores Data
 
-`src/data/trust-scores.json` is generated from GitHub PR history.
+`src/data/trust-scores.json`, `src/data/eliza-snapshot.json`, and `src/data/combined-leaderboard.json` are generated from GitHub + Eliza snapshots.
 
 1. Export a GitHub token with access to `milady-ai/milaidy`:
 

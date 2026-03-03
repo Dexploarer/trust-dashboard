@@ -1,0 +1,85 @@
+{
+  "version": "1.0",
+  "generatedAt": "2026-02-22T08:43:16.298Z",
+  "source": "milady-ai/trust-dashboard",
+  "username": "META-DREAMER",
+  "profile": {
+    "username": "META-DREAMER",
+    "canonicalUsername": "meta-dreamer",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/7143583?u=96f63f10e066a06d5ad592c8efc659e2b84a68fc&v=4",
+    "milady": null,
+    "eliza": {
+      "lifetimeScore": 596.9898,
+      "lifetimeRank": 30,
+      "lifetimePercentile": 0.980299,
+      "weeklyRank": null,
+      "monthlyRank": null,
+      "characterClass": "Builder",
+      "tier": "veteran",
+      "entry": {
+        "rank": 30,
+        "username": "META-DREAMER",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/7143583?u=96f63f10e066a06d5ad592c8efc659e2b84a68fc&v=4",
+        "characterClass": "Builder",
+        "tier": "veteran",
+        "score": 596.9898416616783,
+        "prScore": 566.4498416616783,
+        "issueScore": 12,
+        "reviewScore": 15.5,
+        "commentScore": 3.04,
+        "focusAreas": [
+          {
+            "tag": "typescript",
+            "score": 249,
+            "percentage": 41.29353233830846,
+            "rank": 20,
+            "totalInArea": 689
+          },
+          {
+            "tag": "tests",
+            "score": 78,
+            "percentage": 12.935323383084576,
+            "rank": 17,
+            "totalInArea": 181
+          },
+          {
+            "tag": "react",
+            "score": 58.79999999999996,
+            "percentage": 9.751243781094521,
+            "rank": 12,
+            "totalInArea": 73
+          }
+        ],
+        "achievements": [
+          {
+            "type": "level",
+            "tier": "beginner",
+            "earnedAt": "2025-10-27T23:09:22.670Z"
+          },
+          {
+            "type": "pr_master",
+            "tier": "beginner",
+            "earnedAt": "2025-10-27T23:09:22.692Z"
+          }
+        ],
+        "wallets": {
+          "ethereum": "0x8F942ECED007bD3976927B7958B50Df126FEeCb5",
+          "solana": "AX9WTNr48CKbPYkto8eFtV54LnNtNBKV1eyPEh6qtp6N"
+        }
+      }
+    },
+    "ecosystemFactor": 0.814451,
+    "elizaEffect": {
+      "miladyNorm": 0,
+      "elizaLifetimePercentile": 0.980299,
+      "ecosystemNorm": 0.814451,
+      "weights": {
+        "milady": 0.45,
+        "eliza": 0.35,
+        "ecosystem": 0.2
+      },
+      "effectNorm": 0.505995,
+      "effectScore": 50.5995
+    }
+  }
+}

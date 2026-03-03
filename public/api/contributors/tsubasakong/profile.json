@@ -1,0 +1,77 @@
+{
+  "version": "1.0",
+  "generatedAt": "2026-02-22T08:43:16.298Z",
+  "source": "milady-ai/trust-dashboard",
+  "username": "tsubasakong",
+  "profile": {
+    "username": "tsubasakong",
+    "canonicalUsername": "tsubasakong",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/97429702?u=dd986c0614a1416f2d6dc205cd76b7b29f16dd81&v=4",
+    "milady": null,
+    "eliza": {
+      "lifetimeScore": 278.3327,
+      "lifetimeRank": 59,
+      "lifetimePercentile": 0.960598,
+      "weeklyRank": null,
+      "monthlyRank": null,
+      "characterClass": "Builder",
+      "tier": "active",
+      "entry": {
+        "rank": 59,
+        "username": "tsubasakong",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/97429702?u=dd986c0614a1416f2d6dc205cd76b7b29f16dd81&v=4",
+        "characterClass": "Builder",
+        "tier": "active",
+        "score": 278.3327282094716,
+        "prScore": 241.73272820947162,
+        "issueScore": 0,
+        "reviewScore": 36,
+        "commentScore": 0.6000000000000001,
+        "focusAreas": [
+          {
+            "tag": "core",
+            "score": 35,
+            "percentage": 30.89143865842895,
+            "rank": 68,
+            "totalInArea": 308
+          },
+          {
+            "tag": "architect",
+            "score": 20,
+            "percentage": 17.6522506619594,
+            "rank": 19,
+            "totalInArea": 353
+          },
+          {
+            "tag": "typescript",
+            "score": 16.5,
+            "percentage": 14.563106796116504,
+            "rank": 275,
+            "totalInArea": 689
+          }
+        ],
+        "achievements": [
+          {
+            "type": "pr_master",
+            "tier": "beginner",
+            "earnedAt": "2025-10-27T23:09:13.711Z"
+          }
+        ],
+        "wallets": {}
+      }
+    },
+    "ecosystemFactor": 0.798819,
+    "elizaEffect": {
+      "miladyNorm": 0,
+      "elizaLifetimePercentile": 0.960598,
+      "ecosystemNorm": 0.798819,
+      "weights": {
+        "milady": 0.45,
+        "eliza": 0.35,
+        "ecosystem": 0.2
+      },
+      "effectNorm": 0.495973,
+      "effectScore": 49.5973
+    }
+  }
+}

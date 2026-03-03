@@ -1,17 +1,17 @@
 @import "tailwindcss";
 
 @theme inline {
-  --color-background: #0A0A0F;
-  --color-foreground: #F8FAFC;
-  --color-card: #111118;
-  --color-card-foreground: #F8FAFC;
-  --color-muted: #1A1A25;
-  --color-muted-foreground: #94A3B8;
-  --color-border: #1E293B;
-  --color-accent: #C084FC;
-  --color-accent-foreground: #F8FAFC;
-  --color-primary: #A855F7;
-  --color-primary-foreground: #FFFFFF;
+  --color-background: #fafafa;
+  --color-foreground: #18181b;
+  --color-card: #ffffff;
+  --color-card-foreground: #18181b;
+  --color-muted: #f4f4f5;
+  --color-muted-foreground: #71717a;
+  --color-border: #e4e4e7;
+  --color-accent: #7c3aed;
+  --color-accent-foreground: #ffffff;
+  --color-primary: #6d28d9;
+  --color-primary-foreground: #ffffff;
 
   /* Trust tier colors */
   --color-tier-legendary: #F59E0B;
@@ -22,11 +22,60 @@
   --color-tier-untested: #6B7280;
   --color-tier-restricted: #EF4444;
 
+  /* Badge tier colors */
+  --color-badge-acolyte: #d97706;
+  --color-badge-priestess: #71717a;
+  --color-badge-remilia: #ca8a04;
+
   --font-mono: "JetBrains Mono", ui-monospace, monospace;
 }
 
+@media (prefers-color-scheme: dark) {
+  :root {
+    --color-background: #09090b;
+    --color-foreground: #fafafa;
+    --color-card: #111114;
+    --color-card-foreground: #fafafa;
+    --color-muted: #18181f;
+    --color-muted-foreground: #a1a1aa;
+    --color-border: #27272a;
+    --color-accent: #a78bfa;
+    --color-accent-foreground: #fafafa;
+    --color-primary: #8b5cf6;
+    --color-primary-foreground: #ffffff;
+  }
+}
+
 body {
-  background: var(--color-background);
+  background:
+    radial-gradient(1200px 400px at 90% -20%, color-mix(in srgb, var(--color-accent) 12%, transparent), transparent),
+    linear-gradient(135deg, var(--color-background) 0%, color-mix(in srgb, var(--color-card) 92%, white 8%) 55%, color-mix(in srgb, var(--color-accent) 8%, var(--color-card)) 100%);
   color: var(--color-foreground);
-  font-family: system-ui, -apple-system, sans-serif;
+  font-family: "Inter", "Segoe UI", -apple-system, BlinkMacSystemFont, sans-serif;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+.card-hover {
+  transition: border-color 0.2s ease, box-shadow 0.2s ease, transform 0.2s ease;
+}
+
+.card-hover:hover {
+  border-color: color-mix(in srgb, var(--color-accent) 22%, var(--color-border));
+  box-shadow: 0 8px 24px color-mix(in srgb, var(--color-accent) 10%, transparent);
+  transform: translateY(-1px);
+}
+
+.card-hover:focus-visible {
+  outline: 2px solid color-mix(in srgb, var(--color-accent) 75%, white 25%);
+  outline-offset: 2px;
+  border-color: color-mix(in srgb, var(--color-accent) 35%, var(--color-border));
+  box-shadow: 0 0 0 3px color-mix(in srgb, var(--color-accent) 18%, transparent);
+}
+
+.glass {
+  backdrop-filter: blur(8px);
+  background: color-mix(in srgb, var(--color-card) 88%, transparent);
 }

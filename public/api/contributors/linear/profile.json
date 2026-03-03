@@ -1,0 +1,54 @@
+{
+  "version": "1.0",
+  "generatedAt": "2026-02-22T08:43:16.298Z",
+  "source": "milady-ai/trust-dashboard",
+  "username": "linear",
+  "profile": {
+    "username": "linear",
+    "canonicalUsername": "linear",
+    "avatarUrl": "https://avatars.githubusercontent.com/in/20150?v=4",
+    "milady": null,
+    "eliza": {
+      "lifetimeScore": 406.5,
+      "lifetimeRank": 39,
+      "lifetimePercentile": 0.974185,
+      "weeklyRank": null,
+      "monthlyRank": null,
+      "characterClass": "Hunter",
+      "tier": "active",
+      "entry": {
+        "rank": 39,
+        "username": "linear",
+        "avatarUrl": "https://avatars.githubusercontent.com/in/20150?v=4",
+        "characterClass": "Hunter",
+        "tier": "active",
+        "score": 406.5,
+        "prScore": 0,
+        "issueScore": 406.1,
+        "reviewScore": 0,
+        "commentScore": 0.4,
+        "achievements": [
+          {
+            "type": "bug_hunter",
+            "tier": "beginner",
+            "earnedAt": "2025-10-27T23:09:23.311Z"
+          }
+        ],
+        "wallets": {}
+      }
+    },
+    "ecosystemFactor": 0.696537,
+    "elizaEffect": {
+      "miladyNorm": 0,
+      "elizaLifetimePercentile": 0.974185,
+      "ecosystemNorm": 0.696537,
+      "weights": {
+        "milady": 0.45,
+        "eliza": 0.35,
+        "ecosystem": 0.2
+      },
+      "effectNorm": 0.480272,
+      "effectScore": 48.0272
+    }
+  }
+}

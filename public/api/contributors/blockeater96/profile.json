@@ -1,0 +1,70 @@
+{
+  "version": "1.0",
+  "generatedAt": "2026-02-22T08:43:16.298Z",
+  "source": "milady-ai/trust-dashboard",
+  "username": "BlockEater96",
+  "profile": {
+    "username": "BlockEater96",
+    "canonicalUsername": "blockeater96",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/118160391?u=3db56a43699cba85cd31f6e151973d0658776a73&v=4",
+    "milady": null,
+    "eliza": {
+      "lifetimeScore": 233.2379,
+      "lifetimeRank": 69,
+      "lifetimePercentile": 0.953804,
+      "weeklyRank": null,
+      "monthlyRank": null,
+      "characterClass": "Builder",
+      "tier": "active",
+      "entry": {
+        "rank": 69,
+        "username": "BlockEater96",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/118160391?u=3db56a43699cba85cd31f6e151973d0658776a73&v=4",
+        "characterClass": "Builder",
+        "tier": "active",
+        "score": 233.2378694828805,
+        "prScore": 232.7998694828805,
+        "issueScore": 0,
+        "reviewScore": 0,
+        "commentScore": 0.43799999999999994,
+        "focusAreas": [
+          {
+            "tag": "typescript",
+            "score": 219,
+            "percentage": 81.35215453194651,
+            "rank": 22,
+            "totalInArea": 689
+          },
+          {
+            "tag": "database",
+            "score": 25.499999999999993,
+            "percentage": 9.472511144130756,
+            "rank": 21,
+            "totalInArea": 158
+          },
+          {
+            "tag": "docs",
+            "score": 13.5,
+            "percentage": 5.014858841010401,
+            "rank": 114,
+            "totalInArea": 580
+          }
+        ],
+        "wallets": {}
+      }
+    },
+    "ecosystemFactor": 0.805678,
+    "elizaEffect": {
+      "miladyNorm": 0,
+      "elizaLifetimePercentile": 0.953804,
+      "ecosystemNorm": 0.805678,
+      "weights": {
+        "milady": 0.45,
+        "eliza": 0.35,
+        "ecosystem": 0.2
+      },
+      "effectNorm": 0.494967,
+      "effectScore": 49.4967
+    }
+  }
+}

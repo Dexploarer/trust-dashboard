@@ -44,7 +44,7 @@ export function EventTimeline({ username, events, eventDetails }: EventTimelineP
   const visibleEvents = showAll ? sortedEvents : sortedEvents.slice(0, DEFAULT_VISIBLE);
 
   return (
-    <section className="rounded-xl border border-border bg-card p-4 md:p-5">
+    <section className="rounded-2xl border border-border bg-card p-4 md:p-5">
       <div className="flex items-center justify-between mb-4">
         <h3 className="text-lg font-semibold">Event Timeline</h3>
         <div className="text-xs text-muted-foreground">{events.length} total events</div>
@@ -64,7 +64,7 @@ export function EventTimeline({ username, events, eventDetails }: EventTimelineP
                 <span className="mt-1 h-full w-px bg-border" />
               </div>
 
-              <div className="rounded-lg border border-border/70 bg-muted/20 p-3">
+              <div className="rounded-xl border border-border/70 bg-muted/30 p-3">
                 <div className="flex flex-wrap items-center justify-between gap-2">
                   <div className="flex items-center gap-2 flex-wrap">
                     <Link
@@ -73,7 +73,7 @@ export function EventTimeline({ username, events, eventDetails }: EventTimelineP
                       rel="noopener noreferrer"
                       className="text-sm font-semibold hover:underline"
                     >
-                      PR #{event.prNumber}
+                      PR #{event.prNumber} on GitHub ↗
                     </Link>
                     <span className="rounded-full border px-2 py-0.5 text-xs font-mono capitalize" style={{ borderColor: `${color}66`, color }}>
                       {prettyEventType(event.type)}

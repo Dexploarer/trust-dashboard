@@ -1,0 +1,70 @@
+{
+  "version": "1.0",
+  "generatedAt": "2026-02-22T08:43:16.298Z",
+  "source": "milady-ai/trust-dashboard",
+  "username": "K1mc4n",
+  "profile": {
+    "username": "K1mc4n",
+    "canonicalUsername": "k1mc4n",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/156217571?u=cc94e7743c591f36eaf958d88befa855348bba9d&v=4",
+    "milady": null,
+    "eliza": {
+      "lifetimeScore": 307.5679,
+      "lifetimeRank": 54,
+      "lifetimePercentile": 0.963995,
+      "weeklyRank": null,
+      "monthlyRank": null,
+      "characterClass": "Scribe",
+      "tier": "active",
+      "entry": {
+        "rank": 54,
+        "username": "K1mc4n",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/156217571?u=cc94e7743c591f36eaf958d88befa855348bba9d&v=4",
+        "characterClass": "Scribe",
+        "tier": "active",
+        "score": 307.56791390326885,
+        "prScore": 297.36791390326886,
+        "issueScore": 10,
+        "reviewScore": 0,
+        "commentScore": 0.2,
+        "focusAreas": [
+          {
+            "tag": "docs",
+            "score": 208.5,
+            "percentage": 65.56603773584906,
+            "rank": 12,
+            "totalInArea": 580
+          },
+          {
+            "tag": "api",
+            "score": 60.80000000000003,
+            "percentage": 19.119496855345922,
+            "rank": 22,
+            "totalInArea": 194
+          },
+          {
+            "tag": "infra",
+            "score": 34.2,
+            "percentage": 10.754716981132075,
+            "rank": 42,
+            "totalInArea": 375
+          }
+        ],
+        "wallets": {}
+      }
+    },
+    "ecosystemFactor": 0.807272,
+    "elizaEffect": {
+      "miladyNorm": 0,
+      "elizaLifetimePercentile": 0.963995,
+      "ecosystemNorm": 0.807272,
+      "weights": {
+        "milady": 0.45,
+        "eliza": 0.35,
+        "ecosystem": 0.2
+      },
+      "effectNorm": 0.498852,
+      "effectScore": 49.8852
+    }
+  }
+}

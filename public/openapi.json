@@ -1,0 +1,125 @@
+{
+  "openapi": "3.1.0",
+  "info": {
+    "title": "Milady + Eliza Sister Leaderboard API",
+    "version": "1.0.0",
+    "description": "Static JSON API artifacts for Milady trust, Eliza leaderboard, and Eliza Effect score."
+  },
+  "servers": [
+    {
+      "url": "/"
+    }
+  ],
+  "paths": {
+    "/api/index.json": {
+      "get": {
+        "summary": "API index",
+        "responses": {
+          "200": {
+            "description": "Discovery document"
+          }
+        }
+      }
+    },
+    "/api/leaderboards/milady/lifetime.json": {
+      "get": {
+        "summary": "Milady lifetime leaderboard",
+        "responses": {
+          "200": {
+            "description": "Milady leaderboard response"
+          }
+        }
+      }
+    },
+    "/api/leaderboards/eliza/lifetime.json": {
+      "get": {
+        "summary": "Eliza lifetime leaderboard",
+        "responses": {
+          "200": {
+            "description": "Eliza leaderboard response"
+          }
+        }
+      }
+    },
+    "/api/leaderboards/eliza/weekly.json": {
+      "get": {
+        "summary": "Eliza weekly leaderboard",
+        "responses": {
+          "200": {
+            "description": "Eliza leaderboard response"
+          }
+        }
+      }
+    },
+    "/api/leaderboards/eliza/monthly.json": {
+      "get": {
+        "summary": "Eliza monthly leaderboard",
+        "responses": {
+          "200": {
+            "description": "Eliza leaderboard response"
+          }
+        }
+      }
+    },
+    "/api/leaderboards/eliza-effect/lifetime.json": {
+      "get": {
+        "summary": "Eliza Effect lifetime leaderboard",
+        "responses": {
+          "200": {
+            "description": "Eliza Effect leaderboard response"
+          }
+        }
+      }
+    },
+    "/api/repos/index.json": {
+      "get": {
+        "summary": "Tracked repository status",
+        "responses": {
+          "200": {
+            "description": "Tracked repos response"
+          }
+        }
+      }
+    },
+    "/api/contributors/{username}/profile.json": {
+      "get": {
+        "summary": "Cross-network contributor profile",
+        "parameters": [
+          {
+            "in": "path",
+            "name": "username",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Cross contributor profile"
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "Metadata": {
+        "type": "object",
+        "properties": {
+          "version": {
+            "type": "string"
+          },
+          "generatedAt": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "source": {
+            "type": "string"
+          }
+        }
+      }
+    }
+  },
+  "x-generatedAt": "2026-02-22T08:43:16.298Z"
+}

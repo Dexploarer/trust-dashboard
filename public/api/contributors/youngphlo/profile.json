@@ -1,0 +1,77 @@
+{
+  "version": "1.0",
+  "generatedAt": "2026-02-22T08:43:16.298Z",
+  "source": "milady-ai/trust-dashboard",
+  "username": "YoungPhlo",
+  "profile": {
+    "username": "YoungPhlo",
+    "canonicalUsername": "youngphlo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/90307961?u=2e7b36c41a4576a4720529da97a57280df102b28&v=4",
+    "milady": null,
+    "eliza": {
+      "lifetimeScore": 652.8739,
+      "lifetimeRank": 27,
+      "lifetimePercentile": 0.982337,
+      "weeklyRank": null,
+      "monthlyRank": null,
+      "characterClass": "Scribe",
+      "tier": "veteran",
+      "entry": {
+        "rank": 27,
+        "username": "YoungPhlo",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/90307961?u=2e7b36c41a4576a4720529da97a57280df102b28&v=4",
+        "characterClass": "Scribe",
+        "tier": "veteran",
+        "score": 652.8739242662639,
+        "prScore": 630.3739242662639,
+        "issueScore": 8.2,
+        "reviewScore": 13.5,
+        "commentScore": 0.8,
+        "focusAreas": [
+          {
+            "tag": "docs",
+            "score": 111,
+            "percentage": 78.05907172995781,
+            "rank": 31,
+            "totalInArea": 580
+          },
+          {
+            "tag": "docs-writer",
+            "score": 19.199999999999996,
+            "percentage": 13.502109704641349,
+            "rank": 1,
+            "totalInArea": 115
+          },
+          {
+            "tag": "typescript",
+            "score": 7.5,
+            "percentage": 5.274261603375527,
+            "rank": 417,
+            "totalInArea": 689
+          }
+        ],
+        "achievements": [
+          {
+            "type": "pr_master",
+            "tier": "beginner",
+            "earnedAt": "2025-10-27T23:09:14.449Z"
+          }
+        ],
+        "wallets": {}
+      }
+    },
+    "ecosystemFactor": 0.817458,
+    "elizaEffect": {
+      "miladyNorm": 0,
+      "elizaLifetimePercentile": 0.982337,
+      "ecosystemNorm": 0.817458,
+      "weights": {
+        "milady": 0.45,
+        "eliza": 0.35,
+        "ecosystem": 0.2
+      },
+      "effectNorm": 0.507309,
+      "effectScore": 50.7309
+    }
+  }
+}

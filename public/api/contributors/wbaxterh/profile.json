@@ -1,0 +1,30 @@
+{
+  "version": "1.0",
+  "generatedAt": "2026-02-22T08:43:16.298Z",
+  "source": "milady-ai/trust-dashboard",
+  "username": "wbaxterh",
+  "profile": {
+    "username": "wbaxterh",
+    "canonicalUsername": "wbaxterh",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/29613164?v=4",
+    "milady": {
+      "trustScore": 64.21,
+      "rank": 3,
+      "tier": "established"
+    },
+    "eliza": null,
+    "ecosystemFactor": 0,
+    "elizaEffect": {
+      "miladyNorm": 0.6421,
+      "elizaLifetimePercentile": 0,
+      "ecosystemNorm": 0,
+      "weights": {
+        "milady": 0.45,
+        "eliza": 0.35,
+        "ecosystem": 0.2
+      },
+      "effectNorm": 0.288945,
+      "effectScore": 28.8945
+    }
+  }
+}

@@ -36,7 +36,7 @@ export function ScoreSparkline({ history }: ScoreSparklineProps) {
 
   if (points.length === 0) {
     return (
-      <section className="rounded-xl border border-border bg-card p-4 md:p-5">
+      <section className="rounded-2xl border border-border bg-card p-4 md:p-5">
         <h3 className="text-lg font-semibold mb-2">Score Trend</h3>
         <p className="text-sm text-muted-foreground">No score history available yet.</p>
       </section>
@@ -52,7 +52,7 @@ export function ScoreSparkline({ history }: ScoreSparklineProps) {
   const currentTierYMin = CHART_HEIGHT - (nextTierMin / 100) * CHART_HEIGHT;
 
   return (
-    <section className="rounded-xl border border-border bg-card p-4 md:p-5">
+    <section className="rounded-2xl border border-border bg-card p-4 md:p-5">
       <div className="flex items-center justify-between mb-3">
         <h3 className="text-lg font-semibold">Score Trend</h3>
         <div className="text-xs text-muted-foreground font-mono">
