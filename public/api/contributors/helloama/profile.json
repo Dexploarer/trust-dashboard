@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-03-04T07:12:12.785Z",
+  "generatedAt": "2026-03-04T08:53:00.295Z",
   "source": "milady-ai/trust-dashboard",
   "username": "helloama",
   "profile": {
@@ -8,14 +8,14 @@
     "canonicalUsername": "helloama",
     "avatarUrl": "https://avatars.githubusercontent.com/u/91581825?v=4",
     "milady": {
-      "trustScore": 47.05,
+      "trustScore": 47.03,
       "rank": 7,
       "tier": "contributing"
     },
     "eliza": null,
     "ecosystemFactor": 0,
     "elizaEffect": {
-      "miladyNorm": 0.4705,
+      "miladyNorm": 0.4703,
       "elizaLifetimePercentile": 0,
       "ecosystemNorm": 0,
       "weights": {
@@ -23,8 +23,8 @@
         "eliza": 0.35,
         "ecosystem": 0.2
       },
-      "effectNorm": 0.211725,
-      "effectScore": 21.1725
+      "effectNorm": 0.211635,
+      "effectScore": 21.1635
     }
   }
 }
