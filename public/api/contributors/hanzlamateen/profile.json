@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-03-04T08:53:00.295Z",
+  "generatedAt": "2026-03-04T09:59:58.893Z",
   "source": "milady-ai/trust-dashboard",
   "username": "hanzlamateen",
   "profile": {
@@ -8,14 +8,14 @@
     "canonicalUsername": "hanzlamateen",
     "avatarUrl": "https://avatars.githubusercontent.com/u/10975502?v=4",
     "milady": {
-      "trustScore": 29.39,
+      "trustScore": 29.4,
       "rank": 34,
       "tier": "untested"
     },
     "eliza": null,
     "ecosystemFactor": 0,
     "elizaEffect": {
-      "miladyNorm": 0.2939,
+      "miladyNorm": 0.294,
       "elizaLifetimePercentile": 0,
       "ecosystemNorm": 0,
       "weights": {
@@ -23,8 +23,8 @@
         "eliza": 0.35,
         "ecosystem": 0.2
       },
-      "effectNorm": 0.132255,
-      "effectScore": 13.2255
+      "effectNorm": 0.1323,
+      "effectScore": 13.23
     }
   }
 }
