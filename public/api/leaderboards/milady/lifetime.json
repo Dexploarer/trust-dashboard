@@ -2,8 +2,8 @@
   "version": "1.0",
   "source": "milady-ai/milaidy",
   "period": "lifetime",
-  "generatedAt": "2026-03-03T23:29:09.121Z",
-  "totalUsers": 40,
+  "generatedAt": "2026-03-04T02:08:37.201Z",
+  "totalUsers": 41,
   "leaderboard": [
     {
       "rank": 1,
@@ -31,7 +31,7 @@
       "rank": 3,
       "username": "odilitime",
       "avatarUrl": "https://avatars.githubusercontent.com/u/16395496?v=4",
-      "trustScore": 80.17,
+      "trustScore": 80.15,
       "tier": "trusted",
       "lastEventAt": "2026-02-28T06:05:29.000Z",
       "approvals": 4,
@@ -42,7 +42,7 @@
       "rank": 4,
       "username": "wbaxterh",
       "avatarUrl": "https://avatars.githubusercontent.com/u/29613164?v=4",
-      "trustScore": 59.64,
+      "trustScore": 59.59,
       "tier": "contributing",
       "lastEventAt": "2026-02-16T16:26:18.000Z",
       "approvals": 10,
@@ -53,7 +53,7 @@
       "rank": 5,
       "username": "lawyered0",
       "avatarUrl": "https://avatars.githubusercontent.com/u/4802498?v=4",
-      "trustScore": 57.45,
+      "trustScore": 57.83,
       "tier": "contributing",
       "lastEventAt": "2026-02-26T01:38:16.000Z",
       "approvals": 106,
@@ -62,20 +62,9 @@
     },
     {
       "rank": 6,
-      "username": "Dexploarer",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/211557447?v=4",
-      "trustScore": 48.23,
-      "tier": "contributing",
-      "lastEventAt": "2026-03-03T18:34:12.000Z",
-      "approvals": 92,
-      "rejections": 18,
-      "comments": 135
-    },
-    {
-      "rank": 7,
       "username": "mavisakalyan",
       "avatarUrl": "https://avatars.githubusercontent.com/u/55106546?v=4",
-      "trustScore": 48.19,
+      "trustScore": 48.17,
       "tier": "contributing",
       "lastEventAt": "2026-02-12T00:05:47.000Z",
       "approvals": 2,
@@ -83,10 +72,10 @@
       "comments": 0
     },
     {
-      "rank": 8,
+      "rank": 7,
       "username": "helloama",
       "avatarUrl": "https://avatars.githubusercontent.com/u/91581825?v=4",
-      "trustScore": 47.12,
+      "trustScore": 47.09,
       "tier": "contributing",
       "lastEventAt": "2026-02-08T18:25:23.000Z",
       "approvals": 2,
@@ -94,10 +83,10 @@
       "comments": 0
     },
     {
-      "rank": 9,
+      "rank": 8,
       "username": "0xSero",
       "avatarUrl": "https://avatars.githubusercontent.com/u/69639595?v=4",
-      "trustScore": 45.47,
+      "trustScore": 45.44,
       "tier": "contributing",
       "lastEventAt": "2026-02-12T20:36:23.000Z",
       "approvals": 1,
@@ -105,10 +94,10 @@
       "comments": 0
     },
     {
-      "rank": 10,
+      "rank": 9,
       "username": "soluckyraffle",
       "avatarUrl": "https://avatars.githubusercontent.com/u/205349250?v=4",
-      "trustScore": 45.19,
+      "trustScore": 45.17,
       "tier": "contributing",
       "lastEventAt": "2026-03-03T14:29:23.000Z",
       "approvals": 1,
@@ -116,10 +105,21 @@
       "comments": 2
     },
     {
+      "rank": 10,
+      "username": "Dexploarer",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/211557447?v=4",
+      "trustScore": 45,
+      "tier": "contributing",
+      "lastEventAt": "2026-03-04T01:20:57.000Z",
+      "approvals": 92,
+      "rejections": 18,
+      "comments": 145
+    },
+    {
       "rank": 11,
       "username": "NubsCarson",
       "avatarUrl": "https://avatars.githubusercontent.com/u/192162056?v=4",
-      "trustScore": 43.38,
+      "trustScore": 43.36,
       "tier": "probationary",
       "lastEventAt": "2026-02-23T03:06:22.000Z",
       "approvals": 1,
@@ -130,7 +130,7 @@
       "rank": 12,
       "username": "SYMBaiEX",
       "avatarUrl": "https://avatars.githubusercontent.com/u/192078165?v=4",
-      "trustScore": 43.24,
+      "trustScore": 43.22,
       "tier": "probationary",
       "lastEventAt": "2026-02-22T01:09:55.000Z",
       "approvals": 1,
@@ -141,7 +141,7 @@
       "rank": 13,
       "username": "miladybsc",
       "avatarUrl": "https://avatars.githubusercontent.com/u/262491033?v=4",
-      "trustScore": 42.38,
+      "trustScore": 42.37,
       "tier": "probationary",
       "lastEventAt": "2026-03-01T05:27:26.000Z",
       "approvals": 1,
@@ -152,7 +152,7 @@
       "rank": 14,
       "username": "awidearray",
       "avatarUrl": "https://avatars.githubusercontent.com/u/58874935?v=4",
-      "trustScore": 41.53,
+      "trustScore": 41.52,
       "tier": "probationary",
       "lastEventAt": "2026-02-08T01:33:42.000Z",
       "approvals": 1,
@@ -282,6 +282,17 @@
     },
     {
       "rank": 26,
+      "username": "dutchiono",
+      "avatarUrl": "https://github.com/dutchiono.png",
+      "trustScore": 35,
+      "tier": "probationary",
+      "lastEventAt": null,
+      "approvals": 0,
+      "rejections": 0,
+      "comments": 1
+    },
+    {
+      "rank": 27,
       "username": "github-actions[bot]",
       "avatarUrl": "https://github.com/github-actions[bot].png",
       "trustScore": 35,
@@ -289,10 +300,10 @@
       "lastEventAt": null,
       "approvals": 0,
       "rejections": 0,
-      "comments": 1028
+      "comments": 1056
     },
     {
-      "rank": 27,
+      "rank": 28,
       "username": "KlementMultiverse",
       "avatarUrl": "https://github.com/KlementMultiverse.png",
       "trustScore": 35,
@@ -303,7 +314,7 @@
       "comments": 0
     },
     {
-      "rank": 28,
+      "rank": 29,
       "username": "lalalune",
       "avatarUrl": "https://avatars.githubusercontent.com/u/18633264?v=4",
       "trustScore": 35,
@@ -314,7 +325,7 @@
       "comments": 76
     },
     {
-      "rank": 29,
+      "rank": 30,
       "username": "Pavetl-o2",
       "avatarUrl": "https://github.com/Pavetl-o2.png",
       "trustScore": 35,
@@ -325,7 +336,7 @@
       "comments": 0
     },
     {
-      "rank": 30,
+      "rank": 31,
       "username": "thedunc101",
       "avatarUrl": "https://github.com/thedunc101.png",
       "trustScore": 35,
@@ -336,7 +347,7 @@
       "comments": 2
     },
     {
-      "rank": 31,
+      "rank": 32,
       "username": "vasox276",
       "avatarUrl": "https://github.com/vasox276.png",
       "trustScore": 35,
@@ -347,7 +358,7 @@
       "comments": 0
     },
     {
-      "rank": 32,
+      "rank": 33,
       "username": "wakesync",
       "avatarUrl": "https://github.com/wakesync.png",
       "trustScore": 35,
@@ -358,10 +369,10 @@
       "comments": 0
     },
     {
-      "rank": 33,
+      "rank": 34,
       "username": "hanzlamateen",
       "avatarUrl": "https://avatars.githubusercontent.com/u/10975502?v=4",
-      "trustScore": 29.36,
+      "trustScore": 29.37,
       "tier": "untested",
       "lastEventAt": "2026-02-09T07:37:44.000Z",
       "approvals": 0,
@@ -369,10 +380,10 @@
       "comments": 0
     },
     {
-      "rank": 34,
+      "rank": 35,
       "username": "Copilot",
       "avatarUrl": "https://avatars.githubusercontent.com/in/1143301?v=4",
-      "trustScore": 27.05,
+      "trustScore": 27.07,
       "tier": "untested",
       "lastEventAt": "2026-03-03T12:46:50.000Z",
       "approvals": 0,
@@ -380,10 +391,10 @@
       "comments": 0
     },
     {
-      "rank": 35,
+      "rank": 36,
       "username": "0xSolace",
       "avatarUrl": "https://avatars.githubusercontent.com/u/257989456?v=4",
-      "trustScore": 17.35,
+      "trustScore": 17.44,
       "tier": "untested",
       "lastEventAt": "2026-02-18T19:02:57.000Z",
       "approvals": 18,
@@ -391,10 +402,10 @@
       "comments": 25
     },
     {
-      "rank": 36,
+      "rank": 37,
       "username": "0xVera",
       "avatarUrl": "https://avatars.githubusercontent.com/u/261565474?v=4",
-      "trustScore": 15.48,
+      "trustScore": 15.52,
       "tier": "untested",
       "lastEventAt": "2026-02-18T12:39:58.000Z",
       "approvals": 0,
@@ -402,10 +413,10 @@
       "comments": 0
     },
     {
-      "rank": 37,
+      "rank": 38,
       "username": "OkeyGoogle1",
       "avatarUrl": "https://avatars.githubusercontent.com/u/237472336?v=4",
-      "trustScore": 13.44,
+      "trustScore": 13.47,
       "tier": "restricted",
       "lastEventAt": "2026-02-19T08:53:37.000Z",
       "approvals": 1,
@@ -413,7 +424,7 @@
       "comments": 0
     },
     {
-      "rank": 38,
+      "rank": 39,
       "username": "2-A-M",
       "avatarUrl": "https://avatars.githubusercontent.com/u/96268540?v=4",
       "trustScore": 0,
@@ -424,7 +435,7 @@
       "comments": 9
     },
     {
-      "rank": 39,
+      "rank": 40,
       "username": "hellopleasures",
       "avatarUrl": "https://avatars.githubusercontent.com/u/99759672?v=4",
       "trustScore": 0,
@@ -435,7 +446,7 @@
       "comments": 82
     },
     {
-      "rank": 40,
+      "rank": 41,
       "username": "sailorpepe",
       "avatarUrl": "https://avatars.githubusercontent.com/u/159828807?v=4",
       "trustScore": 0,

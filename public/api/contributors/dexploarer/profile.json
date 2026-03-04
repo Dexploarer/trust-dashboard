@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-03-03T23:29:09.121Z",
+  "generatedAt": "2026-03-04T02:08:37.201Z",
   "source": "milady-ai/trust-dashboard",
   "username": "Dexploarer",
   "profile": {
@@ -8,8 +8,8 @@
     "canonicalUsername": "dexploarer",
     "avatarUrl": "https://avatars.githubusercontent.com/u/211557447?v=4",
     "milady": {
-      "trustScore": 48.23,
-      "rank": 6,
+      "trustScore": 45,
+      "rank": 10,
       "tier": "contributing"
     },
     "eliza": {
@@ -69,7 +69,7 @@
     },
     "ecosystemFactor": 0.748454,
     "elizaEffect": {
-      "miladyNorm": 0.4823,
+      "miladyNorm": 0.45,
       "elizaLifetimePercentile": 0.970828,
       "ecosystemNorm": 0.748454,
       "weights": {
@@ -77,8 +77,8 @@
         "eliza": 0.35,
         "ecosystem": 0.2
       },
-      "effectNorm": 0.706516,
-      "effectScore": 70.6516
+      "effectNorm": 0.691981,
+      "effectScore": 69.1981
     }
   }
 }
