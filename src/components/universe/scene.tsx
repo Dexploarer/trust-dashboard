@@ -1,6 +1,6 @@
 "use client";
 
-import { useEffect, useRef, useState } from "react";
+import { useEffect, useRef, useState, useCallback } from "react";
 import { Canvas } from "@react-three/fiber";
 import { Stars, OrbitControls } from "@react-three/drei";
 import { EffectComposer, Bloom } from "@react-three/postprocessing";
@@ -8,14 +8,18 @@ import * as THREE from "three";
 import type { EcosystemGraphData, RepoGraphNode } from "@/lib/ecosystem-graph-types";
 import { Sun } from "./sun";
 import { Planet } from "./planet";
-import { InfoPanel } from "./info-panel";
+import { HudOverlay } from "./hud-overlay";
 
 interface Props {
   data: EcosystemGraphData;
 }
 
-export function UniverseScene({ data: { nodes } }: Props) {
+export function UniverseScene({ data }: Props) {
+  const { nodes } = data;
   const [selected, setSelected] = useState<RepoGraphNode | null>(null);
+  const [visibleLayers, setVisibleLayers] = useState<Set<number>>(
+    new Set([0, 1, 2, 3, 4, 5]),
+  );
   const controlsRef = useRef(null);
 
   // Dismiss on Escape
@@ -27,10 +31,24 @@ export function UniverseScene({ data: { nodes } }: Props) {
     return () => window.removeEventListener("keydown", handler);
   }, []);
 
+  const toggleLayer = useCallback((layer: number) => {
+    setVisibleLayers((prev) => {
+      const next = new Set(prev);
+      // Keep at least one layer visible
+      if (next.has(layer) && next.size > 1) {
+        next.delete(layer);
+      } else {
+        next.add(layer);
+      }
+      return next;
+    });
+  }, []);
+
   const sun = nodes.find((n) => n.layer === 0)!;
   const planets = nodes.filter((n) => n.layer > 0);
 
-  // Pre-group by layer so each planet knows its index within its layer
+  // Pre-group by layer for stable orbital index assignment (do NOT filter here —
+  // each planet needs its true layerIndex so orbits don't jump when layers are toggled)
   const byLayer = new Map<number, RepoGraphNode[]>();
   for (const n of planets) {
     if (!byLayer.has(n.layer)) byLayer.set(n.layer, []);
@@ -53,9 +71,7 @@ export function UniverseScene({ data: { nodes } }: Props) {
         <color attach="background" args={["#000008"]} />
 
         {/* ── Lighting ── */}
-        {/* Very dim ambient so far-side of planets isn't pitch-black */}
         <ambientLight intensity={0.04} />
-        {/* Main sun-point-light */}
         <pointLight
           position={[0, 0, 0]}
           intensity={9}
@@ -75,11 +91,14 @@ export function UniverseScene({ data: { nodes } }: Props) {
           speed={0.4}
         />
 
-        {/* ── Sun ── */}
-        <Sun node={sun} onClick={() => setSelected(sun)} />
+        {/* ── Sun (layer 0) ── */}
+        {visibleLayers.has(0) && (
+          <Sun node={sun} onClick={() => setSelected(sun)} />
+        )}
 
         {/* ── Planets ── */}
         {planets.map((node) => {
+          if (!visibleLayers.has(node.layer)) return null;
           const layerNodes = byLayer.get(node.layer) ?? [];
           const layerIndex = layerNodes.indexOf(node);
           return (
@@ -108,7 +127,7 @@ export function UniverseScene({ data: { nodes } }: Props) {
           zoomSpeed={0.9}
         />
 
-        {/* ── Post-processing: bloom for glowing sun + emissive planets ── */}
+        {/* ── Post-processing ── */}
         <EffectComposer>
           <Bloom
             luminanceThreshold={0.12}
@@ -119,37 +138,14 @@ export function UniverseScene({ data: { nodes } }: Props) {
         </EffectComposer>
       </Canvas>
 
-      {/* ── Selected planet info panel ── */}
-      {selected && (
-        <InfoPanel node={selected} onClose={() => setSelected(null)} />
-      )}
-
-      {/* ── HUD controls hint ── */}
-      <div className="absolute bottom-5 right-5 text-right pointer-events-none select-none">
-        <p className="text-[10px] font-mono text-white/25 leading-relaxed">
-          Left-drag · orbit &nbsp;|&nbsp; Right-drag · pan &nbsp;|&nbsp; Scroll · zoom
-          <br />
-          Click a planet · inspect &nbsp;|&nbsp; ESC · close
-        </p>
-      </div>
-
-      {/* ── Title ── */}
-      <div className="absolute top-4 left-1/2 -translate-x-1/2 pointer-events-none select-none text-center">
-        <h1 className="text-[11px] font-mono tracking-[0.25em] uppercase text-white/30">
-          elizaOS · Universe
-        </h1>
-        <p className="text-[9px] font-mono text-white/15 mt-0.5">
-          {nodes.length} repositories · 3D
-        </p>
-      </div>
-
-      {/* ── Back link ── */}
-      <a
-        href="/trust-dashboard/ecosystem"
-        className="absolute top-4 left-5 flex items-center gap-1.5 text-[10px] font-mono text-white/25 hover:text-white/60 transition-colors"
-      >
-        ← ecosystem
-      </a>
+      {/* ── Gaming HUD overlay ── */}
+      <HudOverlay
+        data={data}
+        selected={selected}
+        onClose={() => setSelected(null)}
+        visibleLayers={visibleLayers}
+        onLayerToggle={toggleLayer}
+      />
     </>
   );
 }
