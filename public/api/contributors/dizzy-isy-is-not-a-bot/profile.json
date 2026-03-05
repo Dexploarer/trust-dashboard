@@ -2,20 +2,20 @@
   "version": "1.0",
   "generatedAt": "2026-03-05T04:23:32.956Z",
   "source": "milady-ai/trust-dashboard",
-  "username": "2-A-M",
+  "username": "Dizzy-isy-is-not-a-bot",
   "profile": {
-    "username": "2-A-M",
-    "canonicalUsername": "2-a-m",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/96268540?v=4",
+    "username": "Dizzy-isy-is-not-a-bot",
+    "canonicalUsername": "dizzy-isy-is-not-a-bot",
+    "avatarUrl": "https://github.com/Dizzy-isy-is-not-a-bot.png",
     "milady": {
-      "trustScore": 0,
-      "rank": 42,
-      "tier": "restricted"
+      "trustScore": 35,
+      "rank": 27,
+      "tier": "probationary"
     },
     "eliza": null,
     "ecosystemFactor": 0,
     "elizaEffect": {
-      "miladyNorm": 0,
+      "miladyNorm": 0.35,
       "elizaLifetimePercentile": 0,
       "ecosystemNorm": 0,
       "weights": {
@@ -23,8 +23,8 @@
         "eliza": 0.35,
         "ecosystem": 0.2
       },
-      "effectNorm": 0,
-      "effectScore": 0
+      "effectNorm": 0.1575,
+      "effectScore": 15.75
     }
   }
 }
