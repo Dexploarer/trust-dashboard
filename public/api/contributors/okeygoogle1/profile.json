@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-03-06T07:39:13.232Z",
+  "generatedAt": "2026-03-06T08:40:12.388Z",
   "source": "milady-ai/trust-dashboard",
   "username": "OkeyGoogle1",
   "profile": {
@@ -8,14 +8,14 @@
     "canonicalUsername": "okeygoogle1",
     "avatarUrl": "https://avatars.githubusercontent.com/u/237472336?v=4",
     "milady": {
-      "trustScore": 14.2,
+      "trustScore": 14.21,
       "rank": 40,
       "tier": "restricted"
     },
     "eliza": null,
     "ecosystemFactor": 0,
     "elizaEffect": {
-      "miladyNorm": 0.142,
+      "miladyNorm": 0.1421,
       "elizaLifetimePercentile": 0,
       "ecosystemNorm": 0,
       "weights": {
@@ -23,8 +23,8 @@
         "eliza": 0.35,
         "ecosystem": 0.2
       },
-      "effectNorm": 0.0639,
-      "effectScore": 6.39
+      "effectNorm": 0.063945,
+      "effectScore": 6.3945
     }
   }
 }

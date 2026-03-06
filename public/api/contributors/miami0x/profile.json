@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-03-06T07:39:13.232Z",
+  "generatedAt": "2026-03-06T08:40:12.388Z",
   "source": "milady-ai/trust-dashboard",
   "username": "miami0x",
   "profile": {
@@ -8,14 +8,14 @@
     "canonicalUsername": "miami0x",
     "avatarUrl": "https://avatars.githubusercontent.com/u/129148893?v=4",
     "milady": {
-      "trustScore": 35.95,
+      "trustScore": 35.94,
       "rank": 16,
       "tier": "probationary"
     },
     "eliza": null,
     "ecosystemFactor": 0,
     "elizaEffect": {
-      "miladyNorm": 0.3595,
+      "miladyNorm": 0.3594,
       "elizaLifetimePercentile": 0,
       "ecosystemNorm": 0,
       "weights": {
@@ -23,8 +23,8 @@
         "eliza": 0.35,
         "ecosystem": 0.2
       },
-      "effectNorm": 0.161775,
-      "effectScore": 16.1775
+      "effectNorm": 0.16173,
+      "effectScore": 16.173
     }
   }
 }
