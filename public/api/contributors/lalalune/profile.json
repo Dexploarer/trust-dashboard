@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-03-06T09:40:39.059Z",
+  "generatedAt": "2026-03-06T11:30:26.551Z",
   "source": "milady-ai/trust-dashboard",
   "username": "lalalune",
   "profile": {
@@ -8,7 +8,7 @@
     "canonicalUsername": "lalalune",
     "avatarUrl": "https://avatars.githubusercontent.com/u/18633264?v=4",
     "milady": {
-      "trustScore": 70.3,
+      "trustScore": 70.29,
       "rank": 2,
       "tier": "established"
     },
@@ -89,7 +89,7 @@
     },
     "ecosystemFactor": 0.753905,
     "elizaEffect": {
-      "miladyNorm": 0.703,
+      "miladyNorm": 0.7029,
       "elizaLifetimePercentile": 0.996608,
       "ecosystemNorm": 0.753905,
       "weights": {
@@ -97,8 +97,8 @@
         "eliza": 0.35,
         "ecosystem": 0.2
       },
-      "effectNorm": 0.815944,
-      "effectScore": 81.5944
+      "effectNorm": 0.815899,
+      "effectScore": 81.5899
     }
   }
 }
