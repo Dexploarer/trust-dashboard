@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-03-07T22:25:19.372Z",
+  "generatedAt": "2026-03-07T23:45:58.854Z",
   "source": "milady-ai/trust-dashboard",
   "username": "dutchiono",
   "profile": {
@@ -8,14 +8,14 @@
     "canonicalUsername": "dutchiono",
     "avatarUrl": "https://avatars.githubusercontent.com/u/86275975?v=4",
     "milady": {
-      "trustScore": 26.33,
-      "rank": 36,
+      "trustScore": 18.34,
+      "rank": 37,
       "tier": "untested"
     },
     "eliza": null,
     "ecosystemFactor": 0,
     "elizaEffect": {
-      "miladyNorm": 0.2633,
+      "miladyNorm": 0.1834,
       "elizaLifetimePercentile": 0,
       "ecosystemNorm": 0,
       "weights": {
@@ -23,8 +23,8 @@
         "eliza": 0.35,
         "ecosystem": 0.2
       },
-      "effectNorm": 0.118485,
-      "effectScore": 11.8485
+      "effectNorm": 0.08253,
+      "effectScore": 8.253
     }
   }
 }
