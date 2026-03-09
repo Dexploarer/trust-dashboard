@@ -2,20 +2,20 @@
   "version": "1.0",
   "generatedAt": "2026-03-09T08:02:55.720Z",
   "source": "milady-ai/trust-dashboard",
-  "username": "sailorpepe",
+  "username": "chatgpt-codex-connector[bot]",
   "profile": {
-    "username": "sailorpepe",
-    "canonicalUsername": "sailorpepe",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/159828807?v=4",
+    "username": "chatgpt-codex-connector[bot]",
+    "canonicalUsername": "chatgpt-codex-connector[bot]",
+    "avatarUrl": "https://github.com/chatgpt-codex-connector[bot].png",
     "milady": {
-      "trustScore": 0,
-      "rank": 45,
-      "tier": "restricted"
+      "trustScore": 35,
+      "rank": 20,
+      "tier": "probationary"
     },
     "eliza": null,
     "ecosystemFactor": 0,
     "elizaEffect": {
-      "miladyNorm": 0,
+      "miladyNorm": 0.35,
       "elizaLifetimePercentile": 0,
       "ecosystemNorm": 0,
       "weights": {
@@ -23,8 +23,8 @@
         "eliza": 0.35,
         "ecosystem": 0.2
       },
-      "effectNorm": 0,
-      "effectScore": 0
+      "effectNorm": 0.1575,
+      "effectScore": 15.75
     }
   }
 }
