@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-03-11T14:27:15.714Z",
+  "generatedAt": "2026-03-11T16:11:30.720Z",
   "source": "milady-ai/trust-dashboard",
   "weights": {
     "milady": 0.45,
@@ -141,7 +141,7 @@
     "version": "1.0",
     "source": "https://elizaos.github.io",
     "generatedAt": "2026-02-22T23:22:46.825Z",
-    "fetchedAt": "2026-03-11T14:27:15.714Z",
+    "fetchedAt": "2026-03-11T16:11:30.720Z",
     "index": {
       "version": "1.0",
       "baseUrl": "https://elizaOS.github.io",
@@ -5916,7 +5916,7 @@
         "repoId": "milady-ai_milaidy",
         "interval": "week",
         "sourceUrl": "https://elizaos.github.io/api/summaries/repos/milady-ai_milaidy/week/latest.json",
-        "fetchedAt": "2026-03-11T14:27:15.714Z",
+        "fetchedAt": "2026-03-11T16:11:30.720Z",
         "status": "missing",
         "response": null,
         "error": "Summary not published for milady-ai/milaidy"
@@ -5925,7 +5925,7 @@
         "repoId": "elizaos_eliza",
         "interval": "week",
         "sourceUrl": "https://elizaos.github.io/api/summaries/repos/elizaos_eliza/week/latest.json",
-        "fetchedAt": "2026-03-11T14:27:15.714Z",
+        "fetchedAt": "2026-03-11T16:11:30.720Z",
         "status": "ok",
         "response": {
           "version": "1.0",
@@ -5947,7 +5947,7 @@
         "repoId": "elizaos-plugins_registry",
         "interval": "week",
         "sourceUrl": "https://elizaos.github.io/api/summaries/repos/elizaos-plugins_registry/week/latest.json",
-        "fetchedAt": "2026-03-11T14:27:15.714Z",
+        "fetchedAt": "2026-03-11T16:11:30.720Z",
         "status": "ok",
         "response": {
           "version": "1.0",
@@ -5969,7 +5969,7 @@
         "repoId": "elizaos_elizaos.github.io",
         "interval": "week",
         "sourceUrl": "https://elizaos.github.io/api/summaries/repos/elizaos_elizaos.github.io/week/latest.json",
-        "fetchedAt": "2026-03-11T14:27:15.714Z",
+        "fetchedAt": "2026-03-11T16:11:30.720Z",
         "status": "ok",
         "response": {
           "version": "1.0",
@@ -5991,7 +5991,7 @@
         "repoId": "elizaos_characterfile",
         "interval": "week",
         "sourceUrl": "https://elizaos.github.io/api/summaries/repos/elizaos_characterfile/week/latest.json",
-        "fetchedAt": "2026-03-11T14:27:15.714Z",
+        "fetchedAt": "2026-03-11T16:11:30.720Z",
         "status": "missing",
         "response": null,
         "error": "Summary not published for elizaOS/characterfile"
@@ -6000,7 +6000,7 @@
         "repoId": "elizaos_eliza-starter",
         "interval": "week",
         "sourceUrl": "https://elizaos.github.io/api/summaries/repos/elizaos_eliza-starter/week/latest.json",
-        "fetchedAt": "2026-03-11T14:27:15.714Z",
+        "fetchedAt": "2026-03-11T16:11:30.720Z",
         "status": "missing",
         "response": null,
         "error": "Summary not published for elizaOS/eliza-starter"
@@ -6009,7 +6009,7 @@
         "repoId": "elizaos_knowledge",
         "interval": "week",
         "sourceUrl": "https://elizaos.github.io/api/summaries/repos/elizaos_knowledge/week/latest.json",
-        "fetchedAt": "2026-03-11T14:27:15.714Z",
+        "fetchedAt": "2026-03-11T16:11:30.720Z",
         "status": "missing",
         "response": null,
         "error": "Summary not published for elizaOS/knowledge"
@@ -6018,7 +6018,7 @@
         "repoId": "elizaos_spartan",
         "interval": "week",
         "sourceUrl": "https://elizaos.github.io/api/summaries/repos/elizaos_spartan/week/latest.json",
-        "fetchedAt": "2026-03-11T14:27:15.714Z",
+        "fetchedAt": "2026-03-11T16:11:30.720Z",
         "status": "ok",
         "response": {
           "version": "1.0",
@@ -6040,7 +6040,7 @@
         "repoId": "elizaos_the-org",
         "interval": "week",
         "sourceUrl": "https://elizaos.github.io/api/summaries/repos/elizaos_the-org/week/latest.json",
-        "fetchedAt": "2026-03-11T14:27:15.714Z",
+        "fetchedAt": "2026-03-11T16:11:30.720Z",
         "status": "missing",
         "response": null,
         "error": "Summary not published for elizaOS/the-org"
@@ -6049,7 +6049,7 @@
         "repoId": "elizaos_agentbrowser",
         "interval": "week",
         "sourceUrl": "https://elizaos.github.io/api/summaries/repos/elizaos_agentbrowser/week/latest.json",
-        "fetchedAt": "2026-03-11T14:27:15.714Z",
+        "fetchedAt": "2026-03-11T16:11:30.720Z",
         "status": "missing",
         "response": null,
         "error": "Summary not published for elizaOS/agentbrowser"
@@ -6058,7 +6058,7 @@
         "repoId": "elizaos_mcp-gateway",
         "interval": "week",
         "sourceUrl": "https://elizaos.github.io/api/summaries/repos/elizaos_mcp-gateway/week/latest.json",
-        "fetchedAt": "2026-03-11T14:27:15.714Z",
+        "fetchedAt": "2026-03-11T16:11:30.720Z",
         "status": "missing",
         "response": null,
         "error": "Summary not published for elizaOS/mcp-gateway"
@@ -6067,7 +6067,7 @@
         "repoId": "elizaos_discord-summarizer",
         "interval": "week",
         "sourceUrl": "https://elizaos.github.io/api/summaries/repos/elizaos_discord-summarizer/week/latest.json",
-        "fetchedAt": "2026-03-11T14:27:15.714Z",
+        "fetchedAt": "2026-03-11T16:11:30.720Z",
         "status": "missing",
         "response": null,
         "error": "Summary not published for elizaOS/discord-summarizer"
@@ -6091,7 +6091,7 @@
     "version": "1.0",
     "source": "milady-ai/milaidy",
     "period": "lifetime",
-    "generatedAt": "2026-03-11T14:27:15.714Z",
+    "generatedAt": "2026-03-11T16:11:30.720Z",
     "totalUsers": 48,
     "leaderboard": [
       {
@@ -6131,7 +6131,7 @@
         "rank": 4,
         "username": "HaruHunab1320",
         "avatarUrl": "https://avatars.githubusercontent.com/u/51176775?v=4",
-        "trustScore": 98.96,
+        "trustScore": 98.92,
         "tier": "legendary",
         "lastEventAt": "2026-03-10T04:45:30.000Z",
         "approvals": 30,
@@ -6142,7 +6142,7 @@
         "rank": 5,
         "username": "NewSoulOnTheBlock",
         "avatarUrl": "https://avatars.githubusercontent.com/u/253271617?v=4",
-        "trustScore": 96.07,
+        "trustScore": 96.04,
         "tier": "legendary",
         "lastEventAt": "2026-03-11T08:50:31.000Z",
         "approvals": 8,
@@ -6153,7 +6153,7 @@
         "rank": 6,
         "username": "lawyered0",
         "avatarUrl": "https://avatars.githubusercontent.com/u/4802498?v=4",
-        "trustScore": 79.75,
+        "trustScore": 79.91,
         "tier": "trusted",
         "lastEventAt": "2026-02-26T01:38:16.000Z",
         "approvals": 106,
@@ -6164,7 +6164,7 @@
         "rank": 7,
         "username": "wbaxterh",
         "avatarUrl": "https://avatars.githubusercontent.com/u/29613164?v=4",
-        "trustScore": 56.26,
+        "trustScore": 56.23,
         "tier": "contributing",
         "lastEventAt": "2026-02-16T16:26:18.000Z",
         "approvals": 10,
@@ -6175,7 +6175,7 @@
         "rank": 8,
         "username": "mavisakalyan",
         "avatarUrl": "https://avatars.githubusercontent.com/u/55106546?v=4",
-        "trustScore": 46.49,
+        "trustScore": 46.47,
         "tier": "contributing",
         "lastEventAt": "2026-02-12T00:05:47.000Z",
         "approvals": 2,
@@ -6186,7 +6186,7 @@
         "rank": 9,
         "username": "helloama",
         "avatarUrl": "https://avatars.githubusercontent.com/u/91581825?v=4",
-        "trustScore": 45.57,
+        "trustScore": 45.56,
         "tier": "contributing",
         "lastEventAt": "2026-02-08T18:25:23.000Z",
         "approvals": 2,
@@ -6197,7 +6197,7 @@
         "rank": 10,
         "username": "0xSero",
         "avatarUrl": "https://avatars.githubusercontent.com/u/69639595?v=4",
-        "trustScore": 44.16,
+        "trustScore": 44.15,
         "tier": "probationary",
         "lastEventAt": "2026-02-12T20:36:23.000Z",
         "approvals": 1,
@@ -6208,7 +6208,7 @@
         "rank": 11,
         "username": "blacksmith-sh[bot]",
         "avatarUrl": "https://avatars.githubusercontent.com/in/807020?v=4",
-        "trustScore": 43.69,
+        "trustScore": 43.68,
         "tier": "probationary",
         "lastEventAt": "2026-03-05T02:33:22.000Z",
         "approvals": 1,
@@ -6219,7 +6219,7 @@
         "rank": 12,
         "username": "NubsCarson",
         "avatarUrl": "https://avatars.githubusercontent.com/u/192162056?v=4",
-        "trustScore": 42.37,
+        "trustScore": 42.36,
         "tier": "probationary",
         "lastEventAt": "2026-02-23T03:06:22.000Z",
         "approvals": 1,
@@ -6230,7 +6230,7 @@
         "rank": 13,
         "username": "SYMBaiEX",
         "avatarUrl": "https://avatars.githubusercontent.com/u/192078165?v=4",
-        "trustScore": 42.24,
+        "trustScore": 42.23,
         "tier": "probationary",
         "lastEventAt": "2026-02-22T01:09:55.000Z",
         "approvals": 1,
@@ -6241,7 +6241,7 @@
         "rank": 14,
         "username": "awidearray",
         "avatarUrl": "https://avatars.githubusercontent.com/u/58874935?v=4",
-        "trustScore": 40.81,
+        "trustScore": 40.8,
         "tier": "probationary",
         "lastEventAt": "2026-02-08T01:33:42.000Z",
         "approvals": 1,
@@ -6433,7 +6433,7 @@
         "lastEventAt": null,
         "approvals": 0,
         "rejections": 0,
-        "comments": 1551
+        "comments": 1557
       },
       {
         "rank": 32,
@@ -6516,7 +6516,7 @@
         "rank": 39,
         "username": "hanzlamateen",
         "avatarUrl": "https://avatars.githubusercontent.com/u/10975502?v=4",
-        "trustScore": 29.98,
+        "trustScore": 29.99,
         "tier": "untested",
         "lastEventAt": "2026-02-09T07:37:44.000Z",
         "approvals": 0,
@@ -6527,7 +6527,7 @@
         "rank": 40,
         "username": "hellno",
         "avatarUrl": "https://avatars.githubusercontent.com/u/686075?v=4",
-        "trustScore": 27.51,
+        "trustScore": 27.52,
         "tier": "untested",
         "lastEventAt": "2026-03-08T22:35:56.000Z",
         "approvals": 0,
@@ -6536,20 +6536,9 @@
       },
       {
         "rank": 41,
-        "username": "miladybsc",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/262491033?v=4",
-        "trustScore": 26.06,
-        "tier": "untested",
-        "lastEventAt": "2026-03-09T20:33:54.000Z",
-        "approvals": 2,
-        "rejections": 1,
-        "comments": 0
-      },
-      {
-        "rank": 42,
         "username": "0xSolace",
         "avatarUrl": "https://avatars.githubusercontent.com/u/257989456?v=4",
-        "trustScore": 21.3,
+        "trustScore": 21.32,
         "tier": "untested",
         "lastEventAt": "2026-02-18T19:02:57.000Z",
         "approvals": 18,
@@ -6557,10 +6546,21 @@
         "comments": 25
       },
       {
+        "rank": 42,
+        "username": "miladybsc",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/262491033?v=4",
+        "trustScore": 18.08,
+        "tier": "untested",
+        "lastEventAt": "2026-03-11T14:53:51.000Z",
+        "approvals": 2,
+        "rejections": 1,
+        "comments": 0
+      },
+      {
         "rank": 43,
         "username": "0xVera",
         "avatarUrl": "https://avatars.githubusercontent.com/u/261565474?v=4",
-        "trustScore": 17.65,
+        "trustScore": 17.67,
         "tier": "untested",
         "lastEventAt": "2026-02-18T12:39:58.000Z",
         "approvals": 0,
@@ -6571,7 +6571,7 @@
         "rank": 44,
         "username": "OkeyGoogle1",
         "avatarUrl": "https://avatars.githubusercontent.com/u/237472336?v=4",
-        "trustScore": 15.83,
+        "trustScore": 15.85,
         "tier": "untested",
         "lastEventAt": "2026-02-19T08:53:37.000Z",
         "approvals": 1,
@@ -6582,7 +6582,7 @@
         "rank": 45,
         "username": "dutchiono",
         "avatarUrl": "https://avatars.githubusercontent.com/u/86275975?v=4",
-        "trustScore": 5.06,
+        "trustScore": 5.09,
         "tier": "restricted",
         "lastEventAt": "2026-03-08T04:46:38.000Z",
         "approvals": 1,
@@ -12358,7 +12358,7 @@
     "version": "1.0",
     "source": "milady+eliza",
     "period": "lifetime",
-    "generatedAt": "2026-03-11T14:27:15.714Z",
+    "generatedAt": "2026-03-11T16:11:30.720Z",
     "totalUsers": 141,
     "leaderboard": [
       {
@@ -12409,13 +12409,13 @@
         "rank": 3,
         "username": "0xSero",
         "avatarUrl": "https://avatars.githubusercontent.com/u/69639595?v=4",
-        "miladyScore": 44.16,
+        "miladyScore": 44.15,
         "elizaLifetimeScore": 349.9878,
         "elizaLifetimeRank": 48,
         "ecosystemFactor": 0.742829,
-        "elizaEffectScore": 68.6126,
+        "elizaEffectScore": 68.6081,
         "breakdown": {
-          "miladyNorm": 0.4416,
+          "miladyNorm": 0.4415,
           "elizaLifetimePercentile": 0.968114,
           "ecosystemNorm": 0.742829,
           "weights": {
@@ -12423,21 +12423,21 @@
             "eliza": 0.35,
             "ecosystem": 0.2
           },
-          "effectNorm": 0.686126,
-          "effectScore": 68.6126
+          "effectNorm": 0.686081,
+          "effectScore": 68.6081
         }
       },
       {
         "rank": 4,
         "username": "SYMBaiEX",
         "avatarUrl": "https://avatars.githubusercontent.com/u/192078165?v=4",
-        "miladyScore": 42.24,
+        "miladyScore": 42.23,
         "elizaLifetimeScore": 347.1546,
         "elizaLifetimeRank": 49,
         "ecosystemFactor": 0.740951,
-        "elizaEffectScore": 67.6873,
+        "elizaEffectScore": 67.6828,
         "breakdown": {
-          "miladyNorm": 0.4224,
+          "miladyNorm": 0.4223,
           "elizaLifetimePercentile": 0.967436,
           "ecosystemNorm": 0.740951,
           "weights": {
@@ -12445,21 +12445,21 @@
             "eliza": 0.35,
             "ecosystem": 0.2
           },
-          "effectNorm": 0.676873,
-          "effectScore": 67.6873
+          "effectNorm": 0.676828,
+          "effectScore": 67.6828
         }
       },
       {
         "rank": 5,
         "username": "awidearray",
         "avatarUrl": "https://avatars.githubusercontent.com/u/58874935?v=4",
-        "miladyScore": 40.81,
+        "miladyScore": 40.8,
         "elizaLifetimeScore": 169.3761,
         "elizaLifetimeRank": 98,
         "ecosystemFactor": 0.721585,
-        "elizaEffectScore": 65.4929,
+        "elizaEffectScore": 65.4884,
         "breakdown": {
-          "miladyNorm": 0.4081,
+          "miladyNorm": 0.408,
           "elizaLifetimePercentile": 0.934193,
           "ecosystemNorm": 0.721585,
           "weights": {
@@ -12467,8 +12467,8 @@
             "eliza": 0.35,
             "ecosystem": 0.2
           },
-          "effectNorm": 0.654929,
-          "effectScore": 65.4929
+          "effectNorm": 0.654884,
+          "effectScore": 65.4884
         }
       },
       {
@@ -14587,13 +14587,13 @@
         "rank": 102,
         "username": "HaruHunab1320",
         "avatarUrl": "https://avatars.githubusercontent.com/u/51176775?v=4",
-        "miladyScore": 98.96,
+        "miladyScore": 98.92,
         "elizaLifetimeScore": null,
         "elizaLifetimeRank": null,
         "ecosystemFactor": 0,
-        "elizaEffectScore": 44.532,
+        "elizaEffectScore": 44.514,
         "breakdown": {
-          "miladyNorm": 0.9896,
+          "miladyNorm": 0.9892,
           "elizaLifetimePercentile": 0,
           "ecosystemNorm": 0,
           "weights": {
@@ -14601,21 +14601,21 @@
             "eliza": 0.35,
             "ecosystem": 0.2
           },
-          "effectNorm": 0.44532,
-          "effectScore": 44.532
+          "effectNorm": 0.44514,
+          "effectScore": 44.514
         }
       },
       {
         "rank": 103,
         "username": "NewSoulOnTheBlock",
         "avatarUrl": "https://avatars.githubusercontent.com/u/253271617?v=4",
-        "miladyScore": 96.07,
+        "miladyScore": 96.04,
         "elizaLifetimeScore": null,
         "elizaLifetimeRank": null,
         "ecosystemFactor": 0,
-        "elizaEffectScore": 43.2315,
+        "elizaEffectScore": 43.218,
         "breakdown": {
-          "miladyNorm": 0.9607,
+          "miladyNorm": 0.9604,
           "elizaLifetimePercentile": 0,
           "ecosystemNorm": 0,
           "weights": {
@@ -14623,21 +14623,21 @@
             "eliza": 0.35,
             "ecosystem": 0.2
           },
-          "effectNorm": 0.432315,
-          "effectScore": 43.2315
+          "effectNorm": 0.43218,
+          "effectScore": 43.218
         }
       },
       {
         "rank": 104,
         "username": "lawyered0",
         "avatarUrl": "https://avatars.githubusercontent.com/u/4802498?v=4",
-        "miladyScore": 79.75,
+        "miladyScore": 79.91,
         "elizaLifetimeScore": null,
         "elizaLifetimeRank": null,
         "ecosystemFactor": 0,
-        "elizaEffectScore": 35.8875,
+        "elizaEffectScore": 35.9595,
         "breakdown": {
-          "miladyNorm": 0.7975,
+          "miladyNorm": 0.7991,
           "elizaLifetimePercentile": 0,
           "ecosystemNorm": 0,
           "weights": {
@@ -14645,21 +14645,21 @@
             "eliza": 0.35,
             "ecosystem": 0.2
           },
-          "effectNorm": 0.358875,
-          "effectScore": 35.8875
+          "effectNorm": 0.359595,
+          "effectScore": 35.9595
         }
       },
       {
         "rank": 105,
         "username": "wbaxterh",
         "avatarUrl": "https://avatars.githubusercontent.com/u/29613164?v=4",
-        "miladyScore": 56.26,
+        "miladyScore": 56.23,
         "elizaLifetimeScore": null,
         "elizaLifetimeRank": null,
         "ecosystemFactor": 0,
-        "elizaEffectScore": 25.317,
+        "elizaEffectScore": 25.3035,
         "breakdown": {
-          "miladyNorm": 0.5626,
+          "miladyNorm": 0.5623,
           "elizaLifetimePercentile": 0,
           "ecosystemNorm": 0,
           "weights": {
@@ -14667,21 +14667,21 @@
             "eliza": 0.35,
             "ecosystem": 0.2
           },
-          "effectNorm": 0.25317,
-          "effectScore": 25.317
+          "effectNorm": 0.253035,
+          "effectScore": 25.3035
         }
       },
       {
         "rank": 106,
         "username": "mavisakalyan",
         "avatarUrl": "https://avatars.githubusercontent.com/u/55106546?v=4",
-        "miladyScore": 46.49,
+        "miladyScore": 46.47,
         "elizaLifetimeScore": null,
         "elizaLifetimeRank": null,
         "ecosystemFactor": 0,
-        "elizaEffectScore": 20.9205,
+        "elizaEffectScore": 20.9115,
         "breakdown": {
-          "miladyNorm": 0.4649,
+          "miladyNorm": 0.4647,
           "elizaLifetimePercentile": 0,
           "ecosystemNorm": 0,
           "weights": {
@@ -14689,21 +14689,21 @@
             "eliza": 0.35,
             "ecosystem": 0.2
           },
-          "effectNorm": 0.209205,
-          "effectScore": 20.9205
+          "effectNorm": 0.209115,
+          "effectScore": 20.9115
         }
       },
       {
         "rank": 107,
         "username": "helloama",
         "avatarUrl": "https://avatars.githubusercontent.com/u/91581825?v=4",
-        "miladyScore": 45.57,
+        "miladyScore": 45.56,
         "elizaLifetimeScore": null,
         "elizaLifetimeRank": null,
         "ecosystemFactor": 0,
-        "elizaEffectScore": 20.5065,
+        "elizaEffectScore": 20.502,
         "breakdown": {
-          "miladyNorm": 0.4557,
+          "miladyNorm": 0.4556,
           "elizaLifetimePercentile": 0,
           "ecosystemNorm": 0,
           "weights": {
@@ -14711,21 +14711,21 @@
             "eliza": 0.35,
             "ecosystem": 0.2
           },
-          "effectNorm": 0.205065,
-          "effectScore": 20.5065
+          "effectNorm": 0.20502,
+          "effectScore": 20.502
         }
       },
       {
         "rank": 108,
         "username": "blacksmith-sh[bot]",
         "avatarUrl": "https://avatars.githubusercontent.com/in/807020?v=4",
-        "miladyScore": 43.69,
+        "miladyScore": 43.68,
         "elizaLifetimeScore": null,
         "elizaLifetimeRank": null,
         "ecosystemFactor": 0,
-        "elizaEffectScore": 19.6605,
+        "elizaEffectScore": 19.656,
         "breakdown": {
-          "miladyNorm": 0.4369,
+          "miladyNorm": 0.4368,
           "elizaLifetimePercentile": 0,
           "ecosystemNorm": 0,
           "weights": {
@@ -14733,21 +14733,21 @@
             "eliza": 0.35,
             "ecosystem": 0.2
           },
-          "effectNorm": 0.196605,
-          "effectScore": 19.6605
+          "effectNorm": 0.19656,
+          "effectScore": 19.656
         }
       },
       {
         "rank": 109,
         "username": "NubsCarson",
         "avatarUrl": "https://avatars.githubusercontent.com/u/192162056?v=4",
-        "miladyScore": 42.37,
+        "miladyScore": 42.36,
         "elizaLifetimeScore": null,
         "elizaLifetimeRank": null,
         "ecosystemFactor": 0,
-        "elizaEffectScore": 19.0665,
+        "elizaEffectScore": 19.062,
         "breakdown": {
-          "miladyNorm": 0.4237,
+          "miladyNorm": 0.4236,
           "elizaLifetimePercentile": 0,
           "ecosystemNorm": 0,
           "weights": {
@@ -14755,8 +14755,8 @@
             "eliza": 0.35,
             "ecosystem": 0.2
           },
-          "effectNorm": 0.190665,
-          "effectScore": 19.0665
+          "effectNorm": 0.19062,
+          "effectScore": 19.062
         }
       },
       {
@@ -15269,13 +15269,13 @@
         "rank": 133,
         "username": "hanzlamateen",
         "avatarUrl": "https://avatars.githubusercontent.com/u/10975502?v=4",
-        "miladyScore": 29.98,
+        "miladyScore": 29.99,
         "elizaLifetimeScore": null,
         "elizaLifetimeRank": null,
         "ecosystemFactor": 0,
-        "elizaEffectScore": 13.491,
+        "elizaEffectScore": 13.4955,
         "breakdown": {
-          "miladyNorm": 0.2998,
+          "miladyNorm": 0.2999,
           "elizaLifetimePercentile": 0,
           "ecosystemNorm": 0,
           "weights": {
@@ -15283,21 +15283,21 @@
             "eliza": 0.35,
             "ecosystem": 0.2
           },
-          "effectNorm": 0.13491,
-          "effectScore": 13.491
+          "effectNorm": 0.134955,
+          "effectScore": 13.4955
         }
       },
       {
         "rank": 134,
         "username": "hellno",
         "avatarUrl": "https://avatars.githubusercontent.com/u/686075?v=4",
-        "miladyScore": 27.51,
+        "miladyScore": 27.52,
         "elizaLifetimeScore": null,
         "elizaLifetimeRank": null,
         "ecosystemFactor": 0,
-        "elizaEffectScore": 12.3795,
+        "elizaEffectScore": 12.384,
         "breakdown": {
-          "miladyNorm": 0.2751,
+          "miladyNorm": 0.2752,
           "elizaLifetimePercentile": 0,
           "ecosystemNorm": 0,
           "weights": {
@@ -15305,21 +15305,21 @@
             "eliza": 0.35,
             "ecosystem": 0.2
           },
-          "effectNorm": 0.123795,
-          "effectScore": 12.3795
+          "effectNorm": 0.12384,
+          "effectScore": 12.384
         }
       },
       {
         "rank": 135,
-        "username": "miladybsc",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/262491033?v=4",
-        "miladyScore": 26.06,
+        "username": "0xSolace",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/257989456?v=4",
+        "miladyScore": 21.32,
         "elizaLifetimeScore": null,
         "elizaLifetimeRank": null,
         "ecosystemFactor": 0,
-        "elizaEffectScore": 11.727,
+        "elizaEffectScore": 9.594,
         "breakdown": {
-          "miladyNorm": 0.2606,
+          "miladyNorm": 0.2132,
           "elizaLifetimePercentile": 0,
           "ecosystemNorm": 0,
           "weights": {
@@ -15327,21 +15327,21 @@
             "eliza": 0.35,
             "ecosystem": 0.2
           },
-          "effectNorm": 0.11727,
-          "effectScore": 11.727
+          "effectNorm": 0.09594,
+          "effectScore": 9.594
         }
       },
       {
         "rank": 136,
-        "username": "0xSolace",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/257989456?v=4",
-        "miladyScore": 21.3,
+        "username": "miladybsc",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/262491033?v=4",
+        "miladyScore": 18.08,
         "elizaLifetimeScore": null,
         "elizaLifetimeRank": null,
         "ecosystemFactor": 0,
-        "elizaEffectScore": 9.585,
+        "elizaEffectScore": 8.136,
         "breakdown": {
-          "miladyNorm": 0.213,
+          "miladyNorm": 0.1808,
           "elizaLifetimePercentile": 0,
           "ecosystemNorm": 0,
           "weights": {
@@ -15349,21 +15349,21 @@
             "eliza": 0.35,
             "ecosystem": 0.2
           },
-          "effectNorm": 0.09585,
-          "effectScore": 9.585
+          "effectNorm": 0.08136,
+          "effectScore": 8.136
         }
       },
       {
         "rank": 137,
         "username": "0xVera",
         "avatarUrl": "https://avatars.githubusercontent.com/u/261565474?v=4",
-        "miladyScore": 17.65,
+        "miladyScore": 17.67,
         "elizaLifetimeScore": null,
         "elizaLifetimeRank": null,
         "ecosystemFactor": 0,
-        "elizaEffectScore": 7.9425,
+        "elizaEffectScore": 7.9515,
         "breakdown": {
-          "miladyNorm": 0.1765,
+          "miladyNorm": 0.1767,
           "elizaLifetimePercentile": 0,
           "ecosystemNorm": 0,
           "weights": {
@@ -15371,21 +15371,21 @@
             "eliza": 0.35,
             "ecosystem": 0.2
           },
-          "effectNorm": 0.079425,
-          "effectScore": 7.9425
+          "effectNorm": 0.079515,
+          "effectScore": 7.9515
         }
       },
       {
         "rank": 138,
         "username": "OkeyGoogle1",
         "avatarUrl": "https://avatars.githubusercontent.com/u/237472336?v=4",
-        "miladyScore": 15.83,
+        "miladyScore": 15.85,
         "elizaLifetimeScore": null,
         "elizaLifetimeRank": null,
         "ecosystemFactor": 0,
-        "elizaEffectScore": 7.1235,
+        "elizaEffectScore": 7.1325,
         "breakdown": {
-          "miladyNorm": 0.1583,
+          "miladyNorm": 0.1585,
           "elizaLifetimePercentile": 0,
           "ecosystemNorm": 0,
           "weights": {
@@ -15393,21 +15393,21 @@
             "eliza": 0.35,
             "ecosystem": 0.2
           },
-          "effectNorm": 0.071235,
-          "effectScore": 7.1235
+          "effectNorm": 0.071325,
+          "effectScore": 7.1325
         }
       },
       {
         "rank": 139,
         "username": "dutchiono",
         "avatarUrl": "https://avatars.githubusercontent.com/u/86275975?v=4",
-        "miladyScore": 5.06,
+        "miladyScore": 5.09,
         "elizaLifetimeScore": null,
         "elizaLifetimeRank": null,
         "ecosystemFactor": 0,
-        "elizaEffectScore": 2.277,
+        "elizaEffectScore": 2.2905,
         "breakdown": {
-          "miladyNorm": 0.0506,
+          "miladyNorm": 0.0509,
           "elizaLifetimePercentile": 0,
           "ecosystemNorm": 0,
           "weights": {
@@ -15415,8 +15415,8 @@
             "eliza": 0.35,
             "ecosystem": 0.2
           },
-          "effectNorm": 0.02277,
-          "effectScore": 2.277
+          "effectNorm": 0.022905,
+          "effectScore": 2.2905
         }
       },
       {
@@ -15765,7 +15765,7 @@
       "canonicalUsername": "0xsero",
       "avatarUrl": "https://avatars.githubusercontent.com/u/69639595?v=4",
       "milady": {
-        "trustScore": 44.16,
+        "trustScore": 44.15,
         "rank": 10,
         "tier": "probationary"
       },
@@ -15816,7 +15816,7 @@
       },
       "ecosystemFactor": 0.742829,
       "elizaEffect": {
-        "miladyNorm": 0.4416,
+        "miladyNorm": 0.4415,
         "elizaLifetimePercentile": 0.968114,
         "ecosystemNorm": 0.742829,
         "weights": {
@@ -15824,8 +15824,8 @@
           "eliza": 0.35,
           "ecosystem": 0.2
         },
-        "effectNorm": 0.686126,
-        "effectScore": 68.6126
+        "effectNorm": 0.686081,
+        "effectScore": 68.6081
       }
     },
     {
@@ -15833,14 +15833,14 @@
       "canonicalUsername": "0xsolace",
       "avatarUrl": "https://avatars.githubusercontent.com/u/257989456?v=4",
       "milady": {
-        "trustScore": 21.3,
-        "rank": 42,
+        "trustScore": 21.32,
+        "rank": 41,
         "tier": "untested"
       },
       "eliza": null,
       "ecosystemFactor": 0,
       "elizaEffect": {
-        "miladyNorm": 0.213,
+        "miladyNorm": 0.2132,
         "elizaLifetimePercentile": 0,
         "ecosystemNorm": 0,
         "weights": {
@@ -15848,8 +15848,8 @@
           "eliza": 0.35,
           "ecosystem": 0.2
         },
-        "effectNorm": 0.09585,
-        "effectScore": 9.585
+        "effectNorm": 0.09594,
+        "effectScore": 9.594
       }
     },
     {
@@ -15857,14 +15857,14 @@
       "canonicalUsername": "0xvera",
       "avatarUrl": "https://avatars.githubusercontent.com/u/261565474?v=4",
       "milady": {
-        "trustScore": 17.65,
+        "trustScore": 17.67,
         "rank": 43,
         "tier": "untested"
       },
       "eliza": null,
       "ecosystemFactor": 0,
       "elizaEffect": {
-        "miladyNorm": 0.1765,
+        "miladyNorm": 0.1767,
         "elizaLifetimePercentile": 0,
         "ecosystemNorm": 0,
         "weights": {
@@ -15872,8 +15872,8 @@
           "eliza": 0.35,
           "ecosystem": 0.2
         },
-        "effectNorm": 0.079425,
-        "effectScore": 7.9425
+        "effectNorm": 0.079515,
+        "effectScore": 7.9515
       }
     },
     {
@@ -16541,7 +16541,7 @@
       "canonicalUsername": "awidearray",
       "avatarUrl": "https://avatars.githubusercontent.com/u/58874935?v=4",
       "milady": {
-        "trustScore": 40.81,
+        "trustScore": 40.8,
         "rank": 14,
         "tier": "probationary"
       },
@@ -16592,7 +16592,7 @@
       },
       "ecosystemFactor": 0.721585,
       "elizaEffect": {
-        "miladyNorm": 0.4081,
+        "miladyNorm": 0.408,
         "elizaLifetimePercentile": 0.934193,
         "ecosystemNorm": 0.721585,
         "weights": {
@@ -16600,8 +16600,8 @@
           "eliza": 0.35,
           "ecosystem": 0.2
         },
-        "effectNorm": 0.654929,
-        "effectScore": 65.4929
+        "effectNorm": 0.654884,
+        "effectScore": 65.4884
       }
     },
     {
@@ -16754,14 +16754,14 @@
       "canonicalUsername": "blacksmith-sh[bot]",
       "avatarUrl": "https://avatars.githubusercontent.com/in/807020?v=4",
       "milady": {
-        "trustScore": 43.69,
+        "trustScore": 43.68,
         "rank": 11,
         "tier": "probationary"
       },
       "eliza": null,
       "ecosystemFactor": 0,
       "elizaEffect": {
-        "miladyNorm": 0.4369,
+        "miladyNorm": 0.4368,
         "elizaLifetimePercentile": 0,
         "ecosystemNorm": 0,
         "weights": {
@@ -16769,8 +16769,8 @@
           "eliza": 0.35,
           "ecosystem": 0.2
         },
-        "effectNorm": 0.196605,
-        "effectScore": 19.6605
+        "effectNorm": 0.19656,
+        "effectScore": 19.656
       }
     },
     {
@@ -17798,14 +17798,14 @@
       "canonicalUsername": "dutchiono",
       "avatarUrl": "https://avatars.githubusercontent.com/u/86275975?v=4",
       "milady": {
-        "trustScore": 5.06,
+        "trustScore": 5.09,
         "rank": 45,
         "tier": "restricted"
       },
       "eliza": null,
       "ecosystemFactor": 0,
       "elizaEffect": {
-        "miladyNorm": 0.0506,
+        "miladyNorm": 0.0509,
         "elizaLifetimePercentile": 0,
         "ecosystemNorm": 0,
         "weights": {
@@ -17813,8 +17813,8 @@
           "eliza": 0.35,
           "ecosystem": 0.2
         },
-        "effectNorm": 0.02277,
-        "effectScore": 2.277
+        "effectNorm": 0.022905,
+        "effectScore": 2.2905
       }
     },
     {
@@ -18222,14 +18222,14 @@
       "canonicalUsername": "hanzlamateen",
       "avatarUrl": "https://avatars.githubusercontent.com/u/10975502?v=4",
       "milady": {
-        "trustScore": 29.98,
+        "trustScore": 29.99,
         "rank": 39,
         "tier": "untested"
       },
       "eliza": null,
       "ecosystemFactor": 0,
       "elizaEffect": {
-        "miladyNorm": 0.2998,
+        "miladyNorm": 0.2999,
         "elizaLifetimePercentile": 0,
         "ecosystemNorm": 0,
         "weights": {
@@ -18237,8 +18237,8 @@
           "eliza": 0.35,
           "ecosystem": 0.2
         },
-        "effectNorm": 0.13491,
-        "effectScore": 13.491
+        "effectNorm": 0.134955,
+        "effectScore": 13.4955
       }
     },
     {
@@ -18462,14 +18462,14 @@
       "canonicalUsername": "haruhunab1320",
       "avatarUrl": "https://avatars.githubusercontent.com/u/51176775?v=4",
       "milady": {
-        "trustScore": 98.96,
+        "trustScore": 98.92,
         "rank": 4,
         "tier": "legendary"
       },
       "eliza": null,
       "ecosystemFactor": 0,
       "elizaEffect": {
-        "miladyNorm": 0.9896,
+        "miladyNorm": 0.9892,
         "elizaLifetimePercentile": 0,
         "ecosystemNorm": 0,
         "weights": {
@@ -18477,8 +18477,8 @@
           "eliza": 0.35,
           "ecosystem": 0.2
         },
-        "effectNorm": 0.44532,
-        "effectScore": 44.532
+        "effectNorm": 0.44514,
+        "effectScore": 44.514
       }
     },
     {
@@ -18575,14 +18575,14 @@
       "canonicalUsername": "hellno",
       "avatarUrl": "https://avatars.githubusercontent.com/u/686075?v=4",
       "milady": {
-        "trustScore": 27.51,
+        "trustScore": 27.52,
         "rank": 40,
         "tier": "untested"
       },
       "eliza": null,
       "ecosystemFactor": 0,
       "elizaEffect": {
-        "miladyNorm": 0.2751,
+        "miladyNorm": 0.2752,
         "elizaLifetimePercentile": 0,
         "ecosystemNorm": 0,
         "weights": {
@@ -18590,8 +18590,8 @@
           "eliza": 0.35,
           "ecosystem": 0.2
         },
-        "effectNorm": 0.123795,
-        "effectScore": 12.3795
+        "effectNorm": 0.12384,
+        "effectScore": 12.384
       }
     },
     {
@@ -18599,14 +18599,14 @@
       "canonicalUsername": "helloama",
       "avatarUrl": "https://avatars.githubusercontent.com/u/91581825?v=4",
       "milady": {
-        "trustScore": 45.57,
+        "trustScore": 45.56,
         "rank": 9,
         "tier": "contributing"
       },
       "eliza": null,
       "ecosystemFactor": 0,
       "elizaEffect": {
-        "miladyNorm": 0.4557,
+        "miladyNorm": 0.4556,
         "elizaLifetimePercentile": 0,
         "ecosystemNorm": 0,
         "weights": {
@@ -18614,8 +18614,8 @@
           "eliza": 0.35,
           "ecosystem": 0.2
         },
-        "effectNorm": 0.205065,
-        "effectScore": 20.5065
+        "effectNorm": 0.20502,
+        "effectScore": 20.502
       }
     },
     {
@@ -19563,14 +19563,14 @@
       "canonicalUsername": "lawyered0",
       "avatarUrl": "https://avatars.githubusercontent.com/u/4802498?v=4",
       "milady": {
-        "trustScore": 79.75,
+        "trustScore": 79.91,
         "rank": 6,
         "tier": "trusted"
       },
       "eliza": null,
       "ecosystemFactor": 0,
       "elizaEffect": {
-        "miladyNorm": 0.7975,
+        "miladyNorm": 0.7991,
         "elizaLifetimePercentile": 0,
         "ecosystemNorm": 0,
         "weights": {
@@ -19578,8 +19578,8 @@
           "eliza": 0.35,
           "ecosystem": 0.2
         },
-        "effectNorm": 0.358875,
-        "effectScore": 35.8875
+        "effectNorm": 0.359595,
+        "effectScore": 35.9595
       }
     },
     {
@@ -19966,14 +19966,14 @@
       "canonicalUsername": "mavisakalyan",
       "avatarUrl": "https://avatars.githubusercontent.com/u/55106546?v=4",
       "milady": {
-        "trustScore": 46.49,
+        "trustScore": 46.47,
         "rank": 8,
         "tier": "contributing"
       },
       "eliza": null,
       "ecosystemFactor": 0,
       "elizaEffect": {
-        "miladyNorm": 0.4649,
+        "miladyNorm": 0.4647,
         "elizaLifetimePercentile": 0,
         "ecosystemNorm": 0,
         "weights": {
@@ -19981,8 +19981,8 @@
           "eliza": 0.35,
           "ecosystem": 0.2
         },
-        "effectNorm": 0.209205,
-        "effectScore": 20.9205
+        "effectNorm": 0.209115,
+        "effectScore": 20.9115
       }
     },
     {
@@ -20231,14 +20231,14 @@
       "canonicalUsername": "miladybsc",
       "avatarUrl": "https://avatars.githubusercontent.com/u/262491033?v=4",
       "milady": {
-        "trustScore": 26.06,
-        "rank": 41,
+        "trustScore": 18.08,
+        "rank": 42,
         "tier": "untested"
       },
       "eliza": null,
       "ecosystemFactor": 0,
       "elizaEffect": {
-        "miladyNorm": 0.2606,
+        "miladyNorm": 0.1808,
         "elizaLifetimePercentile": 0,
         "ecosystemNorm": 0,
         "weights": {
@@ -20246,8 +20246,8 @@
           "eliza": 0.35,
           "ecosystem": 0.2
         },
-        "effectNorm": 0.11727,
-        "effectScore": 11.727
+        "effectNorm": 0.08136,
+        "effectScore": 8.136
       }
     },
     {
@@ -20474,14 +20474,14 @@
       "canonicalUsername": "newsoulontheblock",
       "avatarUrl": "https://avatars.githubusercontent.com/u/253271617?v=4",
       "milady": {
-        "trustScore": 96.07,
+        "trustScore": 96.04,
         "rank": 5,
         "tier": "legendary"
       },
       "eliza": null,
       "ecosystemFactor": 0,
       "elizaEffect": {
-        "miladyNorm": 0.9607,
+        "miladyNorm": 0.9604,
         "elizaLifetimePercentile": 0,
         "ecosystemNorm": 0,
         "weights": {
@@ -20489,8 +20489,8 @@
           "eliza": 0.35,
           "ecosystem": 0.2
         },
-        "effectNorm": 0.432315,
-        "effectScore": 43.2315
+        "effectNorm": 0.43218,
+        "effectScore": 43.218
       }
     },
     {
@@ -20640,14 +20640,14 @@
       "canonicalUsername": "nubscarson",
       "avatarUrl": "https://avatars.githubusercontent.com/u/192162056?v=4",
       "milady": {
-        "trustScore": 42.37,
+        "trustScore": 42.36,
         "rank": 12,
         "tier": "probationary"
       },
       "eliza": null,
       "ecosystemFactor": 0,
       "elizaEffect": {
-        "miladyNorm": 0.4237,
+        "miladyNorm": 0.4236,
         "elizaLifetimePercentile": 0,
         "ecosystemNorm": 0,
         "weights": {
@@ -20655,8 +20655,8 @@
           "eliza": 0.35,
           "ecosystem": 0.2
         },
-        "effectNorm": 0.190665,
-        "effectScore": 19.0665
+        "effectNorm": 0.19062,
+        "effectScore": 19.062
       }
     },
     {
@@ -20838,14 +20838,14 @@
       "canonicalUsername": "okeygoogle1",
       "avatarUrl": "https://avatars.githubusercontent.com/u/237472336?v=4",
       "milady": {
-        "trustScore": 15.83,
+        "trustScore": 15.85,
         "rank": 44,
         "tier": "untested"
       },
       "eliza": null,
       "ecosystemFactor": 0,
       "elizaEffect": {
-        "miladyNorm": 0.1583,
+        "miladyNorm": 0.1585,
         "elizaLifetimePercentile": 0,
         "ecosystemNorm": 0,
         "weights": {
@@ -20853,8 +20853,8 @@
           "eliza": 0.35,
           "ecosystem": 0.2
         },
-        "effectNorm": 0.071235,
-        "effectScore": 7.1235
+        "effectNorm": 0.071325,
+        "effectScore": 7.1325
       }
     },
     {
@@ -22217,7 +22217,7 @@
       "canonicalUsername": "symbaiex",
       "avatarUrl": "https://avatars.githubusercontent.com/u/192078165?v=4",
       "milady": {
-        "trustScore": 42.24,
+        "trustScore": 42.23,
         "rank": 13,
         "tier": "probationary"
       },
@@ -22283,7 +22283,7 @@
       },
       "ecosystemFactor": 0.740951,
       "elizaEffect": {
-        "miladyNorm": 0.4224,
+        "miladyNorm": 0.4223,
         "elizaLifetimePercentile": 0.967436,
         "ecosystemNorm": 0.740951,
         "weights": {
@@ -22291,8 +22291,8 @@
           "eliza": 0.35,
           "ecosystem": 0.2
         },
-        "effectNorm": 0.676873,
-        "effectScore": 67.6873
+        "effectNorm": 0.676828,
+        "effectScore": 67.6828
       }
     },
     {
@@ -22973,14 +22973,14 @@
       "canonicalUsername": "wbaxterh",
       "avatarUrl": "https://avatars.githubusercontent.com/u/29613164?v=4",
       "milady": {
-        "trustScore": 56.26,
+        "trustScore": 56.23,
         "rank": 7,
         "tier": "contributing"
       },
       "eliza": null,
       "ecosystemFactor": 0,
       "elizaEffect": {
-        "miladyNorm": 0.5626,
+        "miladyNorm": 0.5623,
         "elizaLifetimePercentile": 0,
         "ecosystemNorm": 0,
         "weights": {
@@ -22988,8 +22988,8 @@
           "eliza": 0.35,
           "ecosystem": 0.2
         },
-        "effectNorm": 0.25317,
-        "effectScore": 25.317
+        "effectNorm": 0.253035,
+        "effectScore": 25.3035
       }
     },
     {

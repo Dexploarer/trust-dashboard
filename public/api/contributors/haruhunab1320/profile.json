@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-03-11T14:27:15.714Z",
+  "generatedAt": "2026-03-11T16:11:30.720Z",
   "source": "milady-ai/trust-dashboard",
   "username": "HaruHunab1320",
   "profile": {
@@ -8,14 +8,14 @@
     "canonicalUsername": "haruhunab1320",
     "avatarUrl": "https://avatars.githubusercontent.com/u/51176775?v=4",
     "milady": {
-      "trustScore": 98.96,
+      "trustScore": 98.92,
       "rank": 4,
       "tier": "legendary"
     },
     "eliza": null,
     "ecosystemFactor": 0,
     "elizaEffect": {
-      "miladyNorm": 0.9896,
+      "miladyNorm": 0.9892,
       "elizaLifetimePercentile": 0,
       "ecosystemNorm": 0,
       "weights": {
@@ -23,8 +23,8 @@
         "eliza": 0.35,
         "ecosystem": 0.2
       },
-      "effectNorm": 0.44532,
-      "effectScore": 44.532
+      "effectNorm": 0.44514,
+      "effectScore": 44.514
     }
   }
 }
