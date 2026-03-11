@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-03-11T09:44:23.427Z",
+  "generatedAt": "2026-03-11T11:34:14.651Z",
   "source": "milady-ai/trust-dashboard",
   "username": "lawyered0",
   "profile": {
@@ -8,14 +8,14 @@
     "canonicalUsername": "lawyered0",
     "avatarUrl": "https://avatars.githubusercontent.com/u/4802498?v=4",
     "milady": {
-      "trustScore": 79.3,
+      "trustScore": 79.47,
       "rank": 6,
       "tier": "trusted"
     },
     "eliza": null,
     "ecosystemFactor": 0,
     "elizaEffect": {
-      "miladyNorm": 0.793,
+      "miladyNorm": 0.7947,
       "elizaLifetimePercentile": 0,
       "ecosystemNorm": 0,
       "weights": {
@@ -23,8 +23,8 @@
         "eliza": 0.35,
         "ecosystem": 0.2
       },
-      "effectNorm": 0.35685,
-      "effectScore": 35.685
+      "effectNorm": 0.357615,
+      "effectScore": 35.7615
     }
   }
 }
