@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-03-12T22:28:18.500Z",
+  "generatedAt": "2026-03-12T23:31:19.558Z",
   "source": "milady-ai/trust-dashboard",
   "username": "blacksmith-sh[bot]",
   "profile": {
@@ -8,14 +8,14 @@
     "canonicalUsername": "blacksmith-sh[bot]",
     "avatarUrl": "https://avatars.githubusercontent.com/in/807020?v=4",
     "milady": {
-      "trustScore": 43.51,
+      "trustScore": 43.5,
       "rank": 11,
       "tier": "probationary"
     },
     "eliza": null,
     "ecosystemFactor": 0,
     "elizaEffect": {
-      "miladyNorm": 0.4351,
+      "miladyNorm": 0.435,
       "elizaLifetimePercentile": 0,
       "ecosystemNorm": 0,
       "weights": {
@@ -23,8 +23,8 @@
         "eliza": 0.35,
         "ecosystem": 0.2
       },
-      "effectNorm": 0.195795,
-      "effectScore": 19.5795
+      "effectNorm": 0.19575,
+      "effectScore": 19.575
     }
   }
 }
