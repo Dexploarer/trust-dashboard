@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-03-13T04:23:59.493Z",
+  "generatedAt": "2026-03-13T05:33:13.216Z",
   "source": "milady-ai/trust-dashboard",
   "username": "Copilot",
   "profile": {
@@ -8,14 +8,14 @@
     "canonicalUsername": "copilot",
     "avatarUrl": "https://avatars.githubusercontent.com/in/1143301?v=4",
     "milady": {
-      "trustScore": 40.17,
+      "trustScore": 40.16,
       "rank": 15,
       "tier": "probationary"
     },
     "eliza": null,
     "ecosystemFactor": 0,
     "elizaEffect": {
-      "miladyNorm": 0.4017,
+      "miladyNorm": 0.4016,
       "elizaLifetimePercentile": 0,
       "ecosystemNorm": 0,
       "weights": {
@@ -23,8 +23,8 @@
         "eliza": 0.35,
         "ecosystem": 0.2
       },
-      "effectNorm": 0.180765,
-      "effectScore": 18.0765
+      "effectNorm": 0.18072,
+      "effectScore": 18.072
     }
   }
 }
