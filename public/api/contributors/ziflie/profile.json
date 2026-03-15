@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-03-15T07:46:22.802Z",
+  "generatedAt": "2026-03-15T09:37:04.017Z",
   "source": "milady-ai/trust-dashboard",
   "username": "Ziflie",
   "profile": {
@@ -8,14 +8,14 @@
     "canonicalUsername": "ziflie",
     "avatarUrl": "https://avatars.githubusercontent.com/u/99035922?v=4",
     "milady": {
-      "trustScore": 45.27,
+      "trustScore": 45.25,
       "rank": 9,
       "tier": "contributing"
     },
     "eliza": null,
     "ecosystemFactor": 0,
     "elizaEffect": {
-      "miladyNorm": 0.4527,
+      "miladyNorm": 0.4525,
       "elizaLifetimePercentile": 0,
       "ecosystemNorm": 0,
       "weights": {
@@ -23,8 +23,8 @@
         "eliza": 0.35,
         "ecosystem": 0.2
       },
-      "effectNorm": 0.203715,
-      "effectScore": 20.3715
+      "effectNorm": 0.203625,
+      "effectScore": 20.3625
     }
   }
 }
