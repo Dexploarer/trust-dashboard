@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-03-18T13:16:24.353Z",
+  "generatedAt": "2026-03-18T14:47:43.567Z",
   "source": "milady-ai/trust-dashboard",
   "username": "0xSero",
   "profile": {
@@ -8,7 +8,7 @@
     "canonicalUsername": "0xsero",
     "avatarUrl": "https://avatars.githubusercontent.com/u/69639595?v=4",
     "milady": {
-      "trustScore": 43.15,
+      "trustScore": 43.14,
       "rank": 11,
       "tier": "probationary"
     },
@@ -59,7 +59,7 @@
     },
     "ecosystemFactor": 0.742829,
     "elizaEffect": {
-      "miladyNorm": 0.4315,
+      "miladyNorm": 0.4314,
       "elizaLifetimePercentile": 0.968114,
       "ecosystemNorm": 0.742829,
       "weights": {
@@ -67,8 +67,8 @@
         "eliza": 0.35,
         "ecosystem": 0.2
       },
-      "effectNorm": 0.681581,
-      "effectScore": 68.1581
+      "effectNorm": 0.681536,
+      "effectScore": 68.1536
     }
   }
 }
