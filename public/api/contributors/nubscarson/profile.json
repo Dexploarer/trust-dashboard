@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-03-18T02:26:20.535Z",
+  "generatedAt": "2026-03-18T04:35:26.049Z",
   "source": "milady-ai/trust-dashboard",
   "username": "NubsCarson",
   "profile": {
@@ -8,14 +8,14 @@
     "canonicalUsername": "nubscarson",
     "avatarUrl": "https://avatars.githubusercontent.com/u/192162056?v=4",
     "milady": {
-      "trustScore": 41.63,
+      "trustScore": 41.62,
       "rank": 14,
       "tier": "probationary"
     },
     "eliza": null,
     "ecosystemFactor": 0,
     "elizaEffect": {
-      "miladyNorm": 0.4163,
+      "miladyNorm": 0.4162,
       "elizaLifetimePercentile": 0,
       "ecosystemNorm": 0,
       "weights": {
@@ -23,8 +23,8 @@
         "eliza": 0.35,
         "ecosystem": 0.2
       },
-      "effectNorm": 0.187335,
-      "effectScore": 18.7335
+      "effectNorm": 0.18729,
+      "effectScore": 18.729
     }
   }
 }
