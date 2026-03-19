@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-03-19T21:02:49.026Z",
+  "generatedAt": "2026-03-19T22:30:49.851Z",
   "source": "milady-ai/trust-dashboard",
   "username": "starlash7",
   "profile": {
@@ -8,14 +8,14 @@
     "canonicalUsername": "starlash7",
     "avatarUrl": "https://avatars.githubusercontent.com/u/160819802?v=4",
     "milady": {
-      "trustScore": 41.43,
+      "trustScore": 41.42,
       "rank": 15,
       "tier": "probationary"
     },
     "eliza": null,
     "ecosystemFactor": 0,
     "elizaEffect": {
-      "miladyNorm": 0.4143,
+      "miladyNorm": 0.4142,
       "elizaLifetimePercentile": 0,
       "ecosystemNorm": 0,
       "weights": {
@@ -23,8 +23,8 @@
         "eliza": 0.35,
         "ecosystem": 0.2
       },
-      "effectNorm": 0.186435,
-      "effectScore": 18.6435
+      "effectNorm": 0.18639,
+      "effectScore": 18.639
     }
   }
 }
