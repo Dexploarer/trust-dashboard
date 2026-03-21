@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-03-21T05:27:26.629Z",
+  "generatedAt": "2026-03-21T07:08:56.724Z",
   "source": "milady-ai/trust-dashboard",
   "username": "mavisakalyan",
   "profile": {
@@ -8,14 +8,14 @@
     "canonicalUsername": "mavisakalyan",
     "avatarUrl": "https://avatars.githubusercontent.com/u/55106546?v=4",
     "milady": {
-      "trustScore": 44.7,
+      "trustScore": 44.69,
       "rank": 10,
       "tier": "probationary"
     },
     "eliza": null,
     "ecosystemFactor": 0,
     "elizaEffect": {
-      "miladyNorm": 0.447,
+      "miladyNorm": 0.4469,
       "elizaLifetimePercentile": 0,
       "ecosystemNorm": 0,
       "weights": {
@@ -23,8 +23,8 @@
         "eliza": 0.35,
         "ecosystem": 0.2
       },
-      "effectNorm": 0.20115,
-      "effectScore": 20.115
+      "effectNorm": 0.201105,
+      "effectScore": 20.1105
     }
   }
 }
