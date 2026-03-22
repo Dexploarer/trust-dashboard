@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-03-22T17:52:04.255Z",
+  "generatedAt": "2026-03-22T19:27:05.944Z",
   "source": "milady-ai/trust-dashboard",
   "username": "hellno",
   "profile": {
@@ -8,14 +8,14 @@
     "canonicalUsername": "hellno",
     "avatarUrl": "https://avatars.githubusercontent.com/u/686075?v=4",
     "milady": {
-      "trustScore": 28.69,
+      "trustScore": 28.7,
       "rank": 42,
       "tier": "untested"
     },
     "eliza": null,
     "ecosystemFactor": 0,
     "elizaEffect": {
-      "miladyNorm": 0.2869,
+      "miladyNorm": 0.287,
       "elizaLifetimePercentile": 0,
       "ecosystemNorm": 0,
       "weights": {
@@ -23,8 +23,8 @@
         "eliza": 0.35,
         "ecosystem": 0.2
       },
-      "effectNorm": 0.129105,
-      "effectScore": 12.9105
+      "effectNorm": 0.12915,
+      "effectScore": 12.915
     }
   }
 }
