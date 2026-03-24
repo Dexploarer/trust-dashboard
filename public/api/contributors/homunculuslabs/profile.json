@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-03-23T22:39:23.515Z",
+  "generatedAt": "2026-03-24T02:12:31.523Z",
   "source": "milady-ai/trust-dashboard",
   "username": "HomunculusLabs",
   "profile": {
@@ -8,14 +8,14 @@
     "canonicalUsername": "homunculuslabs",
     "avatarUrl": "https://avatars.githubusercontent.com/u/104694001?v=4",
     "milady": {
-      "trustScore": 93.07,
+      "trustScore": 92.9,
       "rank": 5,
       "tier": "legendary"
     },
     "eliza": null,
     "ecosystemFactor": 0,
     "elizaEffect": {
-      "miladyNorm": 0.9307,
+      "miladyNorm": 0.929,
       "elizaLifetimePercentile": 0,
       "ecosystemNorm": 0,
       "weights": {
@@ -23,8 +23,8 @@
         "eliza": 0.35,
         "ecosystem": 0.2
       },
-      "effectNorm": 0.418815,
-      "effectScore": 41.8815
+      "effectNorm": 0.41805,
+      "effectScore": 41.805
     }
   }
 }
