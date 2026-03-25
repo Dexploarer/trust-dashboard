@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-03-25T14:41:06.502Z",
+  "generatedAt": "2026-03-25T17:35:21.250Z",
   "source": "milady-ai/trust-dashboard",
   "username": "sailorpepe",
   "profile": {
@@ -8,14 +8,14 @@
     "canonicalUsername": "sailorpepe",
     "avatarUrl": "https://avatars.githubusercontent.com/u/159828807?v=4",
     "milady": {
-      "trustScore": 6.2,
-      "rank": 45,
+      "trustScore": 6.39,
+      "rank": 46,
       "tier": "restricted"
     },
     "eliza": null,
     "ecosystemFactor": 0,
     "elizaEffect": {
-      "miladyNorm": 0.062,
+      "miladyNorm": 0.0639,
       "elizaLifetimePercentile": 0,
       "ecosystemNorm": 0,
       "weights": {
@@ -23,8 +23,8 @@
         "eliza": 0.35,
         "ecosystem": 0.2
       },
-      "effectNorm": 0.0279,
-      "effectScore": 2.79
+      "effectNorm": 0.028755,
+      "effectScore": 2.8755
     }
   }
 }
