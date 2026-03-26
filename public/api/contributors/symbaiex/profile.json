@@ -1,16 +1,16 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-03-26T17:35:09.480Z",
+  "generatedAt": "2026-03-26T19:08:53.033Z",
   "source": "milady-ai/trust-dashboard",
-  "username": "symbaiex",
+  "username": "SYMBaiEX",
   "profile": {
-    "username": "symbaiex",
+    "username": "SYMBaiEX",
     "canonicalUsername": "symbaiex",
-    "avatarUrl": "https://github.com/symbaiex.png",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/192078165?v=4",
     "milady": {
-      "trustScore": 35,
-      "rank": 40,
-      "tier": "probationary"
+      "trustScore": 29.35,
+      "rank": 41,
+      "tier": "untested"
     },
     "eliza": {
       "lifetimeScore": 347.1546,
@@ -74,7 +74,7 @@
     },
     "ecosystemFactor": 0.740951,
     "elizaEffect": {
-      "miladyNorm": 0.35,
+      "miladyNorm": 0.2935,
       "elizaLifetimePercentile": 0.967436,
       "ecosystemNorm": 0.740951,
       "weights": {
@@ -82,8 +82,8 @@
         "eliza": 0.35,
         "ecosystem": 0.2
       },
-      "effectNorm": 0.644293,
-      "effectScore": 64.4293
+      "effectNorm": 0.618868,
+      "effectScore": 61.8868
     }
   }
 }
