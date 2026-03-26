@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-03-26T05:07:24.467Z",
+  "generatedAt": "2026-03-26T06:44:36.206Z",
   "source": "milady-ai/trust-dashboard",
   "username": "NewSoulOnTheBlock",
   "profile": {
@@ -8,14 +8,14 @@
     "canonicalUsername": "newsoulontheblock",
     "avatarUrl": "https://avatars.githubusercontent.com/u/253271617?v=4",
     "milady": {
-      "trustScore": 89.58,
+      "trustScore": 89.54,
       "rank": 6,
       "tier": "trusted"
     },
     "eliza": null,
     "ecosystemFactor": 0,
     "elizaEffect": {
-      "miladyNorm": 0.8958,
+      "miladyNorm": 0.8954,
       "elizaLifetimePercentile": 0,
       "ecosystemNorm": 0,
       "weights": {
@@ -23,8 +23,8 @@
         "eliza": 0.35,
         "ecosystem": 0.2
       },
-      "effectNorm": 0.40311,
-      "effectScore": 40.311
+      "effectNorm": 0.40293,
+      "effectScore": 40.293
     }
   }
 }
