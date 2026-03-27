@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-03-27T08:00:02.648Z",
+  "generatedAt": "2026-03-27T19:45:19.791Z",
   "source": "milady-ai/trust-dashboard",
   "username": "jqmwa",
   "profile": {
@@ -8,14 +8,14 @@
     "canonicalUsername": "jqmwa",
     "avatarUrl": "https://avatars.githubusercontent.com/u/95416268?v=4",
     "milady": {
-      "trustScore": 35.99,
-      "rank": 18,
+      "trustScore": 35.98,
+      "rank": 19,
       "tier": "probationary"
     },
     "eliza": null,
     "ecosystemFactor": 0,
     "elizaEffect": {
-      "miladyNorm": 0.3599,
+      "miladyNorm": 0.3598,
       "elizaLifetimePercentile": 0,
       "ecosystemNorm": 0,
       "weights": {
@@ -23,8 +23,8 @@
         "eliza": 0.35,
         "ecosystem": 0.2
       },
-      "effectNorm": 0.161955,
-      "effectScore": 16.1955
+      "effectNorm": 0.16191,
+      "effectScore": 16.191
     }
   }
 }
