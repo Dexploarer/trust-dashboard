@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-03-27T19:45:19.791Z",
+  "generatedAt": "2026-04-08T22:07:16.709Z",
   "source": "milady-ai/trust-dashboard",
   "username": "devin-ai-integration",
   "profile": {
@@ -11,7 +11,7 @@
     "eliza": {
       "lifetimeScore": 356.4325,
       "lifetimeRank": 46,
-      "lifetimePercentile": 0.969471,
+      "lifetimePercentile": 0.970646,
       "weeklyRank": null,
       "monthlyRank": null,
       "characterClass": "Builder",
@@ -33,21 +33,21 @@
             "score": 90,
             "percentage": 54.38066465256798,
             "rank": 45,
-            "totalInArea": 689
+            "totalInArea": 701
           },
           {
             "tag": "infra",
             "score": 34.2,
             "percentage": 20.664652567975832,
-            "rank": 40,
-            "totalInArea": 375
+            "rank": 43,
+            "totalInArea": 382
           },
           {
             "tag": "core",
             "score": 10,
             "percentage": 6.042296072507553,
-            "rank": 178,
-            "totalInArea": 308
+            "rank": 179,
+            "totalInArea": 310
           }
         ],
         "achievements": [
@@ -60,18 +60,18 @@
         "wallets": {}
       }
     },
-    "ecosystemFactor": 0.749356,
+    "ecosystemFactor": 0.749967,
     "elizaEffect": {
       "miladyNorm": 0,
-      "elizaLifetimePercentile": 0.969471,
-      "ecosystemNorm": 0.749356,
+      "elizaLifetimePercentile": 0.970646,
+      "ecosystemNorm": 0.749967,
       "weights": {
         "milady": 0.45,
         "eliza": 0.35,
         "ecosystem": 0.2
       },
-      "effectNorm": 0.489186,
-      "effectScore": 48.9186
+      "effectNorm": 0.489719,
+      "effectScore": 48.9719
     }
   }
 }

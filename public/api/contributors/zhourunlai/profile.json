@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-03-27T19:45:19.791Z",
+  "generatedAt": "2026-04-08T22:07:16.709Z",
   "source": "milady-ai/trust-dashboard",
   "username": "zhourunlai",
   "profile": {
@@ -10,14 +10,14 @@
     "milady": null,
     "eliza": {
       "lifetimeScore": 264.215,
-      "lifetimeRank": 62,
-      "lifetimePercentile": 0.958616,
+      "lifetimeRank": 63,
+      "lifetimePercentile": 0.959556,
       "weeklyRank": null,
       "monthlyRank": null,
       "characterClass": "Builder",
       "tier": "active",
       "entry": {
-        "rank": 62,
+        "rank": 63,
         "username": "zhourunlai",
         "avatarUrl": "https://avatars.githubusercontent.com/u/9172247?u=ab72f633ca432fa21deeb2fc271c7264ea14cbc5&v=4",
         "characterClass": "Builder",
@@ -33,21 +33,21 @@
             "score": 30,
             "percentage": 31.54574132492114,
             "rank": 82,
-            "totalInArea": 308
+            "totalInArea": 310
           },
           {
             "tag": "typescript",
             "score": 22.5,
             "percentage": 23.659305993690854,
-            "rank": 205,
-            "totalInArea": 689
+            "rank": 208,
+            "totalInArea": 701
           },
           {
             "tag": "architect",
             "score": 10,
             "percentage": 10.515247108307047,
-            "rank": 38,
-            "totalInArea": 353
+            "rank": 40,
+            "totalInArea": 366
           }
         ],
         "achievements": [
@@ -60,18 +60,18 @@
         "wallets": {}
       }
     },
-    "ecosystemFactor": 0.743687,
+    "ecosystemFactor": 0.744176,
     "elizaEffect": {
       "miladyNorm": 0,
-      "elizaLifetimePercentile": 0.958616,
-      "ecosystemNorm": 0.743687,
+      "elizaLifetimePercentile": 0.959556,
+      "ecosystemNorm": 0.744176,
       "weights": {
         "milady": 0.45,
         "eliza": 0.35,
         "ecosystem": 0.2
       },
-      "effectNorm": 0.484253,
-      "effectScore": 48.4253
+      "effectNorm": 0.48468,
+      "effectScore": 48.468
     }
   }
 }

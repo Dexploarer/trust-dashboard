@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-03-27T19:45:19.791Z",
+  "generatedAt": "2026-04-08T22:07:16.709Z",
   "source": "milady-ai/trust-dashboard",
   "username": "0xbbjoker",
   "profile": {
@@ -10,14 +10,14 @@
     "milady": null,
     "eliza": {
       "lifetimeScore": 9496.8504,
-      "lifetimeRank": 3,
-      "lifetimePercentile": 0.998643,
+      "lifetimeRank": 4,
+      "lifetimePercentile": 0.998043,
       "weeklyRank": null,
-      "monthlyRank": 5,
+      "monthlyRank": null,
       "characterClass": "Builder",
       "tier": "legend",
       "entry": {
-        "rank": 3,
+        "rank": 4,
         "username": "0xbbjoker",
         "avatarUrl": "https://avatars.githubusercontent.com/u/54844437?u=90fe1762420de6ad493a1c1582f1f70c0d87d8e2&v=4",
         "characterClass": "Builder",
@@ -33,21 +33,21 @@
             "score": 2263.5,
             "percentage": 35.55105310276581,
             "rank": 4,
-            "totalInArea": 689
+            "totalInArea": 701
           },
           {
             "tag": "database",
             "score": 986.0000000000102,
             "percentage": 15.486343432439787,
             "rank": 1,
-            "totalInArea": 158
+            "totalInArea": 163
           },
           {
             "tag": "core",
             "score": 955,
             "percentage": 14.99945028192682,
             "rank": 4,
-            "totalInArea": 308
+            "totalInArea": 310
           }
         ],
         "achievements": [
@@ -77,18 +77,18 @@
         }
       }
     },
-    "ecosystemFactor": 0.75921,
+    "ecosystemFactor": 0.758898,
     "elizaEffect": {
       "miladyNorm": 0,
-      "elizaLifetimePercentile": 0.998643,
-      "ecosystemNorm": 0.75921,
+      "elizaLifetimePercentile": 0.998043,
+      "ecosystemNorm": 0.758898,
       "weights": {
         "milady": 0.45,
         "eliza": 0.35,
         "ecosystem": 0.2
       },
-      "effectNorm": 0.501367,
-      "effectScore": 50.1367
+      "effectNorm": 0.501095,
+      "effectScore": 50.1095
     }
   }
 }

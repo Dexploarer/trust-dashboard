@@ -2,33 +2,44 @@
   "version": "1.0",
   "source": "milady-ai/milaidy",
   "period": "lifetime",
-  "generatedAt": "2026-03-27T19:45:19.791Z",
-  "totalUsers": 57,
+  "generatedAt": "2026-04-08T22:07:16.709Z",
+  "totalUsers": 54,
   "leaderboard": [
     {
       "rank": 1,
+      "username": "0xSolace",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/257989456?v=4",
+      "trustScore": 100,
+      "tier": "legendary",
+      "lastEventAt": "2026-04-07T23:07:19.000Z",
+      "approvals": 56,
+      "rejections": 1,
+      "comments": 37
+    },
+    {
+      "rank": 2,
       "username": "HaruHunab1320",
       "avatarUrl": "https://avatars.githubusercontent.com/u/51176775?v=4",
       "trustScore": 100,
       "tier": "legendary",
-      "lastEventAt": "2026-03-27T04:54:16.000Z",
-      "approvals": 45,
+      "lastEventAt": "2026-04-08T20:43:14.000Z",
+      "approvals": 52,
       "rejections": 1,
       "comments": 12
     },
     {
-      "rank": 2,
+      "rank": 3,
       "username": "lalalune",
       "avatarUrl": "https://avatars.githubusercontent.com/u/18633264?v=4",
       "trustScore": 100,
       "tier": "legendary",
-      "lastEventAt": "2026-03-22T21:13:14.000Z",
-      "approvals": 117,
+      "lastEventAt": "2026-04-06T19:49:17.000Z",
+      "approvals": 120,
       "rejections": 6,
-      "comments": 85
+      "comments": 76
     },
     {
-      "rank": 3,
+      "rank": 4,
       "username": "lawyered0",
       "avatarUrl": "https://avatars.githubusercontent.com/u/4802498?v=4",
       "trustScore": 100,
@@ -39,21 +50,21 @@
       "comments": 52
     },
     {
-      "rank": 4,
+      "rank": 5,
       "username": "odilitime",
       "avatarUrl": "https://avatars.githubusercontent.com/u/16395496?v=4",
       "trustScore": 100,
       "tier": "legendary",
-      "lastEventAt": "2026-03-27T09:29:15.000Z",
-      "approvals": 21,
+      "lastEventAt": "2026-04-08T08:06:42.000Z",
+      "approvals": 27,
       "rejections": 0,
-      "comments": 2
+      "comments": 5
     },
     {
-      "rank": 5,
+      "rank": 6,
       "username": "NewSoulOnTheBlock",
       "avatarUrl": "https://avatars.githubusercontent.com/u/253271617?v=4",
-      "trustScore": 88.68,
+      "trustScore": 80.15,
       "tier": "trusted",
       "lastEventAt": "2026-03-11T08:50:31.000Z",
       "approvals": 8,
@@ -61,10 +72,21 @@
       "comments": 0
     },
     {
-      "rank": 6,
+      "rank": 7,
+      "username": "miladybsc",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/262491033?v=4",
+      "trustScore": 77.73,
+      "tier": "trusted",
+      "lastEventAt": "2026-03-27T23:01:34.000Z",
+      "approvals": 15,
+      "rejections": 1,
+      "comments": 1
+    },
+    {
+      "rank": 8,
       "username": "HomunculusLabs",
       "avatarUrl": "https://avatars.githubusercontent.com/u/104694001?v=4",
-      "trustScore": 88.67,
+      "trustScore": 76.95,
       "tier": "trusted",
       "lastEventAt": "2026-02-24T07:10:52.000Z",
       "approvals": 12,
@@ -72,43 +94,32 @@
       "comments": 13
     },
     {
-      "rank": 7,
-      "username": "miladybsc",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/262491033?v=4",
-      "trustScore": 78.51,
-      "tier": "trusted",
-      "lastEventAt": "2026-03-25T13:59:10.000Z",
-      "approvals": 14,
-      "rejections": 1,
-      "comments": 1
-    },
-    {
-      "rank": 8,
-      "username": "0xSolace",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/257989456?v=4",
-      "trustScore": 78.1,
-      "tier": "trusted",
-      "lastEventAt": "2026-03-27T05:16:51.000Z",
-      "approvals": 36,
-      "rejections": 1,
-      "comments": 31
-    },
-    {
       "rank": 9,
+      "username": "Copilot",
+      "avatarUrl": "https://avatars.githubusercontent.com/in/1143301?v=4",
+      "trustScore": 72.23,
+      "tier": "established",
+      "lastEventAt": "2026-04-07T13:35:15.000Z",
+      "approvals": 12,
+      "rejections": 0,
+      "comments": 3
+    },
+    {
+      "rank": 10,
       "username": "NubsCarson",
       "avatarUrl": "https://avatars.githubusercontent.com/u/192162056?v=4",
-      "trustScore": 67.92,
+      "trustScore": 65.35,
       "tier": "established",
-      "lastEventAt": "2026-03-24T17:57:08.000Z",
-      "approvals": 3,
+      "lastEventAt": "2026-04-08T08:06:42.000Z",
+      "approvals": 5,
       "rejections": 0,
       "comments": 0
     },
     {
-      "rank": 10,
+      "rank": 11,
       "username": "wbaxterh",
       "avatarUrl": "https://avatars.githubusercontent.com/u/29613164?v=4",
-      "trustScore": 50.63,
+      "trustScore": 47.52,
       "tier": "contributing",
       "lastEventAt": "2026-02-16T16:26:18.000Z",
       "approvals": 10,
@@ -116,32 +127,21 @@
       "comments": 5
     },
     {
-      "rank": 11,
-      "username": "Copilot",
-      "avatarUrl": "https://avatars.githubusercontent.com/in/1143301?v=4",
-      "trustScore": 47.23,
-      "tier": "contributing",
-      "lastEventAt": "2026-03-24T14:43:21.000Z",
-      "approvals": 5,
-      "rejections": 0,
-      "comments": 3
-    },
-    {
       "rank": 12,
       "username": "blacksmith-sh[bot]",
       "avatarUrl": "https://avatars.githubusercontent.com/in/807020?v=4",
-      "trustScore": 47.09,
-      "tier": "contributing",
+      "trustScore": 44.74,
+      "tier": "probationary",
       "lastEventAt": "2026-03-16T16:13:13.000Z",
       "approvals": 2,
       "rejections": 0,
-      "comments": 0
+      "comments": 2
     },
     {
       "rank": 13,
       "username": "mavisakalyan",
       "avatarUrl": "https://avatars.githubusercontent.com/u/55106546?v=4",
-      "trustScore": 43.69,
+      "trustScore": 42.18,
       "tier": "probationary",
       "lastEventAt": "2026-02-12T00:05:47.000Z",
       "approvals": 2,
@@ -152,7 +152,7 @@
       "rank": 14,
       "username": "helloama",
       "avatarUrl": "https://avatars.githubusercontent.com/u/91581825?v=4",
-      "trustScore": 43.05,
+      "trustScore": 41.7,
       "tier": "probationary",
       "lastEventAt": "2026-02-08T18:25:23.000Z",
       "approvals": 2,
@@ -163,10 +163,10 @@
       "rank": 15,
       "username": "rndrntwrk",
       "avatarUrl": "https://avatars.githubusercontent.com/u/180591682?v=4",
-      "trustScore": 42.66,
+      "trustScore": 41.41,
       "tier": "probationary",
-      "lastEventAt": "2026-03-27T16:05:56.000Z",
-      "approvals": 4,
+      "lastEventAt": "2026-04-01T19:57:34.000Z",
+      "approvals": 9,
       "rejections": 0,
       "comments": 0
     },
@@ -174,7 +174,7 @@
       "rank": 16,
       "username": "0xSero",
       "avatarUrl": "https://avatars.githubusercontent.com/u/69639595?v=4",
-      "trustScore": 42.03,
+      "trustScore": 40.9,
       "tier": "probationary",
       "lastEventAt": "2026-02-12T20:36:23.000Z",
       "approvals": 1,
@@ -183,9 +183,20 @@
     },
     {
       "rank": 17,
+      "username": "almondous",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/38044896?v=4",
+      "trustScore": 40.78,
+      "tier": "probationary",
+      "lastEventAt": "2026-03-30T03:57:15.000Z",
+      "approvals": 1,
+      "rejections": 0,
+      "comments": 0
+    },
+    {
+      "rank": 18,
       "username": "starlash7",
       "avatarUrl": "https://avatars.githubusercontent.com/u/160819802?v=4",
-      "trustScore": 40.69,
+      "trustScore": 39.72,
       "tier": "probationary",
       "lastEventAt": "2026-03-17T00:15:10.000Z",
       "approvals": 1,
@@ -193,32 +204,10 @@
       "comments": 0
     },
     {
-      "rank": 18,
-      "username": "awidearray",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/58874935?v=4",
-      "trustScore": 39.6,
-      "tier": "probationary",
-      "lastEventAt": "2026-02-08T01:33:42.000Z",
-      "approvals": 1,
-      "rejections": 0,
-      "comments": 0
-    },
-    {
       "rank": 19,
-      "username": "jqmwa",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/95416268?v=4",
-      "trustScore": 35.98,
-      "tier": "probationary",
-      "lastEventAt": "2026-02-14T05:57:22.000Z",
-      "approvals": 2,
-      "rejections": 0,
-      "comments": 1
-    },
-    {
-      "rank": 20,
       "username": "Ziflie",
       "avatarUrl": "https://avatars.githubusercontent.com/u/99035922?v=4",
-      "trustScore": 35.8,
+      "trustScore": 35.66,
       "tier": "probationary",
       "lastEventAt": "2026-03-15T23:51:03.000Z",
       "approvals": 1,
@@ -226,10 +215,10 @@
       "comments": 0
     },
     {
-      "rank": 21,
+      "rank": 20,
       "username": "miami0x",
       "avatarUrl": "https://avatars.githubusercontent.com/u/129148893?v=4",
-      "trustScore": 35.68,
+      "trustScore": 35.56,
       "tier": "probationary",
       "lastEventAt": "2026-02-10T07:29:31.000Z",
       "approvals": 1,
@@ -237,15 +226,26 @@
       "comments": 0
     },
     {
-      "rank": 22,
+      "rank": 21,
       "username": "soluckyraffle",
       "avatarUrl": "https://avatars.githubusercontent.com/u/205349250?v=4",
-      "trustScore": 35.35,
+      "trustScore": 35.29,
       "tier": "probationary",
       "lastEventAt": "2026-03-08T22:35:56.000Z",
       "approvals": 1,
       "rejections": 2,
       "comments": 2
+    },
+    {
+      "rank": 22,
+      "username": "TSchonleber",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/7308612?v=4",
+      "trustScore": 35.16,
+      "tier": "probationary",
+      "lastEventAt": "2026-04-04T13:18:34.000Z",
+      "approvals": 16,
+      "rejections": 2,
+      "comments": 10
     },
     {
       "rank": 23,
@@ -300,21 +300,10 @@
       "lastEventAt": null,
       "approvals": 0,
       "rejections": 0,
-      "comments": 2
+      "comments": 3
     },
     {
       "rank": 28,
-      "username": "clanktank",
-      "avatarUrl": "https://github.com/clanktank.png",
-      "trustScore": 35,
-      "tier": "probationary",
-      "lastEventAt": null,
-      "approvals": 0,
-      "rejections": 0,
-      "comments": 1
-    },
-    {
-      "rank": 29,
       "username": "claude",
       "avatarUrl": "https://github.com/claude.png",
       "trustScore": 35,
@@ -325,7 +314,7 @@
       "comments": 0
     },
     {
-      "rank": 30,
+      "rank": 29,
       "username": "claude[bot]",
       "avatarUrl": "https://github.com/claude[bot].png",
       "trustScore": 35,
@@ -336,18 +325,7 @@
       "comments": 8
     },
     {
-      "rank": 31,
-      "username": "copilot",
-      "avatarUrl": "https://github.com/copilot.png",
-      "trustScore": 35,
-      "tier": "probationary",
-      "lastEventAt": null,
-      "approvals": 0,
-      "rejections": 0,
-      "comments": 0
-    },
-    {
-      "rank": 32,
+      "rank": 30,
       "username": "copilot-pull-request-reviewer[bot]",
       "avatarUrl": "https://github.com/copilot-pull-request-reviewer[bot].png",
       "trustScore": 35,
@@ -358,18 +336,7 @@
       "comments": 0
     },
     {
-      "rank": 33,
-      "username": "cursoragent",
-      "avatarUrl": "https://github.com/cursoragent.png",
-      "trustScore": 35,
-      "tier": "probationary",
-      "lastEventAt": null,
-      "approvals": 0,
-      "rejections": 0,
-      "comments": 0
-    },
-    {
-      "rank": 34,
+      "rank": 31,
       "username": "davidhq",
       "avatarUrl": "https://github.com/davidhq.png",
       "trustScore": 35,
@@ -380,40 +347,18 @@
       "comments": 3
     },
     {
-      "rank": 35,
-      "username": "dex-duz-agents",
-      "avatarUrl": "https://github.com/dex-duz-agents.png",
-      "trustScore": 35,
-      "tier": "probationary",
-      "lastEventAt": null,
-      "approvals": 0,
-      "rejections": 0,
-      "comments": 0
-    },
-    {
-      "rank": 36,
+      "rank": 32,
       "username": "Dexploarer",
       "avatarUrl": "https://avatars.githubusercontent.com/u/211557447?v=4",
       "trustScore": 35,
       "tier": "probationary",
-      "lastEventAt": "2026-03-27T10:08:26.000Z",
-      "approvals": 318,
+      "lastEventAt": "2026-04-08T12:49:27.000Z",
+      "approvals": 376,
       "rejections": 18,
-      "comments": 245
+      "comments": 259
     },
     {
-      "rank": 37,
-      "username": "Dizzy-isy-is-not-a-bot",
-      "avatarUrl": "https://github.com/Dizzy-isy-is-not-a-bot.png",
-      "trustScore": 35,
-      "tier": "probationary",
-      "lastEventAt": null,
-      "approvals": 0,
-      "rejections": 0,
-      "comments": 0
-    },
-    {
-      "rank": 38,
+      "rank": 33,
       "username": "github-actions[bot]",
       "avatarUrl": "https://github.com/github-actions[bot].png",
       "trustScore": 35,
@@ -421,21 +366,21 @@
       "lastEventAt": null,
       "approvals": 0,
       "rejections": 0,
-      "comments": 2710
+      "comments": 3570
     },
     {
-      "rank": 39,
-      "username": "hi",
-      "avatarUrl": "https://github.com/hi.png",
+      "rank": 34,
+      "username": "greptile-apps[bot]",
+      "avatarUrl": "https://github.com/greptile-apps[bot].png",
       "trustScore": 35,
       "tier": "probationary",
       "lastEventAt": null,
       "approvals": 0,
       "rejections": 0,
-      "comments": 0
+      "comments": 16
     },
     {
-      "rank": 40,
+      "rank": 35,
       "username": "KlementMultiverse",
       "avatarUrl": "https://github.com/KlementMultiverse.png",
       "trustScore": 35,
@@ -446,7 +391,7 @@
       "comments": 1
     },
     {
-      "rank": 41,
+      "rank": 36,
       "username": "lightbeacon301",
       "avatarUrl": "https://github.com/lightbeacon301.png",
       "trustScore": 35,
@@ -457,7 +402,7 @@
       "comments": 0
     },
     {
-      "rank": 42,
+      "rank": 37,
       "username": "m13v",
       "avatarUrl": "https://github.com/m13v.png",
       "trustScore": 35,
@@ -468,7 +413,29 @@
       "comments": 2
     },
     {
-      "rank": 43,
+      "rank": 38,
+      "username": "monyrth",
+      "avatarUrl": "https://github.com/monyrth.png",
+      "trustScore": 35,
+      "tier": "probationary",
+      "lastEventAt": null,
+      "approvals": 0,
+      "rejections": 0,
+      "comments": 0
+    },
+    {
+      "rank": 39,
+      "username": "norplyplease123456789",
+      "avatarUrl": "https://github.com/norplyplease123456789.png",
+      "trustScore": 35,
+      "tier": "probationary",
+      "lastEventAt": null,
+      "approvals": 0,
+      "rejections": 0,
+      "comments": 0
+    },
+    {
+      "rank": 40,
       "username": "Pavetl-o2",
       "avatarUrl": "https://github.com/Pavetl-o2.png",
       "trustScore": 35,
@@ -479,9 +446,9 @@
       "comments": 0
     },
     {
-      "rank": 44,
-      "username": "sungwooyang",
-      "avatarUrl": "https://github.com/sungwooyang.png",
+      "rank": 41,
+      "username": "rhoggs-bot-test-account",
+      "avatarUrl": "https://github.com/rhoggs-bot-test-account.png",
       "trustScore": 35,
       "tier": "probationary",
       "lastEventAt": null,
@@ -490,7 +457,7 @@
       "comments": 0
     },
     {
-      "rank": 45,
+      "rank": 42,
       "username": "thedunc101",
       "avatarUrl": "https://github.com/thedunc101.png",
       "trustScore": 35,
@@ -501,32 +468,10 @@
       "comments": 2
     },
     {
-      "rank": 46,
-      "username": "vasox276",
-      "avatarUrl": "https://github.com/vasox276.png",
-      "trustScore": 35,
-      "tier": "probationary",
-      "lastEventAt": null,
-      "approvals": 0,
-      "rejections": 0,
-      "comments": 0
-    },
-    {
-      "rank": 47,
-      "username": "wakesync",
-      "avatarUrl": "https://github.com/wakesync.png",
-      "trustScore": 35,
-      "tier": "probationary",
-      "lastEventAt": null,
-      "approvals": 0,
-      "rejections": 0,
-      "comments": 0
-    },
-    {
-      "rank": 48,
+      "rank": 43,
       "username": "hanzlamateen",
       "avatarUrl": "https://avatars.githubusercontent.com/u/10975502?v=4",
-      "trustScore": 31.09,
+      "trustScore": 31.76,
       "tier": "probationary",
       "lastEventAt": "2026-02-09T07:37:44.000Z",
       "approvals": 0,
@@ -534,21 +479,21 @@
       "comments": 0
     },
     {
-      "rank": 49,
+      "rank": 44,
       "username": "hellno",
       "avatarUrl": "https://avatars.githubusercontent.com/u/686075?v=4",
-      "trustScore": 29.17,
-      "tier": "untested",
+      "trustScore": 30.16,
+      "tier": "probationary",
       "lastEventAt": "2026-03-08T22:35:56.000Z",
       "approvals": 0,
       "rejections": 1,
       "comments": 0
     },
     {
-      "rank": 50,
+      "rank": 45,
       "username": "SYMBaiEX",
       "avatarUrl": "https://avatars.githubusercontent.com/u/192078165?v=4",
-      "trustScore": 28.2,
+      "trustScore": 29.35,
       "tier": "untested",
       "lastEventAt": "2026-03-26T23:42:35.000Z",
       "approvals": 4,
@@ -556,10 +501,10 @@
       "comments": 0
     },
     {
-      "rank": 51,
+      "rank": 46,
       "username": "0xVera",
       "avatarUrl": "https://avatars.githubusercontent.com/u/261565474?v=4",
-      "trustScore": 21.48,
+      "trustScore": 23.78,
       "tier": "untested",
       "lastEventAt": "2026-02-18T12:39:58.000Z",
       "approvals": 0,
@@ -567,10 +512,21 @@
       "comments": 0
     },
     {
-      "rank": 52,
+      "rank": 47,
+      "username": "id-daniel-mccoy",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/86984714?v=4",
+      "trustScore": 22.85,
+      "tier": "untested",
+      "lastEventAt": "2026-04-04T13:18:28.000Z",
+      "approvals": 0,
+      "rejections": 0,
+      "comments": 0
+    },
+    {
+      "rank": 48,
       "username": "OkeyGoogle1",
       "avatarUrl": "https://avatars.githubusercontent.com/u/237472336?v=4",
-      "trustScore": 20.06,
+      "trustScore": 22.6,
       "tier": "untested",
       "lastEventAt": "2026-02-19T08:53:37.000Z",
       "approvals": 1,
@@ -578,59 +534,70 @@
       "comments": 0
     },
     {
-      "rank": 53,
-      "username": "sailorpepe",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/159828807?v=4",
-      "trustScore": 9.51,
-      "tier": "restricted",
-      "lastEventAt": "2026-02-25T04:10:20.000Z",
-      "approvals": 20,
+      "rank": 49,
+      "username": "mintlify[bot]",
+      "avatarUrl": "https://avatars.githubusercontent.com/in/222410?v=4",
+      "trustScore": 20.01,
+      "tier": "untested",
+      "lastEventAt": "2026-04-08T06:31:37.000Z",
+      "approvals": 90,
       "rejections": 0,
-      "comments": 18
+      "comments": 64
     },
     {
-      "rank": 54,
+      "rank": 50,
       "username": "2-A-M",
       "avatarUrl": "https://avatars.githubusercontent.com/u/96268540?v=4",
       "trustScore": 0,
       "tier": "restricted",
-      "lastEventAt": "2026-03-22T21:14:29.000Z",
-      "approvals": 10,
+      "lastEventAt": "2026-04-04T13:18:32.000Z",
+      "approvals": 11,
       "rejections": 7,
       "comments": 16
     },
     {
-      "rank": 55,
+      "rank": 51,
+      "username": "awidearray",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/58874935?v=4",
+      "trustScore": 0,
+      "tier": "restricted",
+      "lastEventAt": "2026-04-04T13:18:29.000Z",
+      "approvals": 1,
+      "rejections": 0,
+      "comments": 1
+    },
+    {
+      "rank": 52,
       "username": "dutchiono",
       "avatarUrl": "https://avatars.githubusercontent.com/u/86275975?v=4",
       "trustScore": 0,
       "tier": "restricted",
-      "lastEventAt": "2026-03-27T17:39:43.000Z",
-      "approvals": 20,
+      "lastEventAt": "2026-04-08T06:31:37.000Z",
+      "approvals": 34,
       "rejections": 0,
-      "comments": 11
+      "comments": 25
     },
     {
-      "rank": 56,
+      "rank": 53,
       "username": "hellopleasures",
       "avatarUrl": "https://avatars.githubusercontent.com/u/99759672?v=4",
       "trustScore": 0,
       "tier": "restricted",
-      "lastEventAt": "2026-03-25T13:59:10.000Z",
-      "approvals": 70,
+      "lastEventAt": "2026-04-04T13:18:29.000Z",
+      "approvals": 72,
       "rejections": 6,
       "comments": 82
     },
     {
-      "rank": 57,
-      "username": "mintlify[bot]",
-      "avatarUrl": "https://avatars.githubusercontent.com/in/222410?v=4",
+      "rank": 54,
+      "username": "jqmwa",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/95416268?v=4",
       "trustScore": 0,
       "tier": "restricted",
-      "lastEventAt": "2026-03-27T03:10:26.000Z",
-      "approvals": 71,
+      "lastEventAt": "2026-04-03T10:36:20.000Z",
+      "approvals": 3,
       "rejections": 0,
-      "comments": 38
+      "comments": 1
     }
   ]
 }

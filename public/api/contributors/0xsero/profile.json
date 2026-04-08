@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-03-27T19:45:19.791Z",
+  "generatedAt": "2026-04-08T22:07:16.709Z",
   "source": "milady-ai/trust-dashboard",
   "username": "0xSero",
   "profile": {
@@ -8,14 +8,14 @@
     "canonicalUsername": "0xsero",
     "avatarUrl": "https://avatars.githubusercontent.com/u/69639595?v=4",
     "milady": {
-      "trustScore": 42.03,
+      "trustScore": 40.9,
       "rank": 16,
       "tier": "probationary"
     },
     "eliza": {
       "lifetimeScore": 349.9878,
       "lifetimeRank": 48,
-      "lifetimePercentile": 0.968114,
+      "lifetimePercentile": 0.969341,
       "weeklyRank": null,
       "monthlyRank": null,
       "characterClass": "Builder",
@@ -37,38 +37,38 @@
             "score": 159,
             "percentage": 36.05442176870749,
             "rank": 27,
-            "totalInArea": 689
+            "totalInArea": 701
           },
           {
             "tag": "ui",
             "score": 91.79999999999991,
             "percentage": 20.81632653061223,
             "rank": 9,
-            "totalInArea": 67
+            "totalInArea": 69
           },
           {
             "tag": "react",
             "score": 75.60000000000001,
             "percentage": 17.14285714285715,
             "rank": 10,
-            "totalInArea": 73
+            "totalInArea": 76
           }
         ],
         "wallets": {}
       }
     },
-    "ecosystemFactor": 0.742829,
+    "ecosystemFactor": 0.743467,
     "elizaEffect": {
-      "miladyNorm": 0.4203,
-      "elizaLifetimePercentile": 0.968114,
-      "ecosystemNorm": 0.742829,
+      "miladyNorm": 0.409,
+      "elizaLifetimePercentile": 0.969341,
+      "ecosystemNorm": 0.743467,
       "weights": {
         "milady": 0.45,
         "eliza": 0.35,
         "ecosystem": 0.2
       },
-      "effectNorm": 0.676541,
-      "effectScore": 67.6541
+      "effectNorm": 0.672013,
+      "effectScore": 67.2013
     }
   }
 }

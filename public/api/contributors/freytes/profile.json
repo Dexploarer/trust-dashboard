@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-03-27T19:45:19.791Z",
+  "generatedAt": "2026-04-08T22:07:16.709Z",
   "source": "milady-ai/trust-dashboard",
   "username": "Freytes",
   "profile": {
@@ -11,7 +11,7 @@
     "eliza": {
       "lifetimeScore": 999.8669,
       "lifetimeRank": 17,
-      "lifetimePercentile": 0.989145,
+      "lifetimePercentile": 0.989563,
       "weeklyRank": null,
       "monthlyRank": null,
       "characterClass": "Builder",
@@ -33,21 +33,21 @@
             "score": 504,
             "percentage": 56.30655792648868,
             "rank": 13,
-            "totalInArea": 689
+            "totalInArea": 701
           },
           {
             "tag": "docs",
             "score": 84,
             "percentage": 9.384426321081445,
             "rank": 40,
-            "totalInArea": 581
+            "totalInArea": 593
           },
           {
             "tag": "nextjs",
             "score": 83.19999999999996,
             "percentage": 9.295050832309236,
             "rank": 3,
-            "totalInArea": 40
+            "totalInArea": 43
           }
         ],
         "achievements": [
@@ -65,18 +65,18 @@
         "wallets": {}
       }
     },
-    "ecosystemFactor": 0.757731,
+    "ecosystemFactor": 0.757948,
     "elizaEffect": {
       "miladyNorm": 0,
-      "elizaLifetimePercentile": 0.989145,
-      "ecosystemNorm": 0.757731,
+      "elizaLifetimePercentile": 0.989563,
+      "ecosystemNorm": 0.757948,
       "weights": {
         "milady": 0.45,
         "eliza": 0.35,
         "ecosystem": 0.2
       },
-      "effectNorm": 0.497747,
-      "effectScore": 49.7747
+      "effectNorm": 0.497937,
+      "effectScore": 49.7937
     }
   }
 }

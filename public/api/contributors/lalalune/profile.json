@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-03-27T19:45:19.791Z",
+  "generatedAt": "2026-04-08T22:07:16.709Z",
   "source": "milady-ai/trust-dashboard",
   "username": "lalalune",
   "profile": {
@@ -9,15 +9,15 @@
     "avatarUrl": "https://avatars.githubusercontent.com/u/18633264?v=4",
     "milady": {
       "trustScore": 100,
-      "rank": 2,
+      "rank": 3,
       "tier": "legendary"
     },
     "eliza": {
-      "lifetimeScore": 6382.6267,
+      "lifetimeScore": 6459.5647,
       "lifetimeRank": 6,
-      "lifetimePercentile": 0.996608,
+      "lifetimePercentile": 0.996738,
       "weeklyRank": null,
-      "monthlyRank": 3,
+      "monthlyRank": null,
       "characterClass": "Builder",
       "tier": "legend",
       "entry": {
@@ -26,32 +26,32 @@
         "avatarUrl": "https://avatars.githubusercontent.com/u/18633264?u=e2e906c3712c2506ebfa98df01c2cfdc50050b30&v=4",
         "characterClass": "Builder",
         "tier": "legend",
-        "score": 6382.626712361548,
+        "score": 6459.564712361548,
         "prScore": 5749.948712361548,
         "issueScore": 294.8,
-        "reviewScore": 316.5,
-        "commentScore": 21.378,
+        "reviewScore": 393,
+        "commentScore": 21.816,
         "focusAreas": [
           {
             "tag": "typescript",
             "score": 3589.5,
             "percentage": 29.046902311128385,
             "rank": 2,
-            "totalInArea": 689
+            "totalInArea": 701
           },
           {
             "tag": "core",
             "score": 2290,
             "percentage": 18.531106363695223,
             "rank": 1,
-            "totalInArea": 308
+            "totalInArea": 310
           },
           {
             "tag": "docs",
             "score": 2181,
             "percentage": 17.64905806952807,
             "rank": 2,
-            "totalInArea": 581
+            "totalInArea": 593
           }
         ],
         "achievements": [
@@ -87,18 +87,18 @@
         }
       }
     },
-    "ecosystemFactor": 0.753905,
+    "ecosystemFactor": 0.753134,
     "elizaEffect": {
       "miladyNorm": 1,
-      "elizaLifetimePercentile": 0.996608,
-      "ecosystemNorm": 0.753905,
+      "elizaLifetimePercentile": 0.996738,
+      "ecosystemNorm": 0.753134,
       "weights": {
         "milady": 0.45,
         "eliza": 0.35,
         "ecosystem": 0.2
       },
-      "effectNorm": 0.949594,
-      "effectScore": 94.9594
+      "effectNorm": 0.949485,
+      "effectScore": 94.9485
     }
   }
 }

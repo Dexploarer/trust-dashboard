@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-03-27T19:45:19.791Z",
+  "generatedAt": "2026-04-08T22:07:16.709Z",
   "source": "milady-ai/trust-dashboard",
   "username": "mikirov",
   "profile": {
@@ -10,14 +10,14 @@
     "milady": null,
     "eliza": {
       "lifetimeScore": 275.5971,
-      "lifetimeRank": 60,
-      "lifetimePercentile": 0.959973,
+      "lifetimeRank": 61,
+      "lifetimePercentile": 0.960861,
       "weeklyRank": null,
       "monthlyRank": null,
       "characterClass": "Builder",
       "tier": "active",
       "entry": {
-        "rank": 60,
+        "rank": 61,
         "username": "mikirov",
         "avatarUrl": "https://avatars.githubusercontent.com/u/29272392?u=a4773a399c1cbcd34cdca9a7877cd61824c5bf09&v=4",
         "characterClass": "Builder",
@@ -33,38 +33,38 @@
             "score": 75,
             "percentage": 59.47660586835845,
             "rank": 58,
-            "totalInArea": 689
+            "totalInArea": 701
           },
           {
             "tag": "tests",
             "score": 40,
             "percentage": 31.72085646312451,
             "rank": 27,
-            "totalInArea": 181
+            "totalInArea": 186
           },
           {
             "tag": "infra",
             "score": 3.6,
             "percentage": 2.8548770816812055,
-            "rank": 164,
-            "totalInArea": 375
+            "rank": 169,
+            "totalInArea": 382
           }
         ],
         "wallets": {}
       }
     },
-    "ecosystemFactor": 0.740238,
+    "ecosystemFactor": 0.7407,
     "elizaEffect": {
       "miladyNorm": 0,
-      "elizaLifetimePercentile": 0.959973,
-      "ecosystemNorm": 0.740238,
+      "elizaLifetimePercentile": 0.960861,
+      "ecosystemNorm": 0.7407,
       "weights": {
         "milady": 0.45,
         "eliza": 0.35,
         "ecosystem": 0.2
       },
-      "effectNorm": 0.484038,
-      "effectScore": 48.4038
+      "effectNorm": 0.484441,
+      "effectScore": 48.4441
     }
   }
 }

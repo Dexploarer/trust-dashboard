@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-03-27T19:45:19.791Z",
+  "generatedAt": "2026-04-08T22:07:16.709Z",
   "source": "milady-ai/trust-dashboard",
   "username": "azep-ninja",
   "profile": {
@@ -10,14 +10,14 @@
     "milady": null,
     "eliza": {
       "lifetimeScore": 673.5859,
-      "lifetimeRank": 25,
-      "lifetimePercentile": 0.983718,
+      "lifetimeRank": 26,
+      "lifetimePercentile": 0.983692,
       "weeklyRank": null,
       "monthlyRank": null,
       "characterClass": "Builder",
       "tier": "veteran",
       "entry": {
-        "rank": 25,
+        "rank": 26,
         "username": "azep-ninja",
         "avatarUrl": "https://avatars.githubusercontent.com/u/142059473?u=7bcfb03323132153f1cca74bdb66853b5e2e1dd5&v=4",
         "characterClass": "Builder",
@@ -33,21 +33,21 @@
             "score": 93,
             "percentage": 34.34268833087149,
             "rank": 44,
-            "totalInArea": 689
+            "totalInArea": 701
           },
           {
             "tag": "core",
             "score": 75,
             "percentage": 27.695716395864107,
             "rank": 31,
-            "totalInArea": 308
+            "totalInArea": 310
           },
           {
             "tag": "bug-fixer",
             "score": 24.199999999999996,
             "percentage": 8.936484490398817,
             "rank": 15,
-            "totalInArea": 227
+            "totalInArea": 230
           }
         ],
         "achievements": [
@@ -60,18 +60,18 @@
         "wallets": {}
       }
     },
-    "ecosystemFactor": 0.755556,
+    "ecosystemFactor": 0.755543,
     "elizaEffect": {
       "miladyNorm": 0,
-      "elizaLifetimePercentile": 0.983718,
-      "ecosystemNorm": 0.755556,
+      "elizaLifetimePercentile": 0.983692,
+      "ecosystemNorm": 0.755543,
       "weights": {
         "milady": 0.45,
         "eliza": 0.35,
         "ecosystem": 0.2
       },
-      "effectNorm": 0.495412,
-      "effectScore": 49.5412
+      "effectNorm": 0.495401,
+      "effectScore": 49.5401
     }
   }
 }

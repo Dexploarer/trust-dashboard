@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-03-27T19:45:19.791Z",
+  "generatedAt": "2026-04-08T22:07:16.709Z",
   "source": "milady-ai/trust-dashboard",
   "username": "sirkitree",
   "profile": {
@@ -11,7 +11,7 @@
     "eliza": {
       "lifetimeScore": 515.1406,
       "lifetimeRank": 35,
-      "lifetimePercentile": 0.976934,
+      "lifetimePercentile": 0.977821,
       "weeklyRank": null,
       "monthlyRank": null,
       "characterClass": "Pathfinder",
@@ -33,21 +33,21 @@
             "score": 35,
             "percentage": 33.65384615384615,
             "rank": 65,
-            "totalInArea": 308
+            "totalInArea": 310
           },
           {
             "tag": "infra",
             "score": 21.600000000000005,
             "percentage": 20.76923076923077,
-            "rank": 54,
-            "totalInArea": 375
+            "rank": 57,
+            "totalInArea": 382
           },
           {
             "tag": "typescript",
             "score": 19.5,
             "percentage": 18.749999999999996,
-            "rank": 224,
-            "totalInArea": 689
+            "rank": 228,
+            "totalInArea": 701
           }
         ],
         "achievements": [
@@ -70,18 +70,18 @@
         "wallets": {}
       }
     },
-    "ecosystemFactor": 0.718151,
+    "ecosystemFactor": 0.718612,
     "elizaEffect": {
       "miladyNorm": 0,
-      "elizaLifetimePercentile": 0.976934,
-      "ecosystemNorm": 0.718151,
+      "elizaLifetimePercentile": 0.977821,
+      "ecosystemNorm": 0.718612,
       "weights": {
         "milady": 0.45,
         "eliza": 0.35,
         "ecosystem": 0.2
       },
-      "effectNorm": 0.485557,
-      "effectScore": 48.5557
+      "effectNorm": 0.48596,
+      "effectScore": 48.596
     }
   }
 }

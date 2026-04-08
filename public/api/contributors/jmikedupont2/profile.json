@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-03-27T19:45:19.791Z",
+  "generatedAt": "2026-04-08T22:07:16.709Z",
   "source": "milady-ai/trust-dashboard",
   "username": "jmikedupont2",
   "profile": {
@@ -10,14 +10,14 @@
     "milady": null,
     "eliza": {
       "lifetimeScore": 713.7648,
-      "lifetimeRank": 23,
-      "lifetimePercentile": 0.985075,
+      "lifetimeRank": 24,
+      "lifetimePercentile": 0.984997,
       "weeklyRank": null,
       "monthlyRank": null,
       "characterClass": "Builder",
       "tier": "veteran",
       "entry": {
-        "rank": 23,
+        "rank": 24,
         "username": "jmikedupont2",
         "avatarUrl": "https://avatars.githubusercontent.com/u/16427113?u=2bdad12714de646188f98a07736a54f765ad5e3b&v=4",
         "characterClass": "Builder",
@@ -33,21 +33,21 @@
             "score": 316.80000000000103,
             "percentage": 32.472324723247304,
             "rank": 6,
-            "totalInArea": 375
+            "totalInArea": 382
           },
           {
             "tag": "docs",
             "score": 216,
             "percentage": 22.140221402213996,
             "rank": 11,
-            "totalInArea": 581
+            "totalInArea": 593
           },
           {
             "tag": "typescript",
             "score": 189,
             "percentage": 19.37269372693725,
             "rank": 24,
-            "totalInArea": 689
+            "totalInArea": 701
           }
         ],
         "achievements": [
@@ -65,18 +65,18 @@
         "wallets": {}
       }
     },
-    "ecosystemFactor": 0.742115,
+    "ecosystemFactor": 0.742075,
     "elizaEffect": {
       "miladyNorm": 0,
-      "elizaLifetimePercentile": 0.985075,
-      "ecosystemNorm": 0.742115,
+      "elizaLifetimePercentile": 0.984997,
+      "ecosystemNorm": 0.742075,
       "weights": {
         "milady": 0.45,
         "eliza": 0.35,
         "ecosystem": 0.2
       },
-      "effectNorm": 0.493199,
-      "effectScore": 49.3199
+      "effectNorm": 0.493164,
+      "effectScore": 49.3164
     }
   }
 }

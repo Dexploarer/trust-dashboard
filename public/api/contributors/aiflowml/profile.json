@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-03-27T19:45:19.791Z",
+  "generatedAt": "2026-04-08T22:07:16.709Z",
   "source": "milady-ai/trust-dashboard",
   "username": "AIFlowML",
   "profile": {
@@ -11,7 +11,7 @@
     "eliza": {
       "lifetimeScore": 3033.4156,
       "lifetimeRank": 13,
-      "lifetimePercentile": 0.991859,
+      "lifetimePercentile": 0.992172,
       "weeklyRank": null,
       "monthlyRank": null,
       "characterClass": "Builder",
@@ -33,21 +33,21 @@
             "score": 939,
             "percentage": 51.20235563553085,
             "rank": 8,
-            "totalInArea": 689
+            "totalInArea": 701
           },
           {
             "tag": "bug-fixer",
             "score": 206.7999999999997,
             "percentage": 11.276514531871952,
             "rank": 4,
-            "totalInArea": 227
+            "totalInArea": 230
           },
           {
             "tag": "maintainer",
             "score": 200,
             "percentage": 10.905720050166314,
             "rank": 5,
-            "totalInArea": 290
+            "totalInArea": 295
           }
         ],
         "achievements": [
@@ -73,18 +73,18 @@
         }
       }
     },
-    "ecosystemFactor": 0.759668,
+    "ecosystemFactor": 0.759831,
     "elizaEffect": {
       "miladyNorm": 0,
-      "elizaLifetimePercentile": 0.991859,
-      "ecosystemNorm": 0.759668,
+      "elizaLifetimePercentile": 0.992172,
+      "ecosystemNorm": 0.759831,
       "weights": {
         "milady": 0.45,
         "eliza": 0.35,
         "ecosystem": 0.2
       },
-      "effectNorm": 0.499084,
-      "effectScore": 49.9084
+      "effectNorm": 0.499227,
+      "effectScore": 49.9227
     }
   }
 }

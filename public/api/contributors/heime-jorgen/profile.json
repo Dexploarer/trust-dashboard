@@ -1,0 +1,70 @@
+{
+  "version": "1.0",
+  "generatedAt": "2026-04-08T22:07:16.709Z",
+  "source": "milady-ai/trust-dashboard",
+  "username": "Heime-Jorgen",
+  "profile": {
+    "username": "Heime-Jorgen",
+    "canonicalUsername": "heime-jorgen",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/259771901?v=4",
+    "milady": null,
+    "eliza": {
+      "lifetimeScore": 185.2084,
+      "lifetimeRank": 93,
+      "lifetimePercentile": 0.939987,
+      "weeklyRank": null,
+      "monthlyRank": null,
+      "characterClass": "Builder",
+      "tier": "regular",
+      "entry": {
+        "rank": 93,
+        "username": "Heime-Jorgen",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/259771901?v=4",
+        "characterClass": "Builder",
+        "tier": "regular",
+        "score": 185.208437706435,
+        "prScore": 170.394437706435,
+        "issueScore": 0,
+        "reviewScore": 13.5,
+        "commentScore": 1.3139999999999998,
+        "focusAreas": [
+          {
+            "tag": "typescript",
+            "score": 31.5,
+            "percentage": 40.384615384615394,
+            "rank": 143,
+            "totalInArea": 701
+          },
+          {
+            "tag": "architect",
+            "score": 12.5,
+            "percentage": 16.02564102564103,
+            "rank": 33,
+            "totalInArea": 366
+          },
+          {
+            "tag": "feature-dev",
+            "score": 10,
+            "percentage": 12.820512820512823,
+            "rank": 32,
+            "totalInArea": 362
+          }
+        ],
+        "wallets": {}
+      }
+    },
+    "ecosystemFactor": 0.727541,
+    "elizaEffect": {
+      "miladyNorm": 0,
+      "elizaLifetimePercentile": 0.939987,
+      "ecosystemNorm": 0.727541,
+      "weights": {
+        "milady": 0.45,
+        "eliza": 0.35,
+        "ecosystem": 0.2
+      },
+      "effectNorm": 0.474504,
+      "effectScore": 47.4504
+    }
+  }
+}

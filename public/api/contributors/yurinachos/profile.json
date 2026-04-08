@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-03-27T19:45:19.791Z",
+  "generatedAt": "2026-04-08T22:07:16.709Z",
   "source": "milady-ai/trust-dashboard",
   "username": "YuriNachos",
   "profile": {
@@ -10,14 +10,14 @@
     "milady": null,
     "eliza": {
       "lifetimeScore": 249.1844,
-      "lifetimeRank": 64,
-      "lifetimePercentile": 0.957259,
+      "lifetimeRank": 65,
+      "lifetimePercentile": 0.958252,
       "weeklyRank": null,
       "monthlyRank": null,
       "characterClass": "Builder",
       "tier": "active",
       "entry": {
-        "rank": 64,
+        "rank": 65,
         "username": "YuriNachos",
         "avatarUrl": "https://avatars.githubusercontent.com/u/19365375?u=35202bfa8350f028db180527a789e8dcb7576d42&v=4",
         "characterClass": "Builder",
@@ -33,38 +33,38 @@
             "score": 90,
             "percentage": 49.69630038652678,
             "rank": 26,
-            "totalInArea": 308
+            "totalInArea": 310
           },
           {
             "tag": "typescript",
             "score": 49.5,
             "percentage": 27.332965212589734,
-            "rank": 95,
-            "totalInArea": 689
+            "rank": 96,
+            "totalInArea": 701
           },
           {
             "tag": "tests",
             "score": 20,
             "percentage": 11.043622308117062,
             "rank": 46,
-            "totalInArea": 181
+            "totalInArea": 186
           }
         ],
         "wallets": {}
       }
     },
-    "ecosystemFactor": 0.743361,
+    "ecosystemFactor": 0.743877,
     "elizaEffect": {
       "miladyNorm": 0,
-      "elizaLifetimePercentile": 0.957259,
-      "ecosystemNorm": 0.743361,
+      "elizaLifetimePercentile": 0.958252,
+      "ecosystemNorm": 0.743877,
       "weights": {
         "milady": 0.45,
         "eliza": 0.35,
         "ecosystem": 0.2
       },
-      "effectNorm": 0.483713,
-      "effectScore": 48.3713
+      "effectNorm": 0.484163,
+      "effectScore": 48.4163
     }
   }
 }

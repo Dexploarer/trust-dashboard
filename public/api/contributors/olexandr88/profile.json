@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-03-27T19:45:19.791Z",
+  "generatedAt": "2026-04-08T22:07:16.709Z",
   "source": "milady-ai/trust-dashboard",
   "username": "Olexandr88",
   "profile": {
@@ -10,14 +10,14 @@
     "milady": null,
     "eliza": {
       "lifetimeScore": 184.4441,
-      "lifetimeRank": 93,
-      "lifetimePercentile": 0.937585,
+      "lifetimeRank": 95,
+      "lifetimePercentile": 0.938682,
       "weeklyRank": null,
       "monthlyRank": null,
       "characterClass": "Scribe",
       "tier": "regular",
       "entry": {
-        "rank": 93,
+        "rank": 95,
         "username": "Olexandr88",
         "avatarUrl": "https://avatars.githubusercontent.com/u/93856062?u=f97ca807f955c4a8f29e6fc149f5f8e4f13d97b4&v=4",
         "characterClass": "Scribe",
@@ -33,31 +33,31 @@
             "score": 30,
             "percentage": 60,
             "rank": 75,
-            "totalInArea": 581
+            "totalInArea": 593
           },
           {
             "tag": "maintainer",
             "score": 20,
             "percentage": 40,
             "rank": 19,
-            "totalInArea": 290
+            "totalInArea": 295
           }
         ],
         "wallets": {}
       }
     },
-    "ecosystemFactor": 0.733085,
+    "ecosystemFactor": 0.733656,
     "elizaEffect": {
       "miladyNorm": 0,
-      "elizaLifetimePercentile": 0.937585,
-      "ecosystemNorm": 0.733085,
+      "elizaLifetimePercentile": 0.938682,
+      "ecosystemNorm": 0.733656,
       "weights": {
         "milady": 0.45,
         "eliza": 0.35,
         "ecosystem": 0.2
       },
-      "effectNorm": 0.474772,
-      "effectScore": 47.4772
+      "effectNorm": 0.47527,
+      "effectScore": 47.527
     }
   }
 }

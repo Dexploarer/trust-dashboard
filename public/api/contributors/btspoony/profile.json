@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-03-27T19:45:19.791Z",
+  "generatedAt": "2026-04-08T22:07:16.709Z",
   "source": "milady-ai/trust-dashboard",
   "username": "btspoony",
   "profile": {
@@ -10,14 +10,14 @@
     "milady": null,
     "eliza": {
       "lifetimeScore": 370.007,
-      "lifetimeRank": 41,
-      "lifetimePercentile": 0.972863,
+      "lifetimeRank": 42,
+      "lifetimePercentile": 0.973255,
       "weeklyRank": null,
       "monthlyRank": null,
       "characterClass": "Builder",
       "tier": "active",
       "entry": {
-        "rank": 41,
+        "rank": 42,
         "username": "btspoony",
         "avatarUrl": "https://avatars.githubusercontent.com/u/707025?u=d8487801b6cc361f4a912518c54cc25cfb70d347&v=4",
         "characterClass": "Builder",
@@ -33,21 +33,21 @@
             "score": 114,
             "percentage": 54.156769596199524,
             "rank": 37,
-            "totalInArea": 689
+            "totalInArea": 701
           },
           {
             "tag": "core",
             "score": 35,
             "percentage": 16.627078384798104,
             "rank": 60,
-            "totalInArea": 308
+            "totalInArea": 310
           },
           {
             "tag": "tests",
             "score": 16,
             "percentage": 7.600950118764846,
-            "rank": 51,
-            "totalInArea": 181
+            "rank": 52,
+            "totalInArea": 186
           }
         ],
         "achievements": [
@@ -63,18 +63,18 @@
         }
       }
     },
-    "ecosystemFactor": 0.745818,
+    "ecosystemFactor": 0.746022,
     "elizaEffect": {
       "miladyNorm": 0,
-      "elizaLifetimePercentile": 0.972863,
-      "ecosystemNorm": 0.745818,
+      "elizaLifetimePercentile": 0.973255,
+      "ecosystemNorm": 0.746022,
       "weights": {
         "milady": 0.45,
         "eliza": 0.35,
         "ecosystem": 0.2
       },
-      "effectNorm": 0.489666,
-      "effectScore": 48.9666
+      "effectNorm": 0.489844,
+      "effectScore": 48.9844
     }
   }
 }

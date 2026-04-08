@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-03-27T19:45:19.791Z",
+  "generatedAt": "2026-04-08T22:07:16.709Z",
   "source": "milady-ai/trust-dashboard",
   "username": "tercel",
   "profile": {
@@ -10,14 +10,14 @@
     "milady": null,
     "eliza": {
       "lifetimeScore": 361.4656,
-      "lifetimeRank": 42,
-      "lifetimePercentile": 0.972185,
+      "lifetimeRank": 43,
+      "lifetimePercentile": 0.972603,
       "weeklyRank": null,
       "monthlyRank": null,
       "characterClass": "Builder",
       "tier": "active",
       "entry": {
-        "rank": 42,
+        "rank": 43,
         "username": "tercel",
         "avatarUrl": "https://avatars.githubusercontent.com/u/4879512?u=9a2520224d9ae039a506c03dcf58406f52734361&v=4",
         "characterClass": "Builder",
@@ -33,21 +33,21 @@
             "score": 121.5,
             "percentage": 36.214605067064085,
             "rank": 33,
-            "totalInArea": 689
+            "totalInArea": 701
           },
           {
             "tag": "docs",
             "score": 96,
             "percentage": 28.614008941877795,
             "rank": 36,
-            "totalInArea": 581
+            "totalInArea": 593
           },
           {
             "tag": "core",
             "score": 50,
             "percentage": 14.903129657228018,
             "rank": 43,
-            "totalInArea": 308
+            "totalInArea": 310
           }
         ],
         "achievements": [
@@ -65,18 +65,18 @@
         "wallets": {}
       }
     },
-    "ecosystemFactor": 0.743363,
+    "ecosystemFactor": 0.743581,
     "elizaEffect": {
       "miladyNorm": 0,
-      "elizaLifetimePercentile": 0.972185,
-      "ecosystemNorm": 0.743363,
+      "elizaLifetimePercentile": 0.972603,
+      "ecosystemNorm": 0.743581,
       "weights": {
         "milady": 0.45,
         "eliza": 0.35,
         "ecosystem": 0.2
       },
-      "effectNorm": 0.488937,
-      "effectScore": 48.8937
+      "effectNorm": 0.489127,
+      "effectScore": 48.9127
     }
   }
 }

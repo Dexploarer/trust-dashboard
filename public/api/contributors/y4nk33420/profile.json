@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-03-27T19:45:19.791Z",
+  "generatedAt": "2026-04-08T22:07:16.709Z",
   "source": "milady-ai/trust-dashboard",
   "username": "Y4NK33420",
   "profile": {
@@ -11,7 +11,7 @@
     "eliza": {
       "lifetimeScore": 455.8863,
       "lifetimeRank": 37,
-      "lifetimePercentile": 0.975577,
+      "lifetimePercentile": 0.976517,
       "weeklyRank": null,
       "monthlyRank": null,
       "characterClass": "Builder",
@@ -33,21 +33,21 @@
             "score": 154,
             "percentage": 35.62340966921119,
             "rank": 10,
-            "totalInArea": 181
+            "totalInArea": 186
           },
           {
             "tag": "typescript",
             "score": 145.5,
             "percentage": 33.657182512144345,
             "rank": 29,
-            "totalInArea": 689
+            "totalInArea": 701
           },
           {
             "tag": "ui",
             "score": 53.99999999999997,
             "percentage": 12.491325468424698,
             "rank": 13,
-            "totalInArea": 67
+            "totalInArea": 69
           }
         ],
         "achievements": [
@@ -60,18 +60,18 @@
         "wallets": {}
       }
     },
-    "ecosystemFactor": 0.746276,
+    "ecosystemFactor": 0.746764,
     "elizaEffect": {
       "miladyNorm": 0,
-      "elizaLifetimePercentile": 0.975577,
-      "ecosystemNorm": 0.746276,
+      "elizaLifetimePercentile": 0.976517,
+      "ecosystemNorm": 0.746764,
       "weights": {
         "milady": 0.45,
         "eliza": 0.35,
         "ecosystem": 0.2
       },
-      "effectNorm": 0.490707,
-      "effectScore": 49.0707
+      "effectNorm": 0.491134,
+      "effectScore": 49.1134
     }
   }
 }

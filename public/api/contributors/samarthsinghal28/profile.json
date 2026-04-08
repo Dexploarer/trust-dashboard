@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-03-27T19:45:19.791Z",
+  "generatedAt": "2026-04-08T22:07:16.709Z",
   "source": "milady-ai/trust-dashboard",
   "username": "Samarthsinghal28",
   "profile": {
@@ -11,7 +11,7 @@
     "eliza": {
       "lifetimeScore": 831.5453,
       "lifetimeRank": 21,
-      "lifetimePercentile": 0.986431,
+      "lifetimePercentile": 0.986954,
       "weeklyRank": null,
       "monthlyRank": null,
       "characterClass": "Builder",
@@ -33,21 +33,21 @@
             "score": 375,
             "percentage": 51.80989223542415,
             "rank": 16,
-            "totalInArea": 689
+            "totalInArea": 701
           },
           {
             "tag": "core",
             "score": 155,
             "percentage": 21.414755457308647,
             "rank": 16,
-            "totalInArea": 308
+            "totalInArea": 310
           },
           {
             "tag": "tests",
             "score": 114,
             "percentage": 15.750207239568939,
             "rank": 12,
-            "totalInArea": 181
+            "totalInArea": 186
           }
         ],
         "achievements": [
@@ -65,18 +65,18 @@
         "wallets": {}
       }
     },
-    "ecosystemFactor": 0.755628,
+    "ecosystemFactor": 0.7559,
     "elizaEffect": {
       "miladyNorm": 0,
-      "elizaLifetimePercentile": 0.986431,
-      "ecosystemNorm": 0.755628,
+      "elizaLifetimePercentile": 0.986954,
+      "ecosystemNorm": 0.7559,
       "weights": {
         "milady": 0.45,
         "eliza": 0.35,
         "ecosystem": 0.2
       },
-      "effectNorm": 0.496377,
-      "effectScore": 49.6377
+      "effectNorm": 0.496614,
+      "effectScore": 49.6614
     }
   }
 }

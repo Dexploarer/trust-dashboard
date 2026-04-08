@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-03-27T19:45:19.791Z",
+  "generatedAt": "2026-04-08T22:07:16.709Z",
   "source": "milady-ai/trust-dashboard",
   "username": "oxSaturn",
   "profile": {
@@ -10,14 +10,14 @@
     "milady": null,
     "eliza": {
       "lifetimeScore": 576.9695,
-      "lifetimeRank": 32,
-      "lifetimePercentile": 0.978969,
+      "lifetimeRank": 33,
+      "lifetimePercentile": 0.979126,
       "weeklyRank": null,
       "monthlyRank": null,
       "characterClass": "Builder",
       "tier": "veteran",
       "entry": {
-        "rank": 32,
+        "rank": 33,
         "username": "oxSaturn",
         "avatarUrl": "https://avatars.githubusercontent.com/u/126733611?v=4",
         "characterClass": "Builder",
@@ -33,21 +33,21 @@
             "score": 37.5,
             "percentage": 24.03846153846154,
             "rank": 56,
-            "totalInArea": 308
+            "totalInArea": 310
           },
           {
             "tag": "typescript",
             "score": 25.5,
             "percentage": 16.346153846153847,
-            "rank": 166,
-            "totalInArea": 689
+            "rank": 169,
+            "totalInArea": 701
           },
           {
             "tag": "maintainer",
             "score": 22,
             "percentage": 14.102564102564102,
             "rank": 18,
-            "totalInArea": 290
+            "totalInArea": 295
           }
         ],
         "achievements": [
@@ -70,18 +70,18 @@
         "wallets": {}
       }
     },
-    "ecosystemFactor": 0.746371,
+    "ecosystemFactor": 0.746452,
     "elizaEffect": {
       "miladyNorm": 0,
-      "elizaLifetimePercentile": 0.978969,
-      "ecosystemNorm": 0.746371,
+      "elizaLifetimePercentile": 0.979126,
+      "ecosystemNorm": 0.746452,
       "weights": {
         "milady": 0.45,
         "eliza": 0.35,
         "ecosystem": 0.2
       },
-      "effectNorm": 0.491913,
-      "effectScore": 49.1913
+      "effectNorm": 0.491985,
+      "effectScore": 49.1985
     }
   }
 }

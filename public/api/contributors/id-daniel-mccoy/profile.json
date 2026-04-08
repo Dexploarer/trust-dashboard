@@ -1,0 +1,30 @@
+{
+  "version": "1.0",
+  "generatedAt": "2026-04-08T22:07:16.709Z",
+  "source": "milady-ai/trust-dashboard",
+  "username": "id-daniel-mccoy",
+  "profile": {
+    "username": "id-daniel-mccoy",
+    "canonicalUsername": "id-daniel-mccoy",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/86984714?v=4",
+    "milady": {
+      "trustScore": 22.85,
+      "rank": 47,
+      "tier": "untested"
+    },
+    "eliza": null,
+    "ecosystemFactor": 0,
+    "elizaEffect": {
+      "miladyNorm": 0.2285,
+      "elizaLifetimePercentile": 0,
+      "ecosystemNorm": 0,
+      "weights": {
+        "milady": 0.45,
+        "eliza": 0.35,
+        "ecosystem": 0.2
+      },
+      "effectNorm": 0.102825,
+      "effectScore": 10.2825
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-03-27T19:45:19.791Z",
+  "generatedAt": "2026-04-08T22:07:16.709Z",
   "source": "milady-ai/trust-dashboard",
   "username": "MarcoMandar",
   "profile": {
@@ -10,14 +10,14 @@
     "milady": null,
     "eliza": {
       "lifetimeScore": 705.589,
-      "lifetimeRank": 24,
-      "lifetimePercentile": 0.984396,
+      "lifetimeRank": 25,
+      "lifetimePercentile": 0.984344,
       "weeklyRank": null,
       "monthlyRank": null,
       "characterClass": "Builder",
       "tier": "veteran",
       "entry": {
-        "rank": 24,
+        "rank": 25,
         "username": "MarcoMandar",
         "avatarUrl": "https://avatars.githubusercontent.com/u/70625671?u=88aeaa8b5ed43a818bdac96843f2fd40c0abf8ff&v=4",
         "characterClass": "Builder",
@@ -33,21 +33,21 @@
             "score": 127.5,
             "percentage": 37.031658437409234,
             "rank": 31,
-            "totalInArea": 689
+            "totalInArea": 701
           },
           {
             "tag": "core",
             "score": 100,
             "percentage": 29.044437990124887,
             "rank": 25,
-            "totalInArea": 308
+            "totalInArea": 310
           },
           {
             "tag": "tests",
             "score": 66,
             "percentage": 19.169329073482427,
             "rank": 20,
-            "totalInArea": 181
+            "totalInArea": 186
           }
         ],
         "achievements": [
@@ -60,18 +60,18 @@
         "wallets": {}
       }
     },
-    "ecosystemFactor": 0.756535,
+    "ecosystemFactor": 0.756508,
     "elizaEffect": {
       "miladyNorm": 0,
-      "elizaLifetimePercentile": 0.984396,
-      "ecosystemNorm": 0.756535,
+      "elizaLifetimePercentile": 0.984344,
+      "ecosystemNorm": 0.756508,
       "weights": {
         "milady": 0.45,
         "eliza": 0.35,
         "ecosystem": 0.2
       },
-      "effectNorm": 0.495846,
-      "effectScore": 49.5846
+      "effectNorm": 0.495822,
+      "effectScore": 49.5822
     }
   }
 }

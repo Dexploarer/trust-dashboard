@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-03-27T19:45:19.791Z",
+  "generatedAt": "2026-04-08T22:07:16.709Z",
   "source": "milady-ai/trust-dashboard",
   "username": "BlockEater96",
   "profile": {
@@ -10,14 +10,14 @@
     "milady": null,
     "eliza": {
       "lifetimeScore": 233.2379,
-      "lifetimeRank": 69,
-      "lifetimePercentile": 0.953867,
+      "lifetimeRank": 70,
+      "lifetimePercentile": 0.95499,
       "weeklyRank": null,
       "monthlyRank": null,
       "characterClass": "Builder",
       "tier": "active",
       "entry": {
-        "rank": 69,
+        "rank": 70,
         "username": "BlockEater96",
         "avatarUrl": "https://avatars.githubusercontent.com/u/118160391?u=3db56a43699cba85cd31f6e151973d0658776a73&v=4",
         "characterClass": "Builder",
@@ -33,38 +33,38 @@
             "score": 219,
             "percentage": 81.35215453194651,
             "rank": 22,
-            "totalInArea": 689
+            "totalInArea": 701
           },
           {
             "tag": "database",
             "score": 25.499999999999993,
             "percentage": 9.472511144130756,
             "rank": 21,
-            "totalInArea": 158
+            "totalInArea": 163
           },
           {
             "tag": "docs",
             "score": 13.5,
             "percentage": 5.014858841010401,
-            "rank": 114,
-            "totalInArea": 581
+            "rank": 115,
+            "totalInArea": 593
           }
         ],
         "wallets": {}
       }
     },
-    "ecosystemFactor": 0.741425,
+    "ecosystemFactor": 0.742009,
     "elizaEffect": {
       "miladyNorm": 0,
-      "elizaLifetimePercentile": 0.953867,
-      "ecosystemNorm": 0.741425,
+      "elizaLifetimePercentile": 0.95499,
+      "ecosystemNorm": 0.742009,
       "weights": {
         "milady": 0.45,
         "eliza": 0.35,
         "ecosystem": 0.2
       },
-      "effectNorm": 0.482138,
-      "effectScore": 48.2138
+      "effectNorm": 0.482648,
+      "effectScore": 48.2648
     }
   }
 }

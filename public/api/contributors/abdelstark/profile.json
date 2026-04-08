@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-03-27T19:45:19.791Z",
+  "generatedAt": "2026-04-08T22:07:16.709Z",
   "source": "milady-ai/trust-dashboard",
   "username": "AbdelStark",
   "profile": {
@@ -10,14 +10,14 @@
     "milady": null,
     "eliza": {
       "lifetimeScore": 182.9917,
-      "lifetimeRank": 94,
-      "lifetimePercentile": 0.936906,
+      "lifetimeRank": 96,
+      "lifetimePercentile": 0.93803,
       "weeklyRank": null,
       "monthlyRank": null,
       "characterClass": "Builder",
       "tier": "regular",
       "entry": {
-        "rank": 94,
+        "rank": 96,
         "username": "AbdelStark",
         "avatarUrl": "https://avatars.githubusercontent.com/u/45264458?u=6ea3a3cec4fd224af9afe756466df041687486a2&v=4",
         "characterClass": "Builder",
@@ -33,38 +33,38 @@
             "score": 81,
             "percentage": 53.11475409836065,
             "rank": 50,
-            "totalInArea": 689
+            "totalInArea": 701
           },
           {
             "tag": "core",
             "score": 25,
             "percentage": 16.39344262295082,
-            "rank": 87,
-            "totalInArea": 308
+            "rank": 88,
+            "totalInArea": 310
           },
           {
             "tag": "docs",
             "score": 18,
             "percentage": 11.80327868852459,
             "rank": 91,
-            "totalInArea": 581
+            "totalInArea": 593
           }
         ],
         "wallets": {}
       }
     },
-    "ecosystemFactor": 0.730083,
+    "ecosystemFactor": 0.730667,
     "elizaEffect": {
       "miladyNorm": 0,
-      "elizaLifetimePercentile": 0.936906,
-      "ecosystemNorm": 0.730083,
+      "elizaLifetimePercentile": 0.93803,
+      "ecosystemNorm": 0.730667,
       "weights": {
         "milady": 0.45,
         "eliza": 0.35,
         "ecosystem": 0.2
       },
-      "effectNorm": 0.473934,
-      "effectScore": 47.3934
+      "effectNorm": 0.474444,
+      "effectScore": 47.4444
     }
   }
 }

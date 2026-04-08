@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-03-27T19:45:19.791Z",
+  "generatedAt": "2026-04-08T22:07:16.709Z",
   "source": "milady-ai/trust-dashboard",
   "username": "0xCardinalError",
   "profile": {
@@ -11,7 +11,7 @@
     "eliza": {
       "lifetimeScore": 435.5937,
       "lifetimeRank": 38,
-      "lifetimePercentile": 0.974898,
+      "lifetimePercentile": 0.975864,
       "weeklyRank": null,
       "monthlyRank": null,
       "characterClass": "Builder",
@@ -33,21 +33,21 @@
             "score": 79.5,
             "percentage": 49.625468164794015,
             "rank": 52,
-            "totalInArea": 689
+            "totalInArea": 701
           },
           {
             "tag": "architect",
             "score": 17.5,
             "percentage": 10.923845193508114,
             "rank": 20,
-            "totalInArea": 353
+            "totalInArea": 366
           },
           {
             "tag": "feature-dev",
             "score": 14,
             "percentage": 8.739076154806492,
             "rank": 20,
-            "totalInArea": 349
+            "totalInArea": 362
           }
         ],
         "achievements": [
@@ -60,18 +60,18 @@
         "wallets": {}
       }
     },
-    "ecosystemFactor": 0.749888,
+    "ecosystemFactor": 0.750391,
     "elizaEffect": {
       "miladyNorm": 0,
-      "elizaLifetimePercentile": 0.974898,
-      "ecosystemNorm": 0.749888,
+      "elizaLifetimePercentile": 0.975864,
+      "ecosystemNorm": 0.750391,
       "weights": {
         "milady": 0.45,
         "eliza": 0.35,
         "ecosystem": 0.2
       },
-      "effectNorm": 0.491192,
-      "effectScore": 49.1192
+      "effectNorm": 0.491631,
+      "effectScore": 49.1631
     }
   }
 }

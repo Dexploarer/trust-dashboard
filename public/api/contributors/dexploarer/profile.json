@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-03-27T19:45:19.791Z",
+  "generatedAt": "2026-04-08T22:07:16.709Z",
   "source": "milady-ai/trust-dashboard",
   "username": "Dexploarer",
   "profile": {
@@ -9,25 +9,25 @@
     "avatarUrl": "https://avatars.githubusercontent.com/u/211557447?v=4",
     "milady": {
       "trustScore": 35,
-      "rank": 36,
+      "rank": 32,
       "tier": "probationary"
     },
     "eliza": {
-      "lifetimeScore": 359.7644,
-      "lifetimeRank": 44,
-      "lifetimePercentile": 0.970828,
+      "lifetimeScore": 398.9388,
+      "lifetimeRank": 41,
+      "lifetimePercentile": 0.973907,
       "weeklyRank": null,
-      "monthlyRank": null,
+      "monthlyRank": 8,
       "characterClass": "Builder",
       "tier": "active",
       "entry": {
-        "rank": 44,
+        "rank": 41,
         "username": "Dexploarer",
         "avatarUrl": "https://avatars.githubusercontent.com/u/211557447?u=21a243d61cc1f87574328ae07fc64d7d7577b53d&v=4",
         "characterClass": "Builder",
         "tier": "active",
-        "score": 359.7644337307488,
-        "prScore": 350.5644337307488,
+        "score": 398.938764975634,
+        "prScore": 389.73876497563396,
         "issueScore": 0,
         "reviewScore": 9,
         "commentScore": 0.2,
@@ -35,23 +35,23 @@
           {
             "tag": "core",
             "score": 170,
-            "percentage": 31.35374400590188,
+            "percentage": 31.095664898481797,
             "rank": 15,
-            "totalInArea": 308
+            "totalInArea": 310
           },
           {
             "tag": "typescript",
             "score": 168,
-            "percentage": 30.984876429361858,
+            "percentage": 30.72983354673495,
             "rank": 26,
-            "totalInArea": 689
+            "totalInArea": 701
           },
           {
             "tag": "docs",
             "score": 76.5,
-            "percentage": 14.109184802655845,
+            "percentage": 13.99304920431681,
             "rank": 45,
-            "totalInArea": 581
+            "totalInArea": 593
           }
         ],
         "achievements": [
@@ -67,18 +67,18 @@
         }
       }
     },
-    "ecosystemFactor": 0.748454,
+    "ecosystemFactor": 0.750261,
     "elizaEffect": {
       "miladyNorm": 0.35,
-      "elizaLifetimePercentile": 0.970828,
-      "ecosystemNorm": 0.748454,
+      "elizaLifetimePercentile": 0.973907,
+      "ecosystemNorm": 0.750261,
       "weights": {
         "milady": 0.45,
         "eliza": 0.35,
         "ecosystem": 0.2
       },
-      "effectNorm": 0.646981,
-      "effectScore": 64.6981
+      "effectNorm": 0.64842,
+      "effectScore": 64.842
     }
   }
 }

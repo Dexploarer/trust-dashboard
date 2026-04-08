@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-03-27T19:45:19.791Z",
+  "generatedAt": "2026-04-08T22:07:16.709Z",
   "source": "milady-ai/trust-dashboard",
   "username": "cygaar",
   "profile": {
@@ -11,7 +11,7 @@
     "eliza": {
       "lifetimeScore": 1226.6489,
       "lifetimeRank": 16,
-      "lifetimePercentile": 0.989824,
+      "lifetimePercentile": 0.990215,
       "weeklyRank": null,
       "monthlyRank": null,
       "characterClass": "Builder",
@@ -33,21 +33,21 @@
             "score": 105,
             "percentage": 23.20954907161804,
             "rank": 23,
-            "totalInArea": 308
+            "totalInArea": 310
           },
           {
             "tag": "typescript",
             "score": 100.5,
             "percentage": 22.214854111405838,
             "rank": 42,
-            "totalInArea": 689
+            "totalInArea": 701
           },
           {
             "tag": "bug-fixer",
             "score": 48.40000000000001,
             "percentage": 10.69849690539346,
             "rank": 12,
-            "totalInArea": 227
+            "totalInArea": 230
           }
         ],
         "achievements": [
@@ -65,18 +65,18 @@
         "wallets": {}
       }
     },
-    "ecosystemFactor": 0.755094,
+    "ecosystemFactor": 0.755298,
     "elizaEffect": {
       "miladyNorm": 0,
-      "elizaLifetimePercentile": 0.989824,
-      "ecosystemNorm": 0.755094,
+      "elizaLifetimePercentile": 0.990215,
+      "ecosystemNorm": 0.755298,
       "weights": {
         "milady": 0.45,
         "eliza": 0.35,
         "ecosystem": 0.2
       },
-      "effectNorm": 0.497457,
-      "effectScore": 49.7457
+      "effectNorm": 0.497635,
+      "effectScore": 49.7635
     }
   }
 }

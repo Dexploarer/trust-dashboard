@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-03-27T19:45:19.791Z",
+  "generatedAt": "2026-04-08T22:07:16.709Z",
   "source": "milady-ai/trust-dashboard",
   "username": "hishboy",
   "profile": {
@@ -10,14 +10,14 @@
     "milady": null,
     "eliza": {
       "lifetimeScore": 199.7534,
-      "lifetimeRank": 84,
-      "lifetimePercentile": 0.943691,
+      "lifetimeRank": 85,
+      "lifetimePercentile": 0.945205,
       "weeklyRank": null,
       "monthlyRank": null,
       "characterClass": "Builder",
       "tier": "regular",
       "entry": {
-        "rank": 84,
+        "rank": 85,
         "username": "hishboy",
         "avatarUrl": "https://avatars.githubusercontent.com/u/340982?u=3201dbd7bc2c194744a093db20c0c35c7afc96d4&v=4",
         "characterClass": "Builder",
@@ -33,21 +33,21 @@
             "score": 57,
             "percentage": 48.63481228668942,
             "rank": 79,
-            "totalInArea": 689
+            "totalInArea": 701
           },
           {
             "tag": "core",
             "score": 35,
             "percentage": 29.86348122866894,
             "rank": 58,
-            "totalInArea": 308
+            "totalInArea": 310
           },
           {
             "tag": "tests",
             "score": 18,
             "percentage": 15.358361774744028,
-            "rank": 47,
-            "totalInArea": 181
+            "rank": 48,
+            "totalInArea": 186
           }
         ],
         "achievements": [
@@ -60,18 +60,18 @@
         "wallets": {}
       }
     },
-    "ecosystemFactor": 0.73412,
+    "ecosystemFactor": 0.734908,
     "elizaEffect": {
       "miladyNorm": 0,
-      "elizaLifetimePercentile": 0.943691,
-      "ecosystemNorm": 0.73412,
+      "elizaLifetimePercentile": 0.945205,
+      "ecosystemNorm": 0.734908,
       "weights": {
         "milady": 0.45,
         "eliza": 0.35,
         "ecosystem": 0.2
       },
-      "effectNorm": 0.477116,
-      "effectScore": 47.7116
+      "effectNorm": 0.477803,
+      "effectScore": 47.7803
     }
   }
 }

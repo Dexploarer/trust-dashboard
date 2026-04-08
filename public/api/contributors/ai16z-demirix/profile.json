@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-03-27T19:45:19.791Z",
+  "generatedAt": "2026-04-08T22:07:16.709Z",
   "source": "milady-ai/trust-dashboard",
   "username": "ai16z-demirix",
   "profile": {
@@ -11,7 +11,7 @@
     "eliza": {
       "lifetimeScore": 3177.3724,
       "lifetimeRank": 12,
-      "lifetimePercentile": 0.992537,
+      "lifetimePercentile": 0.992825,
       "weeklyRank": null,
       "monthlyRank": null,
       "characterClass": "Builder",
@@ -32,22 +32,22 @@
             "tag": "tests",
             "score": 432,
             "percentage": 29.1497975708502,
-            "rank": 6,
-            "totalInArea": 181
+            "rank": 7,
+            "totalInArea": 186
           },
           {
             "tag": "typescript",
             "score": 420,
             "percentage": 28.34008097165992,
             "rank": 15,
-            "totalInArea": 689
+            "totalInArea": 701
           },
           {
             "tag": "core",
             "score": 365,
             "percentage": 24.628879892037787,
             "rank": 10,
-            "totalInArea": 308
+            "totalInArea": 310
           }
         ],
         "achievements": [
@@ -80,18 +80,18 @@
         "wallets": {}
       }
     },
-    "ecosystemFactor": 0.753475,
+    "ecosystemFactor": 0.753625,
     "elizaEffect": {
       "miladyNorm": 0,
-      "elizaLifetimePercentile": 0.992537,
-      "ecosystemNorm": 0.753475,
+      "elizaLifetimePercentile": 0.992825,
+      "ecosystemNorm": 0.753625,
       "weights": {
         "milady": 0.45,
         "eliza": 0.35,
         "ecosystem": 0.2
       },
-      "effectNorm": 0.498083,
-      "effectScore": 49.8083
+      "effectNorm": 0.498214,
+      "effectScore": 49.8214
     }
   }
 }

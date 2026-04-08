@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-03-27T19:45:19.791Z",
+  "generatedAt": "2026-04-08T22:07:16.709Z",
   "source": "milady-ai/trust-dashboard",
   "username": "HarshModi2005",
   "profile": {
@@ -11,7 +11,7 @@
     "eliza": {
       "lifetimeScore": 940.3904,
       "lifetimeRank": 20,
-      "lifetimePercentile": 0.98711,
+      "lifetimePercentile": 0.987606,
       "weeklyRank": null,
       "monthlyRank": null,
       "characterClass": "Builder",
@@ -33,21 +33,21 @@
             "score": 519,
             "percentage": 42.58286839514277,
             "rank": 12,
-            "totalInArea": 689
+            "totalInArea": 701
           },
           {
             "tag": "tests",
             "score": 322,
             "percentage": 26.41942894650476,
             "rank": 9,
-            "totalInArea": 181
+            "totalInArea": 186
           },
           {
             "tag": "infra",
             "score": 93.59999999999991,
             "percentage": 7.679684936002619,
-            "rank": 19,
-            "totalInArea": 375
+            "rank": 22,
+            "totalInArea": 382
           }
         ],
         "achievements": [
@@ -70,18 +70,18 @@
         "wallets": {}
       }
     },
-    "ecosystemFactor": 0.751985,
+    "ecosystemFactor": 0.752243,
     "elizaEffect": {
       "miladyNorm": 0,
-      "elizaLifetimePercentile": 0.98711,
-      "ecosystemNorm": 0.751985,
+      "elizaLifetimePercentile": 0.987606,
+      "ecosystemNorm": 0.752243,
       "weights": {
         "milady": 0.45,
         "eliza": 0.35,
         "ecosystem": 0.2
       },
-      "effectNorm": 0.495885,
-      "effectScore": 49.5885
+      "effectNorm": 0.496111,
+      "effectScore": 49.6111
     }
   }
 }

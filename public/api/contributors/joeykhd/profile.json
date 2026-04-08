@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-03-27T19:45:19.791Z",
+  "generatedAt": "2026-04-08T22:07:16.709Z",
   "source": "milady-ai/trust-dashboard",
   "username": "JoeyKhd",
   "profile": {
@@ -11,7 +11,7 @@
     "eliza": {
       "lifetimeScore": 355.2493,
       "lifetimeRank": 47,
-      "lifetimePercentile": 0.968792,
+      "lifetimePercentile": 0.969993,
       "weeklyRank": null,
       "monthlyRank": null,
       "characterClass": "Builder",
@@ -33,21 +33,21 @@
             "score": 151.5,
             "percentage": 30.956272987331428,
             "rank": 28,
-            "totalInArea": 689
+            "totalInArea": 701
           },
           {
             "tag": "ui",
             "score": 116.99999999999987,
             "percentage": 23.90682468328563,
             "rank": 8,
-            "totalInArea": 67
+            "totalInArea": 69
           },
           {
             "tag": "react",
             "score": 82.60000000000004,
             "percentage": 16.877809562729883,
             "rank": 9,
-            "totalInArea": 73
+            "totalInArea": 76
           }
         ],
         "achievements": [
@@ -60,18 +60,18 @@
         "wallets": {}
       }
     },
-    "ecosystemFactor": 0.744942,
+    "ecosystemFactor": 0.745566,
     "elizaEffect": {
       "miladyNorm": 0,
-      "elizaLifetimePercentile": 0.968792,
-      "ecosystemNorm": 0.744942,
+      "elizaLifetimePercentile": 0.969993,
+      "ecosystemNorm": 0.745566,
       "weights": {
         "milady": 0.45,
         "eliza": 0.35,
         "ecosystem": 0.2
       },
-      "effectNorm": 0.488066,
-      "effectScore": 48.8066
+      "effectNorm": 0.488611,
+      "effectScore": 48.8611
     }
   }
 }

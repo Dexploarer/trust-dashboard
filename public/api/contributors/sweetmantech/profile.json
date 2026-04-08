@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-03-27T19:45:19.791Z",
+  "generatedAt": "2026-04-08T22:07:16.709Z",
   "source": "milady-ai/trust-dashboard",
   "username": "sweetmantech",
   "profile": {
@@ -10,14 +10,14 @@
     "milady": null,
     "eliza": {
       "lifetimeScore": 184.619,
-      "lifetimeRank": 92,
-      "lifetimePercentile": 0.938263,
+      "lifetimeRank": 94,
+      "lifetimePercentile": 0.939335,
       "weeklyRank": null,
       "monthlyRank": null,
       "characterClass": "Builder",
       "tier": "regular",
       "entry": {
-        "rank": 92,
+        "rank": 94,
         "username": "sweetmantech",
         "avatarUrl": "https://avatars.githubusercontent.com/u/23249402?u=724d25cb47efbb540eebee32d8ff8fab744e81a0&v=4",
         "characterClass": "Builder",
@@ -32,39 +32,39 @@
             "tag": "typescript",
             "score": 22.5,
             "percentage": 54.08653846153846,
-            "rank": 202,
-            "totalInArea": 689
+            "rank": 205,
+            "totalInArea": 701
           },
           {
             "tag": "docs",
             "score": 9,
             "percentage": 21.634615384615383,
-            "rank": 178,
-            "totalInArea": 581
+            "rank": 180,
+            "totalInArea": 593
           },
           {
             "tag": "infra",
             "score": 3.6,
             "percentage": 8.653846153846153,
-            "rank": 175,
-            "totalInArea": 375
+            "rank": 180,
+            "totalInArea": 382
           }
         ],
         "wallets": {}
       }
     },
-    "ecosystemFactor": 0.721152,
+    "ecosystemFactor": 0.721709,
     "elizaEffect": {
       "miladyNorm": 0,
-      "elizaLifetimePercentile": 0.938263,
-      "ecosystemNorm": 0.721152,
+      "elizaLifetimePercentile": 0.939335,
+      "ecosystemNorm": 0.721709,
       "weights": {
         "milady": 0.45,
         "eliza": 0.35,
         "ecosystem": 0.2
       },
-      "effectNorm": 0.472623,
-      "effectScore": 47.2623
+      "effectNorm": 0.473109,
+      "effectScore": 47.3109
     }
   }
 }

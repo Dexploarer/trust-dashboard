@@ -2,13 +2,74 @@
   "version": "1.0",
   "source": "elizaos.github.io",
   "period": "weekly",
-  "generatedAt": "2026-02-22T23:22:46.780Z",
-  "totalUsers": 4,
+  "generatedAt": "2026-04-08T21:19:49.882Z",
+  "totalUsers": 10,
   "leaderboard": [
     {
       "rank": 1,
-      "username": "standujar",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/16385918?u=718bdcd1585be8447bdfffb8c11ce249baa7532d&v=4",
+      "username": "odilitime",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/16395496?u=c9bac48e632aae594a0d85aaf9e9c9c69b674d8b&v=4",
+      "characterClass": "Contributor",
+      "tier": "beginner",
+      "score": 45,
+      "prScore": 0,
+      "issueScore": 0,
+      "reviewScore": 45,
+      "commentScore": 0,
+      "focusAreas": [
+        {
+          "tag": "typescript",
+          "score": 2163,
+          "percentage": 31.99136248003312,
+          "rank": 6,
+          "totalInArea": 701
+        },
+        {
+          "tag": "docs",
+          "score": 1284,
+          "percentage": 18.990711707980825,
+          "rank": 4,
+          "totalInArea": 593
+        },
+        {
+          "tag": "core",
+          "score": 995,
+          "percentage": 14.716322546293553,
+          "rank": 3,
+          "totalInArea": 310
+        }
+      ],
+      "achievements": [
+        {
+          "type": "level",
+          "tier": "elite",
+          "earnedAt": "2025-10-27T23:09:13.242Z"
+        },
+        {
+          "type": "streak",
+          "tier": "beginner",
+          "earnedAt": "2025-10-27T23:09:13.258Z"
+        },
+        {
+          "type": "pr_master",
+          "tier": "legend",
+          "earnedAt": "2025-10-27T23:09:13.273Z"
+        },
+        {
+          "type": "review_champion",
+          "tier": "legend",
+          "earnedAt": "2025-10-27T23:09:13.289Z"
+        }
+      ],
+      "wallets": {
+        "ethereum": "0x0cD999AB20c2491313c5D294E26e1EA8E8d5aD96",
+        "solana": "59W5HpZu1FFqEHj8Qvkwd9UXb62aQMCt32LD4uarrRsc"
+      }
+    },
+    {
+      "rank": 2,
+      "username": "NubsCarson",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/192162056?u=d2be9082dbee60fcbad21d32bf6e662ab1af3674&v=4",
       "characterClass": "Builder",
       "tier": "beginner",
       "score": 43.5437738965761,
@@ -19,89 +80,98 @@
       "focusAreas": [
         {
           "tag": "typescript",
-          "score": 2385,
-          "percentage": 38.86643634704387,
-          "rank": 3,
-          "totalInArea": 689
-        },
-        {
-          "tag": "core",
-          "score": 920,
-          "percentage": 14.99250374812594,
-          "rank": 6,
-          "totalInArea": 308
+          "score": 39,
+          "percentage": 46.15384615384615,
+          "rank": 120,
+          "totalInArea": 701
         },
         {
           "tag": "tests",
-          "score": 816,
-          "percentage": 13.29769897659866,
-          "rank": 2,
-          "totalInArea": 181
-        }
-      ],
-      "achievements": [
-        {
-          "type": "level",
-          "tier": "elite",
-          "earnedAt": "2025-12-03T23:10:09.371Z"
+          "score": 20,
+          "percentage": 23.668639053254438,
+          "rank": 47,
+          "totalInArea": 186
         },
-        {
-          "type": "streak",
-          "tier": "beginner",
-          "earnedAt": "2025-10-27T23:09:22.180Z"
-        },
-        {
-          "type": "pr_master",
-          "tier": "legend",
-          "earnedAt": "2026-02-06T23:14:21.153Z"
-        },
-        {
-          "type": "bug_hunter",
-          "tier": "beginner",
-          "earnedAt": "2025-10-27T23:09:22.226Z"
-        },
-        {
-          "type": "review_champion",
-          "tier": "elite",
-          "earnedAt": "2025-12-18T23:11:26.879Z"
-        }
-      ],
-      "wallets": {
-        "ethereum": "0xf1d1CC42C3Cc1eE1A42D9eCbBa55E1C8cb4E1F04",
-        "solana": "F6z7JdDQH6Yo7bopZegyKqzPnti4QfrVut6oacGsR2a3"
-      }
-    },
-    {
-      "rank": 2,
-      "username": "agentfirstlabs",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/263147801?v=4",
-      "characterClass": "Scribe",
-      "tier": "beginner",
-      "score": 14.397598690831078,
-      "prScore": 14.397598690831078,
-      "issueScore": 0,
-      "reviewScore": 0,
-      "commentScore": 0,
-      "focusAreas": [
         {
           "tag": "docs",
-          "score": 3,
-          "percentage": 71.42857142857143,
-          "rank": 555,
-          "totalInArea": 581
-        },
-        {
-          "tag": "docs-writer",
-          "score": 1.2,
-          "percentage": 28.57142857142857,
-          "rank": 116,
-          "totalInArea": 116
+          "score": 9,
+          "percentage": 10.650887573964498,
+          "rank": 185,
+          "totalInArea": 593
         }
       ],
       "wallets": {}
     },
     {
       "rank": 3,
+      "username": "dutchiono",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/86275975?u=0d8badaa81aa47682651f87dc2d363837876de98&v=4",
+      "characterClass": "Builder",
+      "tier": "beginner",
+      "score": 37.974773896576096,
+      "prScore": 37.974773896576096,
+      "issueScore": 0,
+      "reviewScore": 0,
+      "commentScore": 0,
+      "focusAreas": [
+        {
+          "tag": "bug-fixer",
+          "score": 2.2,
+          "percentage": 52.38095238095239,
+          "rank": 230,
+          "totalInArea": 230
+        },
+        {
+          "tag": "maintainer",
+          "score": 2,
+          "percentage": 47.61904761904761,
+          "rank": 295,
+          "totalInArea": 295
+        }
+      ],
+      "wallets": {}
+    },
+    {
+      "rank": 4,
+      "username": "hypeprinter007-stack",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/270686917?v=4",
+      "characterClass": "Builder",
+      "tier": "beginner",
+      "score": 14.893147180559945,
+      "prScore": 14.693147180559945,
+      "issueScore": 0,
+      "reviewScore": 0,
+      "commentScore": 0.2,
+      "wallets": {}
+    },
+    {
+      "rank": 5,
+      "username": "razz-games",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/251272822?v=4",
+      "characterClass": "Builder",
+      "tier": "beginner",
+      "score": 14.693147180559945,
+      "prScore": 14.693147180559945,
+      "issueScore": 0,
+      "reviewScore": 0,
+      "commentScore": 0,
+      "wallets": {}
+    },
+    {
+      "rank": 6,
+      "username": "LamboPoewert",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/91011698?u=a8b0456dbd9d3e15b0fee96b4cf2813a5e15022c&v=4",
+      "characterClass": "Builder",
+      "tier": "beginner",
+      "score": 14.346573590279972,
+      "prScore": 14.346573590279972,
+      "issueScore": 0,
+      "reviewScore": 0,
+      "commentScore": 0,
+      "wallets": {}
+    },
+    {
+      "rank": 7,
       "username": "greptile-apps",
       "avatarUrl": "https://avatars.githubusercontent.com/in/867647?v=4",
       "characterClass": "Contributor",
@@ -126,32 +196,42 @@
       "wallets": {}
     },
     {
-      "rank": 4,
-      "username": "buzzbysolcex",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/259807261?v=4",
-      "characterClass": "Contributor",
+      "rank": 8,
+      "username": "loaditoutadmin",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/268400134?v=4",
+      "characterClass": "Hunter",
       "tier": "beginner",
-      "score": 0.2,
+      "score": 2,
       "prScore": 0,
-      "issueScore": 0,
+      "issueScore": 2,
       "reviewScore": 0,
-      "commentScore": 0.2,
-      "focusAreas": [
-        {
-          "tag": "architect",
-          "score": 5,
-          "percentage": 55.55555555555556,
-          "rank": 124,
-          "totalInArea": 353
-        },
-        {
-          "tag": "feature-dev",
-          "score": 4,
-          "percentage": 44.44444444444444,
-          "rank": 119,
-          "totalInArea": 349
-        }
-      ],
+      "commentScore": 0,
+      "wallets": {}
+    },
+    {
+      "rank": 9,
+      "username": "aeoess",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/171286556?u=6c84bd29793495ac607e088d40286cf0c99b35b0&v=4",
+      "characterClass": "Hunter",
+      "tier": "beginner",
+      "score": 2,
+      "prScore": 0,
+      "issueScore": 2,
+      "reviewScore": 0,
+      "commentScore": 0,
+      "wallets": {}
+    },
+    {
+      "rank": 10,
+      "username": "Aigen-Protocol",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/83247083?u=8c9172a589d1dc3ecb7359ec620a0170f68e84e2&v=4",
+      "characterClass": "Hunter",
+      "tier": "beginner",
+      "score": 2,
+      "prScore": 0,
+      "issueScore": 2,
+      "reviewScore": 0,
+      "commentScore": 0,
       "wallets": {}
     }
   ]

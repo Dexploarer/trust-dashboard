@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-03-27T19:45:19.791Z",
+  "generatedAt": "2026-04-08T22:07:16.709Z",
   "source": "milady-ai/trust-dashboard",
   "username": "Ed-Marcavage",
   "profile": {
@@ -10,14 +10,14 @@
     "milady": null,
     "eliza": {
       "lifetimeScore": 223.3783,
-      "lifetimeRank": 73,
-      "lifetimePercentile": 0.951153,
+      "lifetimeRank": 74,
+      "lifetimePercentile": 0.952381,
       "weeklyRank": null,
       "monthlyRank": null,
       "characterClass": "Builder",
       "tier": "active",
       "entry": {
-        "rank": 73,
+        "rank": 74,
         "username": "Ed-Marcavage",
         "avatarUrl": "https://avatars.githubusercontent.com/u/61299527?u=dbf76774d33ff354d160eb800d1020c1521b9c21&v=4",
         "characterClass": "Builder",
@@ -33,38 +33,38 @@
             "score": 64.5,
             "percentage": 47.56637168141593,
             "rank": 67,
-            "totalInArea": 689
+            "totalInArea": 701
           },
           {
             "tag": "docs",
             "score": 42,
             "percentage": 30.973451327433633,
             "rank": 64,
-            "totalInArea": 581
+            "totalInArea": 593
           },
           {
             "tag": "infra",
             "score": 21.600000000000005,
             "percentage": 15.929203539823014,
-            "rank": 52,
-            "totalInArea": 375
+            "rank": 55,
+            "totalInArea": 382
           }
         ],
         "wallets": {}
       }
     },
-    "ecosystemFactor": 0.740314,
+    "ecosystemFactor": 0.740952,
     "elizaEffect": {
       "miladyNorm": 0,
-      "elizaLifetimePercentile": 0.951153,
-      "ecosystemNorm": 0.740314,
+      "elizaLifetimePercentile": 0.952381,
+      "ecosystemNorm": 0.740952,
       "weights": {
         "milady": 0.45,
         "eliza": 0.35,
         "ecosystem": 0.2
       },
-      "effectNorm": 0.480966,
-      "effectScore": 48.0966
+      "effectNorm": 0.481524,
+      "effectScore": 48.1524
     }
   }
 }

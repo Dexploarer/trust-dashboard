@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-03-27T19:45:19.791Z",
+  "generatedAt": "2026-04-08T22:07:16.709Z",
   "source": "milady-ai/trust-dashboard",
   "username": "Cooops",
   "profile": {
@@ -10,14 +10,14 @@
     "milady": null,
     "eliza": {
       "lifetimeScore": 206.9679,
-      "lifetimeRank": 80,
-      "lifetimePercentile": 0.946404,
+      "lifetimeRank": 81,
+      "lifetimePercentile": 0.947815,
       "weeklyRank": null,
       "monthlyRank": null,
       "characterClass": "Builder",
       "tier": "active",
       "entry": {
-        "rank": 80,
+        "rank": 81,
         "username": "Cooops",
         "avatarUrl": "https://avatars.githubusercontent.com/u/24834768?u=91ffca48d202d997110169b04cb074b5353e99d1&v=4",
         "characterClass": "Builder",
@@ -33,38 +33,38 @@
             "score": 226.5,
             "percentage": 53.52079395085065,
             "rank": 21,
-            "totalInArea": 689
+            "totalInArea": 701
           },
           {
             "tag": "core",
             "score": 105,
             "percentage": 24.8109640831758,
             "rank": 22,
-            "totalInArea": 308
+            "totalInArea": 310
           },
           {
             "tag": "tests",
             "score": 50,
             "percentage": 11.814744801512287,
             "rank": 22,
-            "totalInArea": 181
+            "totalInArea": 186
           }
         ],
         "wallets": {}
       }
     },
-    "ecosystemFactor": 0.737319,
+    "ecosystemFactor": 0.738052,
     "elizaEffect": {
       "miladyNorm": 0,
-      "elizaLifetimePercentile": 0.946404,
-      "ecosystemNorm": 0.737319,
+      "elizaLifetimePercentile": 0.947815,
+      "ecosystemNorm": 0.738052,
       "weights": {
         "milady": 0.45,
         "eliza": 0.35,
         "ecosystem": 0.2
       },
-      "effectNorm": 0.478705,
-      "effectScore": 47.8705
+      "effectNorm": 0.479346,
+      "effectScore": 47.9346
     }
   }
 }

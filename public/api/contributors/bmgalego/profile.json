@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-03-27T19:45:19.791Z",
+  "generatedAt": "2026-04-08T22:07:16.709Z",
   "source": "milady-ai/trust-dashboard",
   "username": "bmgalego",
   "profile": {
@@ -11,7 +11,7 @@
     "eliza": {
       "lifetimeScore": 962.7343,
       "lifetimeRank": 19,
-      "lifetimePercentile": 0.987788,
+      "lifetimePercentile": 0.988258,
       "weeklyRank": null,
       "monthlyRank": null,
       "characterClass": "Builder",
@@ -33,21 +33,21 @@
             "score": 220,
             "percentage": 37.23134202064647,
             "rank": 14,
-            "totalInArea": 308
+            "totalInArea": 310
           },
           {
             "tag": "typescript",
             "score": 195,
             "percentage": 33.00050770011846,
             "rank": 23,
-            "totalInArea": 689
+            "totalInArea": 701
           },
           {
             "tag": "bug-fixer",
             "score": 46.20000000000001,
             "percentage": 7.818581824335761,
             "rank": 13,
-            "totalInArea": 227
+            "totalInArea": 230
           }
         ],
         "achievements": [
@@ -65,18 +65,18 @@
         "wallets": {}
       }
     },
-    "ecosystemFactor": 0.756964,
+    "ecosystemFactor": 0.757209,
     "elizaEffect": {
       "miladyNorm": 0,
-      "elizaLifetimePercentile": 0.987788,
-      "ecosystemNorm": 0.756964,
+      "elizaLifetimePercentile": 0.988258,
+      "ecosystemNorm": 0.757209,
       "weights": {
         "milady": 0.45,
         "eliza": 0.35,
         "ecosystem": 0.2
       },
-      "effectNorm": 0.497119,
-      "effectScore": 49.7119
+      "effectNorm": 0.497332,
+      "effectScore": 49.7332
     }
   }
 }

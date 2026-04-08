@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-03-27T19:45:19.791Z",
+  "generatedAt": "2026-04-08T22:07:16.709Z",
   "source": "milady-ai/trust-dashboard",
   "username": "xwxtwd",
   "profile": {
@@ -10,14 +10,14 @@
     "milady": null,
     "eliza": {
       "lifetimeScore": 311.8368,
-      "lifetimeRank": 53,
-      "lifetimePercentile": 0.964722,
+      "lifetimeRank": 54,
+      "lifetimePercentile": 0.965427,
       "weeklyRank": null,
       "monthlyRank": null,
       "characterClass": "Builder",
       "tier": "active",
       "entry": {
-        "rank": 53,
+        "rank": 54,
         "username": "xwxtwd",
         "avatarUrl": "https://avatars.githubusercontent.com/u/3345621?u=b4ca21dd3ff0961c42a12fb15574e3bdfb779bea&v=4",
         "characterClass": "Builder",
@@ -33,21 +33,21 @@
             "score": 60,
             "percentage": 53.71530886302595,
             "rank": 72,
-            "totalInArea": 689
+            "totalInArea": 701
           },
           {
             "tag": "core",
             "score": 20,
             "percentage": 17.905102954341988,
-            "rank": 115,
-            "totalInArea": 308
+            "rank": 116,
+            "totalInArea": 310
           },
           {
             "tag": "architect",
             "score": 12.5,
             "percentage": 11.190689346463742,
-            "rank": 31,
-            "totalInArea": 353
+            "rank": 32,
+            "totalInArea": 366
           }
         ],
         "achievements": [
@@ -68,18 +68,18 @@
         }
       }
     },
-    "ecosystemFactor": 0.733875,
+    "ecosystemFactor": 0.734242,
     "elizaEffect": {
       "miladyNorm": 0,
-      "elizaLifetimePercentile": 0.964722,
-      "ecosystemNorm": 0.733875,
+      "elizaLifetimePercentile": 0.965427,
+      "ecosystemNorm": 0.734242,
       "weights": {
         "milady": 0.45,
         "eliza": 0.35,
         "ecosystem": 0.2
       },
-      "effectNorm": 0.484428,
-      "effectScore": 48.4428
+      "effectNorm": 0.484748,
+      "effectScore": 48.4748
     }
   }
 }

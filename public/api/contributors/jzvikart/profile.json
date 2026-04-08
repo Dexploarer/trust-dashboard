@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-03-27T19:45:19.791Z",
+  "generatedAt": "2026-04-08T22:07:16.709Z",
   "source": "milady-ai/trust-dashboard",
   "username": "jzvikart",
   "profile": {
@@ -10,14 +10,14 @@
     "milady": null,
     "eliza": {
       "lifetimeScore": 191.4194,
-      "lifetimeRank": 89,
-      "lifetimePercentile": 0.940299,
+      "lifetimeRank": 90,
+      "lifetimePercentile": 0.941944,
       "weeklyRank": null,
       "monthlyRank": null,
       "characterClass": "Scribe",
       "tier": "regular",
       "entry": {
-        "rank": 89,
+        "rank": 90,
         "username": "jzvikart",
         "avatarUrl": "https://avatars.githubusercontent.com/u/7929905?u=d54ea7bb2ef0bc7fae6f010f70decfaa559cbc30&v=4",
         "characterClass": "Scribe",
@@ -33,38 +33,38 @@
             "score": 124.5,
             "percentage": 52.82138311412812,
             "rank": 28,
-            "totalInArea": 581
+            "totalInArea": 593
           },
           {
             "tag": "api",
             "score": 54.40000000000003,
             "percentage": 23.080186677980493,
             "rank": 25,
-            "totalInArea": 194
+            "totalInArea": 198
           },
           {
             "tag": "infra",
             "score": 25.200000000000006,
             "percentage": 10.69155706406449,
-            "rank": 47,
-            "totalInArea": 375
+            "rank": 50,
+            "totalInArea": 382
           }
         ],
         "wallets": {}
       }
     },
-    "ecosystemFactor": 0.723916,
+    "ecosystemFactor": 0.724772,
     "elizaEffect": {
       "miladyNorm": 0,
-      "elizaLifetimePercentile": 0.940299,
-      "ecosystemNorm": 0.723916,
+      "elizaLifetimePercentile": 0.941944,
+      "ecosystemNorm": 0.724772,
       "weights": {
         "milady": 0.45,
         "eliza": 0.35,
         "ecosystem": 0.2
       },
-      "effectNorm": 0.473888,
-      "effectScore": 47.3888
+      "effectNorm": 0.474635,
+      "effectScore": 47.4635
     }
   }
 }

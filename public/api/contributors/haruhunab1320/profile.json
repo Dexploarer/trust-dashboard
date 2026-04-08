@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-03-27T19:45:19.791Z",
+  "generatedAt": "2026-04-08T22:07:16.709Z",
   "source": "milady-ai/trust-dashboard",
   "username": "HaruHunab1320",
   "profile": {
@@ -9,22 +9,73 @@
     "avatarUrl": "https://avatars.githubusercontent.com/u/51176775?v=4",
     "milady": {
       "trustScore": 100,
-      "rank": 1,
+      "rank": 2,
       "tier": "legendary"
     },
-    "eliza": null,
-    "ecosystemFactor": 0,
+    "eliza": {
+      "lifetimeScore": 339.0918,
+      "lifetimeRank": 50,
+      "lifetimePercentile": 0.968037,
+      "weeklyRank": null,
+      "monthlyRank": null,
+      "characterClass": "Builder",
+      "tier": "active",
+      "entry": {
+        "rank": 50,
+        "username": "HaruHunab1320",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/51176775?u=e51de0edfe50f67a1a5dca3bf3fa3053811dfb7e&v=4",
+        "characterClass": "Builder",
+        "tier": "active",
+        "score": 339.09177757610155,
+        "prScore": 338.55177757610153,
+        "issueScore": 0,
+        "reviewScore": 0,
+        "commentScore": 0.54,
+        "focusAreas": [
+          {
+            "tag": "infra",
+            "score": 18.000000000000004,
+            "percentage": 39.215686274509814,
+            "rank": 60,
+            "totalInArea": 382
+          },
+          {
+            "tag": "typescript",
+            "score": 13.5,
+            "percentage": 29.411764705882355,
+            "rank": 326,
+            "totalInArea": 701
+          },
+          {
+            "tag": "tests",
+            "score": 6,
+            "percentage": 13.071895424836603,
+            "rank": 97,
+            "totalInArea": 186
+          }
+        ],
+        "achievements": [
+          {
+            "type": "pr_master",
+            "tier": "beginner",
+            "earnedAt": "2026-03-29T23:22:17.831Z"
+          }
+        ],
+        "wallets": {}
+      }
+    },
+    "ecosystemFactor": 0.748838,
     "elizaEffect": {
       "miladyNorm": 1,
-      "elizaLifetimePercentile": 0,
-      "ecosystemNorm": 0,
+      "elizaLifetimePercentile": 0.968037,
+      "ecosystemNorm": 0.748838,
       "weights": {
         "milady": 0.45,
         "eliza": 0.35,
         "ecosystem": 0.2
       },
-      "effectNorm": 0.45,
-      "effectScore": 45
+      "effectNorm": 0.93858,
+      "effectScore": 93.858
     }
   }
 }

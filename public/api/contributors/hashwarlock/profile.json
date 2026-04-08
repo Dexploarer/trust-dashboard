@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-03-27T19:45:19.791Z",
+  "generatedAt": "2026-04-08T22:07:16.709Z",
   "source": "milady-ai/trust-dashboard",
   "username": "HashWarlock",
   "profile": {
@@ -11,7 +11,7 @@
     "eliza": {
       "lifetimeScore": 2052.725,
       "lifetimeRank": 14,
-      "lifetimePercentile": 0.99118,
+      "lifetimePercentile": 0.99152,
       "weeklyRank": null,
       "monthlyRank": null,
       "characterClass": "Builder",
@@ -33,21 +33,21 @@
             "score": 306,
             "percentage": 34.9474645957058,
             "rank": 17,
-            "totalInArea": 689
+            "totalInArea": 701
           },
           {
             "tag": "docs",
             "score": 121.5,
             "percentage": 13.876199177706717,
             "rank": 30,
-            "totalInArea": 581
+            "totalInArea": 593
           },
           {
             "tag": "infra",
             "score": 102.5999999999999,
             "percentage": 11.717679305618992,
-            "rank": 17,
-            "totalInArea": 375
+            "rank": 20,
+            "totalInArea": 382
           }
         ],
         "achievements": [
@@ -78,18 +78,18 @@
         }
       }
     },
-    "ecosystemFactor": 0.750154,
+    "ecosystemFactor": 0.75033,
     "elizaEffect": {
       "miladyNorm": 0,
-      "elizaLifetimePercentile": 0.99118,
-      "ecosystemNorm": 0.750154,
+      "elizaLifetimePercentile": 0.99152,
+      "ecosystemNorm": 0.75033,
       "weights": {
         "milady": 0.45,
         "eliza": 0.35,
         "ecosystem": 0.2
       },
-      "effectNorm": 0.496944,
-      "effectScore": 49.6944
+      "effectNorm": 0.497098,
+      "effectScore": 49.7098
     }
   }
 }

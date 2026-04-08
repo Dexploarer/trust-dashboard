@@ -1,25 +1,25 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-03-27T19:45:19.791Z",
+  "generatedAt": "2026-04-08T22:07:16.709Z",
   "source": "milady-ai/trust-dashboard",
   "username": "borisudovicic",
   "profile": {
     "username": "borisudovicic",
     "canonicalUsername": "borisudovicic",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/31806472?u=8935f4d43fd7e4eb9bf5ff92d54d4d2f8ac8a786&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/31806472?u=c0478c34097551ba98aaa71edb33af0885a72d69&v=4",
     "milady": null,
     "eliza": {
       "lifetimeScore": 994.74,
       "lifetimeRank": 18,
-      "lifetimePercentile": 0.988467,
+      "lifetimePercentile": 0.988911,
       "weeklyRank": null,
-      "monthlyRank": 9,
+      "monthlyRank": null,
       "characterClass": "Hunter",
       "tier": "veteran",
       "entry": {
         "rank": 18,
         "username": "borisudovicic",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/31806472?u=8935f4d43fd7e4eb9bf5ff92d54d4d2f8ac8a786&v=4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/31806472?u=c0478c34097551ba98aaa71edb33af0885a72d69&v=4",
         "characterClass": "Hunter",
         "tier": "veteran",
         "score": 994.74,
@@ -37,18 +37,18 @@
         "wallets": {}
       }
     },
-    "ecosystemFactor": 0.639695,
+    "ecosystemFactor": 0.639926,
     "elizaEffect": {
       "miladyNorm": 0,
-      "elizaLifetimePercentile": 0.988467,
-      "ecosystemNorm": 0.639695,
+      "elizaLifetimePercentile": 0.988911,
+      "ecosystemNorm": 0.639926,
       "weights": {
         "milady": 0.45,
         "eliza": 0.35,
         "ecosystem": 0.2
       },
-      "effectNorm": 0.473902,
-      "effectScore": 47.3902
+      "effectNorm": 0.474104,
+      "effectScore": 47.4104
     }
   }
 }

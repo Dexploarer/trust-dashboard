@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-03-27T19:45:19.791Z",
+  "generatedAt": "2026-04-08T22:07:16.709Z",
   "source": "milady-ai/trust-dashboard",
   "username": "gene-zhan",
   "profile": {
@@ -10,14 +10,14 @@
     "milady": null,
     "eliza": {
       "lifetimeScore": 235.5293,
-      "lifetimeRank": 66,
-      "lifetimePercentile": 0.955902,
+      "lifetimeRank": 67,
+      "lifetimePercentile": 0.956947,
       "weeklyRank": null,
       "monthlyRank": null,
       "characterClass": "Builder",
       "tier": "active",
       "entry": {
-        "rank": 66,
+        "rank": 67,
         "username": "gene-zhan",
         "avatarUrl": "https://avatars.githubusercontent.com/u/125658572?v=4",
         "characterClass": "Builder",
@@ -33,38 +33,38 @@
             "score": 78,
             "percentage": 43.30927262631871,
             "rank": 53,
-            "totalInArea": 689
+            "totalInArea": 701
           },
           {
             "tag": "core",
             "score": 25,
             "percentage": 13.881177123820102,
-            "rank": 92,
-            "totalInArea": 308
+            "rank": 93,
+            "totalInArea": 310
           },
           {
             "tag": "docs",
             "score": 24,
             "percentage": 13.325930038867295,
             "rank": 79,
-            "totalInArea": 581
+            "totalInArea": 593
           }
         ],
         "wallets": {}
       }
     },
-    "ecosystemFactor": 0.740591,
+    "ecosystemFactor": 0.741134,
     "elizaEffect": {
       "miladyNorm": 0,
-      "elizaLifetimePercentile": 0.955902,
-      "ecosystemNorm": 0.740591,
+      "elizaLifetimePercentile": 0.956947,
+      "ecosystemNorm": 0.741134,
       "weights": {
         "milady": 0.45,
         "eliza": 0.35,
         "ecosystem": 0.2
       },
-      "effectNorm": 0.482684,
-      "effectScore": 48.2684
+      "effectNorm": 0.483158,
+      "effectScore": 48.3158
     }
   }
 }

@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-03-27T19:45:19.791Z",
+  "generatedAt": "2026-04-08T22:07:16.709Z",
   "source": "milady-ai/trust-dashboard",
   "username": "harshal247",
   "profile": {
@@ -10,14 +10,14 @@
     "milady": null,
     "eliza": {
       "lifetimeScore": 179.5699,
-      "lifetimeRank": 96,
-      "lifetimePercentile": 0.93555,
+      "lifetimeRank": 98,
+      "lifetimePercentile": 0.936725,
       "weeklyRank": null,
       "monthlyRank": null,
       "characterClass": "Builder",
       "tier": "regular",
       "entry": {
-        "rank": 96,
+        "rank": 98,
         "username": "harshal247",
         "avatarUrl": "https://avatars.githubusercontent.com/u/42385720?u=2c9b491fde1fd6a11ac093d620ebedae1495541f&v=4",
         "characterClass": "Builder",
@@ -33,38 +33,38 @@
             "score": 50,
             "percentage": 56.05381165919282,
             "rank": 21,
-            "totalInArea": 181
+            "totalInArea": 186
           },
           {
             "tag": "typescript",
             "score": 21,
             "percentage": 23.542600896860986,
-            "rank": 208,
-            "totalInArea": 689
+            "rank": 211,
+            "totalInArea": 701
           },
           {
             "tag": "database",
             "score": 10.2,
             "percentage": 11.434977578475335,
             "rank": 47,
-            "totalInArea": 158
+            "totalInArea": 163
           }
         ],
         "wallets": {}
       }
     },
-    "ecosystemFactor": 0.732022,
+    "ecosystemFactor": 0.732633,
     "elizaEffect": {
       "miladyNorm": 0,
-      "elizaLifetimePercentile": 0.93555,
-      "ecosystemNorm": 0.732022,
+      "elizaLifetimePercentile": 0.936725,
+      "ecosystemNorm": 0.732633,
       "weights": {
         "milady": 0.45,
         "eliza": 0.35,
         "ecosystem": 0.2
       },
-      "effectNorm": 0.473847,
-      "effectScore": 47.3847
+      "effectNorm": 0.474381,
+      "effectScore": 47.4381
     }
   }
 }

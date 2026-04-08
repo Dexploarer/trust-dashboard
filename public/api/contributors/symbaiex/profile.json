@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-03-27T19:45:19.791Z",
+  "generatedAt": "2026-04-08T22:07:16.709Z",
   "source": "milady-ai/trust-dashboard",
   "username": "SYMBaiEX",
   "profile": {
@@ -8,14 +8,14 @@
     "canonicalUsername": "symbaiex",
     "avatarUrl": "https://avatars.githubusercontent.com/u/192078165?v=4",
     "milady": {
-      "trustScore": 28.2,
-      "rank": 50,
+      "trustScore": 29.35,
+      "rank": 45,
       "tier": "untested"
     },
     "eliza": {
       "lifetimeScore": 347.1546,
       "lifetimeRank": 49,
-      "lifetimePercentile": 0.967436,
+      "lifetimePercentile": 0.968689,
       "weeklyRank": null,
       "monthlyRank": null,
       "characterClass": "Scribe",
@@ -37,21 +37,21 @@
             "score": 295.5,
             "percentage": 54.52029520295204,
             "rank": 8,
-            "totalInArea": 581
+            "totalInArea": 593
           },
           {
             "tag": "typescript",
             "score": 75,
             "percentage": 13.837638376383769,
             "rank": 56,
-            "totalInArea": 689
+            "totalInArea": 701
           },
           {
             "tag": "tests",
             "score": 48,
             "percentage": 8.856088560885611,
             "rank": 23,
-            "totalInArea": 181
+            "totalInArea": 186
           }
         ],
         "achievements": [
@@ -72,18 +72,18 @@
         }
       }
     },
-    "ecosystemFactor": 0.740951,
+    "ecosystemFactor": 0.741603,
     "elizaEffect": {
-      "miladyNorm": 0.282,
-      "elizaLifetimePercentile": 0.967436,
-      "ecosystemNorm": 0.740951,
+      "miladyNorm": 0.2935,
+      "elizaLifetimePercentile": 0.968689,
+      "ecosystemNorm": 0.741603,
       "weights": {
         "milady": 0.45,
         "eliza": 0.35,
         "ecosystem": 0.2
       },
-      "effectNorm": 0.613693,
-      "effectScore": 61.3693
+      "effectNorm": 0.619437,
+      "effectScore": 61.9437
     }
   }
 }

@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-03-27T19:45:19.791Z",
+  "generatedAt": "2026-04-08T22:07:16.709Z",
   "source": "milady-ai/trust-dashboard",
   "username": "tcm390",
   "profile": {
@@ -11,7 +11,7 @@
     "eliza": {
       "lifetimeScore": 10577.2045,
       "lifetimeRank": 2,
-      "lifetimePercentile": 0.999322,
+      "lifetimePercentile": 0.999348,
       "weeklyRank": null,
       "monthlyRank": null,
       "characterClass": "Builder",
@@ -33,21 +33,21 @@
             "score": 1996.5,
             "percentage": 33.83496873252332,
             "rank": 7,
-            "totalInArea": 689
+            "totalInArea": 701
           },
           {
             "tag": "core",
             "score": 787.5,
             "percentage": 13.345874218313106,
             "rank": 7,
-            "totalInArea": 308
+            "totalInArea": 310
           },
           {
             "tag": "ui",
             "score": 764.9999999999959,
             "percentage": 12.964563526361234,
             "rank": 2,
-            "totalInArea": 67
+            "totalInArea": 69
           }
         ],
         "achievements": [
@@ -83,18 +83,18 @@
         }
       }
     },
-    "ecosystemFactor": 0.75776,
+    "ecosystemFactor": 0.757773,
     "elizaEffect": {
       "miladyNorm": 0,
-      "elizaLifetimePercentile": 0.999322,
-      "ecosystemNorm": 0.75776,
+      "elizaLifetimePercentile": 0.999348,
+      "ecosystemNorm": 0.757773,
       "weights": {
         "milady": 0.45,
         "eliza": 0.35,
         "ecosystem": 0.2
       },
-      "effectNorm": 0.501314,
-      "effectScore": 50.1314
+      "effectNorm": 0.501326,
+      "effectScore": 50.1326
     }
   }
 }

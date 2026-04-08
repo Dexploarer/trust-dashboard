@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-03-27T19:45:19.791Z",
+  "generatedAt": "2026-04-08T22:07:16.709Z",
   "source": "milady-ai/trust-dashboard",
   "username": "pgoos",
   "profile": {
@@ -10,14 +10,14 @@
     "milady": null,
     "eliza": {
       "lifetimeScore": 282.7699,
-      "lifetimeRank": 57,
-      "lifetimePercentile": 0.962008,
+      "lifetimeRank": 58,
+      "lifetimePercentile": 0.962818,
       "weeklyRank": null,
       "monthlyRank": null,
       "characterClass": "Scribe",
       "tier": "active",
       "entry": {
-        "rank": 57,
+        "rank": 58,
         "username": "pgoos",
         "avatarUrl": "https://avatars.githubusercontent.com/u/4013866?u=54b369479a24f434f266478f54822fef84532e31&v=4",
         "characterClass": "Scribe",
@@ -33,21 +33,21 @@
             "score": 84,
             "percentage": 48.19277108433735,
             "rank": 41,
-            "totalInArea": 581
+            "totalInArea": 593
           },
           {
             "tag": "infra",
             "score": 25.200000000000006,
             "percentage": 14.45783132530121,
-            "rank": 48,
-            "totalInArea": 375
+            "rank": 51,
+            "totalInArea": 382
           },
           {
             "tag": "core",
             "score": 20,
             "percentage": 11.474469305794608,
-            "rank": 109,
-            "totalInArea": 308
+            "rank": 110,
+            "totalInArea": 310
           }
         ],
         "achievements": [
@@ -60,18 +60,18 @@
         "wallets": {}
       }
     },
-    "ecosystemFactor": 0.718827,
+    "ecosystemFactor": 0.719248,
     "elizaEffect": {
       "miladyNorm": 0,
-      "elizaLifetimePercentile": 0.962008,
-      "ecosystemNorm": 0.718827,
+      "elizaLifetimePercentile": 0.962818,
+      "ecosystemNorm": 0.719248,
       "weights": {
         "milady": 0.45,
         "eliza": 0.35,
         "ecosystem": 0.2
       },
-      "effectNorm": 0.480468,
-      "effectScore": 48.0468
+      "effectNorm": 0.480836,
+      "effectScore": 48.0836
     }
   }
 }

@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-03-27T19:45:19.791Z",
+  "generatedAt": "2026-04-08T22:07:16.709Z",
   "source": "milady-ai/trust-dashboard",
   "username": "alex-nax",
   "profile": {
@@ -10,14 +10,14 @@
     "milady": null,
     "eliza": {
       "lifetimeScore": 222.0637,
-      "lifetimeRank": 75,
-      "lifetimePercentile": 0.949796,
+      "lifetimeRank": 76,
+      "lifetimePercentile": 0.951076,
       "weeklyRank": null,
       "monthlyRank": null,
       "characterClass": "Builder",
       "tier": "active",
       "entry": {
-        "rank": 75,
+        "rank": 76,
         "username": "alex-nax",
         "avatarUrl": "https://avatars.githubusercontent.com/u/82507604?u=b3af75d82f80ed83007a77c351a64bdd9e5d67de&v=4",
         "characterClass": "Builder",
@@ -33,21 +33,21 @@
             "score": 374.4000000000014,
             "percentage": 65.92709984152147,
             "rank": 4,
-            "totalInArea": 375
+            "totalInArea": 382
           },
           {
             "tag": "docs",
             "score": 60,
             "percentage": 10.565240359218144,
             "rank": 54,
-            "totalInArea": 581
+            "totalInArea": 593
           },
           {
             "tag": "core",
             "score": 40,
             "percentage": 7.043493572812095,
             "rank": 53,
-            "totalInArea": 308
+            "totalInArea": 310
           }
         ],
         "achievements": [
@@ -60,18 +60,18 @@
         "wallets": {}
       }
     },
-    "ecosystemFactor": 0.739176,
+    "ecosystemFactor": 0.739842,
     "elizaEffect": {
       "miladyNorm": 0,
-      "elizaLifetimePercentile": 0.949796,
-      "ecosystemNorm": 0.739176,
+      "elizaLifetimePercentile": 0.951076,
+      "ecosystemNorm": 0.739842,
       "weights": {
         "milady": 0.45,
         "eliza": 0.35,
         "ecosystem": 0.2
       },
-      "effectNorm": 0.480264,
-      "effectScore": 48.0264
+      "effectNorm": 0.480845,
+      "effectScore": 48.0845
     }
   }
 }

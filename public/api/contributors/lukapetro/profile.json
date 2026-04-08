@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-03-27T19:45:19.791Z",
+  "generatedAt": "2026-04-08T22:07:16.709Z",
   "source": "milady-ai/trust-dashboard",
   "username": "Lukapetro",
   "profile": {
@@ -10,14 +10,14 @@
     "milady": null,
     "eliza": {
       "lifetimeScore": 324.8316,
-      "lifetimeRank": 50,
-      "lifetimePercentile": 0.966757,
+      "lifetimeRank": 51,
+      "lifetimePercentile": 0.967384,
       "weeklyRank": null,
       "monthlyRank": null,
       "characterClass": "Builder",
       "tier": "active",
       "entry": {
-        "rank": 50,
+        "rank": 51,
         "username": "Lukapetro",
         "avatarUrl": "https://avatars.githubusercontent.com/u/14802278?u=d4714a088b53cf9f4cabf45593508444589459bc&v=4",
         "characterClass": "Builder",
@@ -33,21 +33,21 @@
             "score": 120,
             "percentage": 68.29823562891293,
             "rank": 34,
-            "totalInArea": 689
+            "totalInArea": 701
           },
           {
             "tag": "docs",
             "score": 21,
             "percentage": 11.952191235059761,
             "rank": 83,
-            "totalInArea": 581
+            "totalInArea": 593
           },
           {
             "tag": "infra",
             "score": 9,
             "percentage": 5.122367672168469,
-            "rank": 72,
-            "totalInArea": 375
+            "rank": 76,
+            "totalInArea": 382
           }
         ],
         "achievements": [
@@ -60,18 +60,18 @@
         "wallets": {}
       }
     },
-    "ecosystemFactor": 0.745551,
+    "ecosystemFactor": 0.745878,
     "elizaEffect": {
       "miladyNorm": 0,
-      "elizaLifetimePercentile": 0.966757,
-      "ecosystemNorm": 0.745551,
+      "elizaLifetimePercentile": 0.967384,
+      "ecosystemNorm": 0.745878,
       "weights": {
         "milady": 0.45,
         "eliza": 0.35,
         "ecosystem": 0.2
       },
-      "effectNorm": 0.487475,
-      "effectScore": 48.7475
+      "effectNorm": 0.48776,
+      "effectScore": 48.776
     }
   }
 }

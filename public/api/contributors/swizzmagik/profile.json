@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-03-27T19:45:19.791Z",
+  "generatedAt": "2026-04-08T22:07:16.709Z",
   "source": "milady-ai/trust-dashboard",
   "username": "swizzmagik",
   "profile": {
@@ -10,14 +10,14 @@
     "milady": null,
     "eliza": {
       "lifetimeScore": 201.7779,
-      "lifetimeRank": 82,
-      "lifetimePercentile": 0.945047,
+      "lifetimeRank": 83,
+      "lifetimePercentile": 0.94651,
       "weeklyRank": null,
       "monthlyRank": null,
       "characterClass": "Builder",
       "tier": "active",
       "entry": {
-        "rank": 82,
+        "rank": 83,
         "username": "swizzmagik",
         "avatarUrl": "https://avatars.githubusercontent.com/u/3955528?v=4",
         "characterClass": "Builder",
@@ -32,22 +32,22 @@
             "tag": "typescript",
             "score": 45,
             "percentage": 47.821466524973424,
-            "rank": 100,
-            "totalInArea": 689
+            "rank": 101,
+            "totalInArea": 701
           },
           {
             "tag": "api",
             "score": 12.799999999999999,
             "percentage": 13.602550478214662,
             "rank": 38,
-            "totalInArea": 194
+            "totalInArea": 198
           },
           {
             "tag": "architect",
             "score": 7.5,
             "percentage": 7.970244420828905,
-            "rank": 62,
-            "totalInArea": 353
+            "rank": 65,
+            "totalInArea": 366
           }
         ],
         "achievements": [
@@ -60,18 +60,18 @@
         "wallets": {}
       }
     },
-    "ecosystemFactor": 0.726728,
+    "ecosystemFactor": 0.727488,
     "elizaEffect": {
       "miladyNorm": 0,
-      "elizaLifetimePercentile": 0.945047,
-      "ecosystemNorm": 0.726728,
+      "elizaLifetimePercentile": 0.94651,
+      "ecosystemNorm": 0.727488,
       "weights": {
         "milady": 0.45,
         "eliza": 0.35,
         "ecosystem": 0.2
       },
-      "effectNorm": 0.476112,
-      "effectScore": 47.6112
+      "effectNorm": 0.476776,
+      "effectScore": 47.6776
     }
   }
 }

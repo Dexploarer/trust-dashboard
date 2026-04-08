@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-03-27T19:45:19.791Z",
+  "generatedAt": "2026-04-08T22:07:16.709Z",
   "source": "milady-ai/trust-dashboard",
   "username": "shakkernerd",
   "profile": {
@@ -11,7 +11,7 @@
     "eliza": {
       "lifetimeScore": 3817.4773,
       "lifetimeRank": 10,
-      "lifetimePercentile": 0.993894,
+      "lifetimePercentile": 0.994129,
       "weeklyRank": null,
       "monthlyRank": null,
       "characterClass": "Maintainer",
@@ -33,21 +33,21 @@
             "score": 265.5,
             "percentage": 22.616917965755178,
             "rank": 19,
-            "totalInArea": 689
+            "totalInArea": 701
           },
           {
             "tag": "core",
             "score": 227.5,
             "percentage": 19.379844961240313,
             "rank": 13,
-            "totalInArea": 308
+            "totalInArea": 310
           },
           {
             "tag": "maintainer",
             "score": 178,
             "percentage": 15.16313144220121,
             "rank": 7,
-            "totalInArea": 290
+            "totalInArea": 295
           }
         ],
         "achievements": [
@@ -78,18 +78,18 @@
         }
       }
     },
-    "ecosystemFactor": 0.735895,
+    "ecosystemFactor": 0.736017,
     "elizaEffect": {
       "miladyNorm": 0,
-      "elizaLifetimePercentile": 0.993894,
-      "ecosystemNorm": 0.735895,
+      "elizaLifetimePercentile": 0.994129,
+      "ecosystemNorm": 0.736017,
       "weights": {
         "milady": 0.45,
         "eliza": 0.35,
         "ecosystem": 0.2
       },
-      "effectNorm": 0.495042,
-      "effectScore": 49.5042
+      "effectNorm": 0.495149,
+      "effectScore": 49.5149
     }
   }
 }

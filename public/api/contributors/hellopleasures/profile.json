@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-03-27T19:45:19.791Z",
+  "generatedAt": "2026-04-08T22:07:16.709Z",
   "source": "milady-ai/trust-dashboard",
   "username": "hellopleasures",
   "profile": {
@@ -9,19 +9,19 @@
     "avatarUrl": "https://avatars.githubusercontent.com/u/99759672?v=4",
     "milady": {
       "trustScore": 0,
-      "rank": 56,
+      "rank": 53,
       "tier": "restricted"
     },
     "eliza": {
       "lifetimeScore": 193.9551,
-      "lifetimeRank": 87,
-      "lifetimePercentile": 0.941655,
+      "lifetimeRank": 88,
+      "lifetimePercentile": 0.943249,
       "weeklyRank": null,
       "monthlyRank": null,
       "characterClass": "Builder",
       "tier": "regular",
       "entry": {
-        "rank": 87,
+        "rank": 88,
         "username": "hellopleasures",
         "avatarUrl": "https://avatars.githubusercontent.com/u/99759672?u=b6a108e2d997342768a4a75dde071f0586527e8d&v=4",
         "characterClass": "Builder",
@@ -37,38 +37,38 @@
             "score": 69,
             "percentage": 62.841530054644814,
             "rank": 63,
-            "totalInArea": 689
+            "totalInArea": 701
           },
           {
             "tag": "core",
             "score": 15,
             "percentage": 13.661202185792352,
-            "rank": 140,
-            "totalInArea": 308
+            "rank": 141,
+            "totalInArea": 310
           },
           {
             "tag": "infra",
             "score": 10.8,
             "percentage": 9.836065573770494,
-            "rank": 67,
-            "totalInArea": 375
+            "rank": 71,
+            "totalInArea": 382
           }
         ],
         "wallets": {}
       }
     },
-    "ecosystemFactor": 0.730477,
+    "ecosystemFactor": 0.731305,
     "elizaEffect": {
       "miladyNorm": 0,
-      "elizaLifetimePercentile": 0.941655,
-      "ecosystemNorm": 0.730477,
+      "elizaLifetimePercentile": 0.943249,
+      "ecosystemNorm": 0.731305,
       "weights": {
         "milady": 0.45,
         "eliza": 0.35,
         "ecosystem": 0.2
       },
-      "effectNorm": 0.475675,
-      "effectScore": 47.5675
+      "effectNorm": 0.476398,
+      "effectScore": 47.6398
     }
   }
 }

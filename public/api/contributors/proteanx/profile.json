@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-03-27T19:45:19.791Z",
+  "generatedAt": "2026-04-08T22:07:16.709Z",
   "source": "milady-ai/trust-dashboard",
   "username": "proteanx",
   "profile": {
@@ -11,7 +11,7 @@
     "eliza": {
       "lifetimeScore": 405.7612,
       "lifetimeRank": 40,
-      "lifetimePercentile": 0.973541,
+      "lifetimePercentile": 0.97456,
       "weeklyRank": null,
       "monthlyRank": null,
       "characterClass": "Builder",
@@ -33,21 +33,21 @@
             "score": 54,
             "percentage": 26.405867970660147,
             "rank": 59,
-            "totalInArea": 581
+            "totalInArea": 593
           },
           {
             "tag": "core",
             "score": 50,
             "percentage": 24.449877750611247,
             "rank": 42,
-            "totalInArea": 308
+            "totalInArea": 310
           },
           {
             "tag": "typescript",
             "score": 45,
             "percentage": 22.00488997555012,
-            "rank": 99,
-            "totalInArea": 689
+            "rank": 100,
+            "totalInArea": 701
           }
         ],
         "achievements": [
@@ -60,18 +60,18 @@
         "wallets": {}
       }
     },
-    "ecosystemFactor": 0.746339,
+    "ecosystemFactor": 0.746869,
     "elizaEffect": {
       "miladyNorm": 0,
-      "elizaLifetimePercentile": 0.973541,
-      "ecosystemNorm": 0.746339,
+      "elizaLifetimePercentile": 0.97456,
+      "ecosystemNorm": 0.746869,
       "weights": {
         "milady": 0.45,
         "eliza": 0.35,
         "ecosystem": 0.2
       },
-      "effectNorm": 0.490007,
-      "effectScore": 49.0007
+      "effectNorm": 0.49047,
+      "effectScore": 49.047
     }
   }
 }
